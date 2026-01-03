@@ -36,11 +36,11 @@
         </h3>
         <ul class="space-y-2">
           {{- range .Site.Home.AlternativeOutputFormats -}}
-            {{- if eq .Name "RSS" -}}
+            {{- if eq .Name "rss" -}}
           <li>
             <a href="{{ .Permalink }}" class="text-gray-600 dark:text-gray-400 hover:text-primary transition-colors flex items-center">
               <i class="fas fa-rss mr-2"></i>
-              RSS ({{ $.Language.LanguageName }})
+              RSS
             </a>
           </li>
             {{- end -}}

@@ -4,10 +4,6 @@ date: 2026-01-03
 description: What I'm up to right now
 ---
 
-# What I'm Doing Now
-
-*Last updated: January 3, 2026*
-
 ## Current Location
 
 Currently based in [Your Location], planning the next adventure.

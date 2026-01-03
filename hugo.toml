@@ -5,11 +5,6 @@ defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 enableGitInfo = true
 
-# [permalinks]
-#   posts = '/:section/:title/'
-#   guides = '/:section/:title/'
-#   galleries = '/:section/:title/'
-
 [params]
   description = 'Travel adventures and guides'
   author = 'MadeYourDay.Life'
