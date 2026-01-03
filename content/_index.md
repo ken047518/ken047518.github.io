@@ -1,6 +1,6 @@
 ---
 title: MadeYourDay.Life
-hero_image: hero.jpg
+hero_image: hero3.jpeg
 bio_image: bio.jpg
 tagline: Travel the world, one adventure at a time
 ---
