@@ -42,6 +42,22 @@ enableGitInfo = true
       name = 'Galleries'
       url = '/galleries/'
       weight = 5
+    [[languages.en.menu.footer]]
+      name = 'About'
+      url = '/about/'
+      weight = 1
+    [[languages.en.menu.footer]]
+      name = 'Services'
+      url = '/services/'
+      weight = 2
+    [[languages.en.menu.footer]]
+      name = 'Now'
+      url = '/now/'
+      weight = 3
+    [[languages.en.menu.footer]]
+      name = 'Links'
+      url = '/links/'
+      weight = 4
 
   [languages.tw]
     languageCode = 'zh-TW'
@@ -71,6 +87,22 @@ enableGitInfo = true
       name = '相簿'
       url = '/tw/galleries/'
       weight = 5
+    [[languages.tw.menu.footer]]
+      name = '關於'
+      url = '/tw/about/'
+      weight = 1
+    [[languages.tw.menu.footer]]
+      name = '服務項目'
+      url = '/tw/services/'
+      weight = 2
+    [[languages.tw.menu.footer]]
+      name = '近況'
+      url = '/tw/now/'
+      weight = 3
+    [[languages.tw.menu.footer]]
+      name = '連結'
+      url = '/tw/links/'
+      weight = 4
 
 [outputs]
   home = ['HTML', 'RSS']

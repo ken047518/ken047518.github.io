@@ -19,18 +19,13 @@
           {{ if eq .Language.Lang "zh-tw" }}快速連結{{ else }}Quick Links{{ end }}
         </h3>
         <ul class="space-y-2">
-          <li><a href="{{ "about" | relLangURL }}" class="text-gray-600 dark:text-gray-400 hover:text-primary transition-colors">
-            {{ if eq .Language.Lang "zh-tw" }}關於{{ else }}About{{ end }}
-          </a></li>
-          <li><a href="{{ "services" | relLangURL }}" class="text-gray-600 dark:text-gray-400 hover:text-primary transition-colors">
-            {{ if eq .Language.Lang "zh-tw" }}服務項目{{ else }}Services{{ end }}
-          </a></li>
-          <li><a href="{{ "now" | relLangURL }}" class="text-gray-600 dark:text-gray-400 hover:text-primary transition-colors">
-            {{ if eq .Language.Lang "zh-tw" }}近況{{ else }}Now{{ end }}
-          </a></li>
-          <li><a href="{{ "links" | relLangURL }}" class="text-gray-600 dark:text-gray-400 hover:text-primary transition-colors">
-            {{ if eq .Language.Lang "zh-tw" }}連結{{ else }}Links{{ end }}
-          </a></li>
+          {{- range .Site.Menus.footer -}}
+          <li>
+            <a href="{{ .URL }}" class="text-gray-600 dark:text-gray-400 hover:text-primary transition-colors">
+              {{ .Name }}
+            </a>
+          </li>
+          {{- end -}}
         </ul>
       </div>
 
