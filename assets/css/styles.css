@@ -1,0 +1,54 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --color-primary: #2563eb;
+    --color-primary-dark: #1d4ed8;
+    --color-secondary: #64748b;
+    --color-secondary-dark: #475569;
+    --color-accent: #f59e0b;
+    --color-accent-dark: #d97706;
+  }
+
+  html {
+    scroll-behavior: smooth;
+  }
+}
+
+@layer components {
+  .nav-link {
+    @apply text-gray-700 dark:text-gray-300;
+  }
+
+  /* Prose customizations for dark mode */
+  .prose-invert {
+    @apply text-gray-100;
+  }
+
+  .prose-invert h1,
+  .prose-invert h2,
+  .prose-invert h3,
+  .prose-invert h4,
+  .prose-invert h5,
+  .prose-invert h6 {
+    @apply text-gray-100;
+  }
+
+  .prose-invert a {
+    @apply text-blue-400;
+  }
+
+  .prose-invert strong {
+    @apply text-gray-100;
+  }
+
+  .prose-invert code {
+    @apply text-gray-100 bg-gray-800;
+  }
+
+  .prose-invert pre {
+    @apply bg-gray-800;
+  }
+}

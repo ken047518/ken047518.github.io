@@ -1,0 +1,33 @@
+{{- $image := .Page.Resources.Get .Destination -}}
+{{- if $image -}}
+  {{- $alt := .Text | default .Page.Title -}}
+  {{- $caption := .Title -}}
+  
+  {{- /* Determine size based on context */ -}}
+  {{- $sizes := "960x,1440x,1920x" -}}
+  {{- $class := "w-full h-auto" -}}
+  
+  {{- /* Generate responsive images */ -}}
+  {{- $img_sm := $image.Resize "960x" -}}
+  {{- $img_md := $image.Resize "1440x" -}}
+  {{- $img_lg := $image.Resize "1920x" -}}
+  
+  <figure class="my-8">
+    <img 
+      src="{{ $img_md.Permalink }}"
+      srcset="{{ $img_sm.Permalink }} 960w, {{ $img_md.Permalink }} 1440w, {{ $img_lg.Permalink }} 1920w"
+      sizes="(max-width: 768px) 100vw, (max-width: 1280px) 90vw, 1280px"
+      alt="{{ $alt }}"
+      loading="lazy"
+      class="{{ $class }} rounded-lg"
+    >
+    {{- with $caption -}}
+    <figcaption class="text-center text-sm text-gray-600 dark:text-gray-400 mt-2">
+      {{ . }}
+    </figcaption>
+    {{- end -}}
+  </figure>
+{{- else -}}
+  {{- /* Fallback for external images */ -}}
+  <img src="{{ .Destination }}" alt="{{ .Text }}" loading="lazy" class="w-full h-auto rounded-lg">
+{{- end -}}

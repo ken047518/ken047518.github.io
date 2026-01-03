@@ -1,0 +1,31 @@
+<div class="container mx-auto px-4">
+  <div class="max-w-4xl mx-auto text-center">
+    <h2 class="font-heading text-3xl md:text-4xl font-bold mb-6">
+      {{ if eq .Page.Language.Lang "zh-tw" }}
+        我們的服務
+      {{ else }}
+        Our Services
+      {{ end }}
+    </h2>
+    
+    <p class="text-xl text-gray-600 dark:text-gray-400 mb-8">
+      {{ if eq .Page.Language.Lang "zh-tw" }}
+        讓我們協助您規劃完美的旅程
+      {{ else }}
+        Let us help you plan the perfect journey
+      {{ end }}
+    </p>
+    
+    <a 
+      href="{{ "services" | relLangURL }}"
+      class="inline-block bg-primary hover:bg-primary-dark text-white font-bold py-3 px-8 rounded-lg transition-colors"
+    >
+      {{ if eq .Page.Language.Lang "zh-tw" }}
+        查看服務項目
+      {{ else }}
+        View Services
+      {{ end }}
+      <i class="fas fa-arrow-right ml-2"></i>
+    </a>
+  </div>
+</div>

@@ -1,0 +1,99 @@
+{{ define "main" }}
+
+<article class="container mx-auto px-4 py-12 max-w-4xl">
+  {{- /* Hero Image */ -}}
+  {{- with .Params.image -}}
+    {{- $image := $.Resources.Get . -}}
+    {{- if $image -}}
+      {{- $hero_sm := $image.Resize "960x" -}}
+      {{- $hero_md := $image.Resize "1440x" -}}
+      {{- $hero_lg := $image.Resize "1920x" -}}
+  <div class="mb-8 rounded-lg overflow-hidden">
+    <img 
+      src="{{ $hero_md.Permalink }}"
+      srcset="{{ $hero_sm.Permalink }} 960w, {{ $hero_md.Permalink }} 1440w, {{ $hero_lg.Permalink }} 1920w"
+      sizes="(max-width: 1280px) 100vw, 1280px"
+      alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
+      class="w-full h-auto"
+    >
+  </div>
+    {{- end -}}
+  {{- end -}}
+
+  {{- /* Header */ -}}
+  <header class="mb-8">
+    <h1 class="font-heading text-4xl md:text-5xl font-bold mb-4">
+      {{ .Title }}
+    </h1>
+    
+    <div class="flex flex-wrap gap-4 text-gray-600 dark:text-gray-400">
+      {{- if .Params.location -}}
+      <span>
+        <i class="fas fa-map-marker-alt mr-1"></i>{{ .Params.location }}
+      </span>
+      {{- end -}}
+      
+      <span>
+        <i class="fas fa-calendar mr-1"></i>
+        <time datetime="{{ .Date.Format "2006-01-02" }}">
+          {{ .Date.Format "January 2, 2006" }}
+        </time>
+      </span>
+      
+      {{- if .Params.modified -}}
+      <span>
+        <i class="fas fa-edit mr-1"></i>
+        {{ $.Site.Language.Lang | eq "zh-tw" | cond "更新" "Updated" }}:
+        <time datetime="{{ .Params.modified }}">{{ .Params.modified }}</time>
+      </span>
+      {{- end -}}
+    </div>
+    
+    {{- /* Tags */ -}}
+    {{- with .Params.tags -}}
+    <div class="mt-4 flex flex-wrap gap-2">
+      {{- range . -}}
+      <span class="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm">
+        #{{ . }}
+      </span>
+      {{- end -}}
+    </div>
+    {{- end -}}
+  </header>
+
+  {{- /* Content */ -}}
+  <div class="prose prose-lg dark:prose-invert max-w-none">
+    {{ .Content }}
+  </div>
+
+  {{- /* Categories */ -}}
+  {{- with .Params.categories -}}
+  <div class="mt-8 pt-8 border-t border-gray-300 dark:border-gray-700">
+    <span class="text-gray-600 dark:text-gray-400">
+      {{ $.Site.Language.Lang | eq "zh-tw" | cond "分類" "Categories" }}:
+    </span>
+    {{- range . -}}
+    <span class="ml-2">{{ . }}</span>
+    {{- end -}}
+  </div>
+  {{- end -}}
+
+  {{- /* Navigation */ -}}
+  <nav class="mt-12 pt-8 border-t border-gray-300 dark:border-gray-700 flex justify-between">
+    {{- with .PrevInSection -}}
+    <a href="{{ .Permalink }}" class="text-primary hover:underline">
+      <i class="fas fa-arrow-left mr-2"></i>{{ .Title }}
+    </a>
+    {{- else -}}
+    <span></span>
+    {{- end -}}
+    
+    {{- with .NextInSection -}}
+    <a href="{{ .Permalink }}" class="text-primary hover:underline">
+      {{ .Title }}<i class="fas fa-arrow-right ml-2"></i>
+    </a>
+    {{- end -}}
+  </nav>
+</article>
+
+{{ end }}

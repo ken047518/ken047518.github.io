@@ -1,0 +1,94 @@
+<nav id="navbar" class="fixed top-0 left-0 right-0 z-50 transition-all duration-300">
+  <div class="container mx-auto px-4">
+    <div class="flex justify-between items-center h-16">
+      {{- /* Logo */ -}}
+      <div class="flex-shrink-0">
+        <a href="{{ "/" | relLangURL }}" class="text-xl font-heading font-bold text-primary">
+          MadeYourDay.Life
+        </a>
+      </div>
+
+      {{- /* Desktop Menu */ -}}
+      <div class="hidden md:flex items-center space-x-6">
+        <a href="{{ "about" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
+          {{ if eq .Language.Lang "zh-tw" }}關於{{ else }}About{{ end }}
+        </a>
+        <a href="{{ "services" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
+          {{ if eq .Language.Lang "zh-tw" }}服務項目{{ else }}Services{{ end }}
+        </a>
+        <a href="{{ "guides" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
+          {{ if eq .Language.Lang "zh-tw" }}旅遊攻略{{ else }}Guides{{ end }}
+        </a>
+        <a href="{{ "posts" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
+          {{ if eq .Language.Lang "zh-tw" }}文章{{ else }}Posts{{ end }}
+        </a>
+        <a href="{{ "galleries" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
+          {{ if eq .Language.Lang "zh-tw" }}相簿{{ else }}Galleries{{ end }}
+        </a>
+        
+        {{- /* Language Switcher */ -}}
+        {{- if .IsTranslated -}}
+          {{- range .Translations -}}
+        <a href="{{ .Permalink }}" class="nav-link hover:text-primary transition-colors">
+          {{ .Language.LanguageName }}
+        </a>
+          {{- end -}}
+        {{- end -}}
+        
+        {{- /* Dark Mode Toggle */ -}}
+        <button id="theme-toggle" class="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors" aria-label="Toggle theme">
+          <i class="fas fa-moon dark:hidden"></i>
+          <i class="fas fa-sun hidden dark:inline"></i>
+        </button>
+      </div>
+
+      {{- /* Mobile Menu Button */ -}}
+      <div class="md:hidden">
+        <button id="mobile-menu-button" class="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors" aria-label="Toggle menu">
+          <i class="fas fa-bars text-xl"></i>
+        </button>
+      </div>
+    </div>
+  </div>
+</nav>
+
+{{- /* Mobile Menu Overlay */ -}}
+<div id="mobile-menu" class="hidden fixed inset-0 z-40 bg-white dark:bg-gray-900 md:hidden">
+  <div class="flex flex-col items-center justify-center h-full space-y-8 text-2xl">
+    <button id="mobile-menu-close" class="absolute top-6 right-6 p-2" aria-label="Close menu">
+      <i class="fas fa-times text-3xl"></i>
+    </button>
+    
+    <a href="{{ "about" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
+      {{ if eq .Language.Lang "zh-tw" }}關於{{ else }}About{{ end }}
+    </a>
+    <a href="{{ "services" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
+      {{ if eq .Language.Lang "zh-tw" }}服務項目{{ else }}Services{{ end }}
+    </a>
+    <a href="{{ "guides" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
+      {{ if eq .Language.Lang "zh-tw" }}旅遊攻略{{ else }}Guides{{ end }}
+    </a>
+    <a href="{{ "posts" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
+      {{ if eq .Language.Lang "zh-tw" }}文章{{ else }}Posts{{ end }}
+    </a>
+    <a href="{{ "galleries" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
+      {{ if eq .Language.Lang "zh-tw" }}相簿{{ else }}Galleries{{ end }}
+    </a>
+    
+    {{- if .IsTranslated -}}
+      {{- range .Translations -}}
+    <a href="{{ .Permalink }}" class="nav-link hover:text-primary transition-colors">
+      {{ .Language.LanguageName }}
+    </a>
+      {{- end -}}
+    {{- end -}}
+    
+    <button id="theme-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors" aria-label="Toggle theme">
+      <i class="fas fa-moon dark:hidden"></i>
+      <i class="fas fa-sun hidden dark:inline"></i>
+    </button>
+  </div>
+</div>
+
+{{- /* Add spacing for fixed navbar */ -}}
+<div class="h-16"></div>

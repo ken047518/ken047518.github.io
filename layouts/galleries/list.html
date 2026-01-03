@@ -1,0 +1,60 @@
+{{ define "main" }}
+
+<div class="container mx-auto px-4 py-12">
+  <header class="text-center mb-12">
+    <h1 class="font-heading text-4xl md:text-5xl font-bold mb-4">
+      {{ .Title }}
+    </h1>
+    {{- with .Description -}}
+    <p class="text-xl text-gray-600 dark:text-gray-400">{{ . }}</p>
+    {{- end -}}
+  </header>
+
+  {{- $galleries := .Pages -}}
+  {{- if $galleries -}}
+  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+    {{- range $galleries -}}
+    <article class="group relative">
+      <a href="{{ .Permalink }}" class="block">
+        {{- with .Params.image -}}
+          {{- $image := $.Resources.Get . -}}
+          {{- if $image -}}
+            {{- $thumb := $image.Fill "480x480 Center" -}}
+            {{- $thumb2x := $image.Fill "960x960 Center" -}}
+        <div class="aspect-square overflow-hidden rounded-lg">
+          <img 
+            src="{{ $thumb.Permalink }}" 
+            srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
+            alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
+            loading="lazy"
+            class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+          >
+        </div>
+          {{- end -}}
+        {{- end -}}
+        
+        {{- /* Hover overlay */ -}}
+        <div class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-50 transition-opacity rounded-lg flex items-center justify-center">
+          <div class="opacity-0 group-hover:opacity-100 transition-opacity text-white text-center p-4">
+            <h3 class="font-heading font-bold text-xl mb-2">
+              {{ .Title }}
+            </h3>
+            <p class="text-sm">
+              <time datetime="{{ .Date.Format "2006-01-02" }}">
+                {{ .Date.Format "January 2, 2006" }}
+              </time>
+            </p>
+          </div>
+        </div>
+      </a>
+    </article>
+    {{- end -}}
+  </div>
+  {{- else -}}
+  <p class="text-center text-gray-600 dark:text-gray-400">
+    {{ if eq .Language.Lang "zh-tw" }}目前沒有相簿{{ else }}No galleries yet{{ end }}
+  </p>
+  {{- end -}}
+</div>
+
+{{ end }}

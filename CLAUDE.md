@@ -15,9 +15,11 @@
 - 預設語言: en-US
 - 第二語言: zh-TW，路徑為 /tw/
 - 所有頁面採用 Leaf Bundle，將不同語言置於同一資料夾下的 index.md 與 index.tw.md
+- URL 使用 bundle title，兩語系共用同樣名稱
 - 使用 hugo languages 設定，defaultContentLanguageInSubdir=false
 - 缺翻譯時就不在列表中顯示，不需要 fallback
 - 每頁需輸出 rel="alternate" hreflang="en-us" / zh-tw 的互指。
+  - 只在兩語系皆存在該內容時，輸出對應 hreflang alternate；缺語系則省略該 hreflang。
 - canonical 以各語系自身 URL 為主，避免 SEO 重複內容。
 - 內容欄位各語系獨立（title/description/location）
 
@@ -29,17 +31,67 @@
 - images: list of strings (relative path in current dir)
 
 Common properties:
-- title
-- date
-- modified
-- image
-- tags
-- categories
-- 
+- title: required
+- date: required
+- modified: optional, fallback to date
+- image: required
+- description: required
+  - explain the content, used by SEO / OpenGraph
+  - max to 160 characters
+- summary: optional, fallback to auto summary
+  - used by list pages
+- tags: optional
+- categories: optional
+
+Use YAML for all frontmatter (for compatibility in Obsidian)
+
+## Layouts
+
+- index.html
+- default/list.html
+- default/single.html
+- posts/list.html
+- posts/detail.html
+- guides/list.html
+- guides/detail.html
+- galleries/list.html
+- galleries/detail.html
+
+### Partials
+
+- header.html
+- footer.html
+- navbar.html
+- grid-card.html
+- list-card.html
+
+## Shortcodes
+
+- signup.html
+  - Let user sign up for newsletter
+  - Display in the current language
+- services.html
+  - A short punchline to the service and a button to the service page
+  - Display in the current language
+
+### Themes
+
+Use variables for
+- colors  
+  - primary
+  - secondary
+  - accent
+- fonts
+  - heading
+  - body
+  
+Support light/dark mode switching
 
 ## 網站架構
 
 ### Navbar
+
+電腦版
 
 靠左：
 - Logo
@@ -50,6 +102,18 @@ Common properties:
 - Guides / 旅遊攻略
 - Posts / 文章
 - Galleries / 相簿
+- Language switcher (show the other language only)
+
+手機版：
+
+- hamburger menu
+
+#### 捲動行為
+
+- Navbar sticky top
+- At top of page: background transparent
+- After scrolling 24px: background becomes blurred/solid, with shadow
+- Mobile: hamburger opens full-screen overlay
 
 ### / 首頁
 
@@ -164,8 +228,7 @@ layout: links/single.html
 
 在 frontmatter 設定連結列表：
 
-```
----
+```yaml
 links:
   - title: YouTube
     url: https://www.youtube.com/channel/UCw8Z6Z6Z6Z6Z6Z6Z6Z6Z6Z6
@@ -173,5 +236,30 @@ links:
   - title: Instagram
     url: https://www.instagram.com/madeyourday.life/
     icon: fa-brands fa-instagram
----
 ```
+
+## SEO / Social / Sitemap / RSS
+
+- 每頁的 <title> 組合規則: `{{ .Title }} | MadeYourDay.Life`
+- meta description：來自 summary
+- Open Graph / Twitter card：og:image 使用 frontmatter 的 image
+- 生成 sitemap、robots.txt
+- RSS：提供全站 RSS，依語言區分，連結至於 footer
+
+## 圖片規格
+
+- 卡片圖片裁切策略
+  - posts list 4:3：crop/cover，裁切焦點預設 center，可用 image_anchor 覆蓋（optional）
+- 輸出尺寸（至少規定 2-3 段）
+  - card: 480 / 960
+  - hero: 960 / 1440 / 1920
+- lazy loading 規則
+  - 首屏 hero 不 lazy
+  - list 卡片 lazy
+  - gallery grid lazy
+- alt 文案來源
+  - image_alt 若有用它
+  - 否則 fallback title
+
+All images referenced via ![]() must exist as Page Resources in the same bundle.
+Images are automatically processed via Hugo render hooks.
