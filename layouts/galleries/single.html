@@ -6,14 +6,14 @@
     <h1 class="font-heading text-4xl md:text-5xl font-bold mb-4">
       {{ .Title }}
     </h1>
-    
+
     <div class="flex flex-wrap justify-center gap-4 text-gray-600 dark:text-gray-400">
       {{- if .Params.location -}}
       <span>
         <i class="fas fa-map-marker-alt mr-1"></i>{{ .Params.location }}
       </span>
       {{- end -}}
-      
+
       <span>
         <i class="fas fa-calendar mr-1"></i>
         <time datetime="{{ .Date.Format "2006-01-02" }}">
@@ -24,27 +24,25 @@
   </header>
 
   {{- /* Gallery Grid */ -}}
-  {{- with .Params.images -}}
   <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
-    {{- range . -}}
-      {{- $image := $.Resources.Get . -}}
-      {{- if $image -}}
-        {{- $thumb := $image.Fill "480x480 Center" -}}
-        {{- $thumb2x := $image.Fill "960x960 Center" -}}
-        {{- $full := $image.Resize "1920x" -}}
-    <a href="{{ $full.Permalink }}" class="block aspect-square overflow-hidden rounded-lg group" data-lightbox="gallery">
-      <img 
-        src="{{ $thumb.Permalink }}" 
-        srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
-        alt="{{ $.Title }}"
-        loading="lazy"
-        class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
-      >
-    </a>
-      {{- end -}}
+  {{- range $.Resources.ByType "image" -}}
+    {{- $image := . -}}
+    {{- if $image -}}
+      {{- $thumb := $image.Fill "480x480 Center" -}}
+      {{- $thumb2x := $image.Fill "960x960 Center" -}}
+      {{- $full := $image.Resize "1920x" -}}
+  <a href="{{ $full.Permalink }}" class="block aspect-square overflow-hidden rounded-lg group" data-lightbox="gallery">
+    <img
+      src="{{ $thumb.Permalink }}"
+      srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
+      alt="{{ $.Title }}"
+      loading="lazy"
+      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+    >
+  </a>
     {{- end -}}
-  </div>
   {{- end -}}
+  </div>
 
   {{- /* Content */ -}}
   {{- with .Content -}}
@@ -62,7 +60,7 @@
     {{- else -}}
     <span></span>
     {{- end -}}
-    
+
     {{- with .NextInSection -}}
     <a href="{{ .Permalink }}" class="text-primary hover:underline">
       {{ .Title }}<i class="fas fa-arrow-right ml-2"></i>
