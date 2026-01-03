@@ -121,3 +121,5 @@ The daily offerings, the elaborate ceremonies, the care given to even the smalle
 Bali's temples are more than just beautiful photo opportunities. They're active places of worship, central to community life, and windows into a rich spiritual tradition. Approach them with respect and curiosity, and you'll discover the real magic of the Island of the Gods.
 
 Would I return? Absolutely. There are thousands more temples to explore, and I've only scratched the surface of this incredible island.
+
+{{< services >}}

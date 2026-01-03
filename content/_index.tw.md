@@ -1,7 +1,7 @@
 ---
 title: MadeYourDay.Life
-hero_image: hero.webp
-bio_image: bio.webp
+hero_image: hero.jpg
+bio_image: bio.jpg
 tagline: 用旅行探索世界，用冒險豐富人生
 ---
 

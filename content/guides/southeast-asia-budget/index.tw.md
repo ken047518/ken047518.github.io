@@ -3,7 +3,7 @@ title: 東南亞預算旅遊指南
 date: 2025-09-20
 modified: 2025-11-05
 description: 預算遊東南亞完整指南 - 住宿、餐飲、交通和省錢技巧。
-image: southeast.jpg
+image: southeast-asia.jpg
 featured: false
 location: 東南亞
 ---
