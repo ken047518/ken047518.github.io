@@ -10,21 +10,11 @@
 
       {{- /* Desktop Menu */ -}}
       <div class="hidden md:flex items-center space-x-6">
-        <a href="{{ "about" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
-          {{ if eq .Language.Lang "zh-tw" }}關於{{ else }}About{{ end }}
+        {{- range .Site.Menus.main -}}
+        <a href="{{ .URL }}" class="nav-link hover:text-primary transition-colors">
+          {{ .Name }}
         </a>
-        <a href="{{ "services" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
-          {{ if eq .Language.Lang "zh-tw" }}服務項目{{ else }}Services{{ end }}
-        </a>
-        <a href="{{ "guides" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
-          {{ if eq .Language.Lang "zh-tw" }}旅遊攻略{{ else }}Guides{{ end }}
-        </a>
-        <a href="{{ "posts" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
-          {{ if eq .Language.Lang "zh-tw" }}文章{{ else }}Posts{{ end }}
-        </a>
-        <a href="{{ "galleries" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
-          {{ if eq .Language.Lang "zh-tw" }}相簿{{ else }}Galleries{{ end }}
-        </a>
+        {{- end -}}
         
         {{- /* Language Switcher */ -}}
         {{- if .IsTranslated -}}
@@ -59,21 +49,11 @@
       <i class="fas fa-times text-3xl"></i>
     </button>
     
-    <a href="{{ "about" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
-      {{ if eq .Language.Lang "zh-tw" }}關於{{ else }}About{{ end }}
+    {{- range .Site.Menus.main -}}
+    <a href="{{ .URL }}" class="nav-link hover:text-primary transition-colors">
+      {{ .Name }}
     </a>
-    <a href="{{ "services" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
-      {{ if eq .Language.Lang "zh-tw" }}服務項目{{ else }}Services{{ end }}
-    </a>
-    <a href="{{ "guides" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
-      {{ if eq .Language.Lang "zh-tw" }}旅遊攻略{{ else }}Guides{{ end }}
-    </a>
-    <a href="{{ "posts" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
-      {{ if eq .Language.Lang "zh-tw" }}文章{{ else }}Posts{{ end }}
-    </a>
-    <a href="{{ "galleries" | relLangURL }}" class="nav-link hover:text-primary transition-colors">
-      {{ if eq .Language.Lang "zh-tw" }}相簿{{ else }}Galleries{{ end }}
-    </a>
+    {{- end -}}
     
     {{- if .IsTranslated -}}
       {{- range .Translations -}}

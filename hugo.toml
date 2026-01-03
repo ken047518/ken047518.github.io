@@ -22,6 +22,26 @@ enableGitInfo = true
     title = 'MadeYourDay.Life'
     [languages.en.params]
       description = 'Travel adventures and guides'
+    [[languages.en.menu.main]]
+      name = 'About'
+      url = '/about/'
+      weight = 1
+    [[languages.en.menu.main]]
+      name = 'Services'
+      url = '/services/'
+      weight = 2
+    [[languages.en.menu.main]]
+      name = 'Guides'
+      url = '/guides/'
+      weight = 3
+    [[languages.en.menu.main]]
+      name = 'Posts'
+      url = '/posts/'
+      weight = 4
+    [[languages.en.menu.main]]
+      name = 'Galleries'
+      url = '/galleries/'
+      weight = 5
 
   [languages.tw]
     languageCode = 'zh-TW'
@@ -31,6 +51,26 @@ enableGitInfo = true
     contentDir = 'content'
     [languages.tw.params]
       description = '旅遊冒險與攻略'
+    [[languages.tw.menu.main]]
+      name = '關於'
+      url = '/tw/about/'
+      weight = 1
+    [[languages.tw.menu.main]]
+      name = '服務項目'
+      url = '/tw/services/'
+      weight = 2
+    [[languages.tw.menu.main]]
+      name = '旅遊攻略'
+      url = '/tw/guides/'
+      weight = 3
+    [[languages.tw.menu.main]]
+      name = '文章'
+      url = '/tw/posts/'
+      weight = 4
+    [[languages.tw.menu.main]]
+      name = '相簿'
+      url = '/tw/galleries/'
+      weight = 5
 
 [outputs]
   home = ['HTML', 'RSS']
