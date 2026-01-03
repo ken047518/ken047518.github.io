@@ -264,7 +264,3 @@ This site is designed to work with Obsidian:
 ├── tailwind.config.js   # TailwindCSS configuration
 └── package.json         # Node dependencies
 ```
-
-## License
-
-MIT
