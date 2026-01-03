@@ -2,6 +2,7 @@
 title: Links
 date: 2026-01-01
 description: Connect with us on social media and other platforms
+background: bg.jpg
 links:
   - title: YouTube
     url: https://www.youtube.com/@madeyourdaylife

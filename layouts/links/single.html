@@ -1,50 +1,71 @@
 {{ define "main" }}
 
-<div class="container mx-auto px-4 py-12 max-w-2xl">
-  <header class="text-center mb-12">
-    <h1 class="font-heading text-4xl md:text-5xl font-bold mb-4">
-      {{ .Title }}
-    </h1>
-    {{- with .Content -}}
-    <div class="prose prose-lg dark:prose-invert mx-auto">
-      {{ . }}
+{{- $hasBackground := false -}}
+{{- $bgUrl := "" -}}
+{{- with .Params.background -}}
+  {{- $bg := $.Resources.Get . -}}
+  {{- if $bg -}}
+    {{- $hasBackground = true -}}
+    {{- $bgResized := $bg.Resize "1920x" -}}
+    {{- $bgUrl = $bgResized.Permalink -}}
+  {{- end -}}
+{{- end -}}
+
+<div class="min-h-screen {{ if $hasBackground }}bg-cover bg-center bg-no-repeat{{ end }}" {{ if $hasBackground }}style="background-image: url('{{ $bgUrl }}'); background-size: cover; background-position: center;"{{ end }}>
+  {{- if $hasBackground -}}
+  <div class="min-h-screen bg-black/60 backdrop-blur-sm">
+  {{- end -}}
+
+  <div class="container mx-auto px-4 py-12 max-w-2xl">
+    <header class="text-center mb-12">
+      <h1 class="font-heading text-4xl md:text-5xl font-bold mb-4 {{ if $hasBackground }}text-white{{ end }}">
+        {{ .Title }}
+      </h1>
+      {{- with .Content -}}
+      <div class="text-white mx-auto">
+        {{ . }}
+      </div>
+      {{- end -}}
+    </header>
+
+    {{- with .Params.links -}}
+    <div class="space-y-4">
+      {{- range . -}}
+      <a
+        href="{{ .url }}"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="block {{ if $hasBackground }}bg-white/10 backdrop-blur-md border border-white/20 hover:bg-white/20 text-white{{ else }}bg-white dark:bg-gray-800 hover:shadow-xl{{ end }} rounded-lg shadow-md transition-all p-6 group"
+      >
+        <div class="flex items-center gap-4">
+          {{- with .icon -}}
+          <div class="flex-shrink-0 w-12 h-12 flex items-center justify-center text-2xl {{ if $hasBackground }}text-white{{ else }}text-primary{{ end }}">
+            <i class="{{ . }}"></i>
+          </div>
+          {{- end -}}
+
+          <div class="flex-1">
+            <h3 class="font-heading font-bold text-lg {{ if $hasBackground }}group-hover:text-white/80{{ else }}group-hover:text-primary dark:text-white{{ end }} transition-colors">
+              {{ .title }}
+            </h3>
+            {{- with .description -}}
+            <p class="text-sm {{ if $hasBackground }}text-white/70{{ else }}text-gray-600 dark:text-gray-400{{ end }} mt-1">
+              {{ . }}
+            </p>
+            {{- end -}}
+          </div>
+
+          <div class="flex-shrink-0">
+            <i class="fas fa-external-link-alt {{ if $hasBackground }}text-white/60 group-hover:text-white{{ else }}text-gray-400 group-hover:text-primary{{ end }} transition-colors"></i>
+          </div>
+        </div>
+      </a>
+      {{- end -}}
     </div>
     {{- end -}}
-  </header>
+  </div>
 
-  {{- with .Params.links -}}
-  <div class="space-y-4">
-    {{- range . -}}
-    <a 
-      href="{{ .url }}" 
-      target="_blank" 
-      rel="noopener noreferrer"
-      class="block bg-white dark:bg-gray-800 rounded-lg shadow-md hover:shadow-xl transition-shadow p-6 group"
-    >
-      <div class="flex items-center gap-4">
-        {{- with .icon -}}
-        <div class="flex-shrink-0 w-12 h-12 flex items-center justify-center text-2xl text-primary">
-          <i class="{{ . }}"></i>
-        </div>
-        {{- end -}}
-        
-        <div class="flex-1">
-          <h3 class="font-heading font-bold text-lg group-hover:text-primary transition-colors">
-            {{ .title }}
-          </h3>
-          {{- with .description -}}
-          <p class="text-sm text-gray-600 dark:text-gray-400 mt-1">
-            {{ . }}
-          </p>
-          {{- end -}}
-        </div>
-        
-        <div class="flex-shrink-0">
-          <i class="fas fa-external-link-alt text-gray-400 group-hover:text-primary transition-colors"></i>
-        </div>
-      </div>
-    </a>
-    {{- end -}}
+  {{- if $hasBackground -}}
   </div>
   {{- end -}}
 </div>
