@@ -24,14 +24,14 @@
   </header>
 
   {{- /* Gallery Grid */ -}}
-  <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-12">
+  <div class="masonry sm:masonry-sm md:masonry-md">
   {{- range $.Resources.ByType "image" -}}
     {{- $image := . -}}
     {{- if $image -}}
-      {{- $thumb := $image.Fill "480x480 Center" -}}
-      {{- $thumb2x := $image.Fill "960x960 Center" -}}
+      {{- $thumb := $image.Resize "480x" -}}
+      {{- $thumb2x := $image.Resize "960x" -}}
       {{- $full := $image.Resize "1920x" -}}
-  <a href="{{ $full.Permalink }}" class="block aspect-square overflow-hidden rounded-lg group" data-lightbox="gallery">
+  <a href="{{ $full.Permalink }}" class="block rounded-lg group break-inside mb-4" data-lightbox="gallery">
     <img
       src="{{ $thumb.Permalink }}"
       srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
