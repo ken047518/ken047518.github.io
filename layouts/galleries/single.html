@@ -1,5 +1,7 @@
 {{ define "main" }}
 
+<link rel="stylesheet" href="/css/photoswipe.css">
+
 <article class="container mx-auto px-4 py-12">
   {{- /* Header */ -}}
   <header class="text-center mb-12">
@@ -24,14 +26,18 @@
   </header>
 
   {{- /* Gallery Grid */ -}}
-  <div class="masonry sm:masonry-sm md:masonry-md">
+  <div class="masonry sm:masonry-sm md:masonry-md pswp-gallery" id="gallery">
   {{- range $.Resources.ByType "image" -}}
     {{- $image := . -}}
     {{- if $image -}}
       {{- $thumb := $image.Resize "480x" -}}
       {{- $thumb2x := $image.Resize "960x" -}}
       {{- $full := $image.Resize "1920x" -}}
-  <a href="{{ $full.Permalink }}" class="block rounded-lg group break-inside mb-4" data-lightbox="gallery">
+  <a href="{{ $full.Permalink }}"
+     data-pswp-width="{{ $full.Width }}"
+     data-pswp-height="{{ $full.Height }}"
+     target="_blank"
+     class="block rounded-lg group break-inside mb-4">
     <img
       src="{{ $thumb.Permalink }}"
       srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
@@ -68,5 +74,15 @@
     {{- end -}}
   </nav>
 </article>
+
+<script type="module">
+import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';
+const lightbox = new PhotoSwipeLightbox({
+  gallery: '#gallery',
+  children: 'a',
+  pswpModule: () => import('/js/photoswipe.esm.js')
+});
+lightbox.init();
+</script>
 
 {{ end }}
