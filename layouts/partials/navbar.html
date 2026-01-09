@@ -1,4 +1,4 @@
-<nav id="navbar" class="fixed top-0 left-0 right-0 z-50 transition-all duration-300">
+<nav id="navbar" class="fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-bgAlt dark:bg-bgAlt-dark shadow-md">
   <div class="container mx-auto px-4">
     <div class="flex justify-between items-center h-16">
       {{- /* Logo */ -}}
@@ -43,7 +43,7 @@
 </nav>
 
 {{- /* Mobile Menu Overlay */ -}}
-<div id="mobile-menu" class="hidden fixed inset-0 z-40 bg-bg dark:bg-bg-dark md:hidden">
+<div id="mobile-menu" class="hidden fixed inset-0 z-40 bg-bgAlt dark:bg-bgAlt-dark md:hidden">
   <div class="flex flex-col items-center justify-center h-full space-y-8 text-2xl">
     <button id="mobile-menu-close" class="absolute top-6 right-6 p-2" aria-label="Close menu">
       <i class="fas fa-times text-3xl"></i>

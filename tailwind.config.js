@@ -18,8 +18,12 @@ module.exports = {
           dark: "#d97706",
         },
         bg: {
-          DEFAULT: "#F7EFF8",
+          DEFAULT: "#FAF1EA",
           dark: "#1B1F2B",
+        },
+        bgAlt: {
+          DEFAULT: "#FDFBF9",
+          dark: "#333333",
         },
       },
       fontFamily: {

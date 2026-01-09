@@ -16,15 +16,15 @@
     {{- /* First post - Featured large card */ -}}
     {{- $first := index $posts 0 -}}
     <article class="group">
-      <a href="{{ $first.Permalink }}" class="flex flex-col md:flex-row gap-6 bg-white dark:bg-gray-800 rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
+      <a href="{{ $first.Permalink }}" class="flex flex-col md:flex-row gap-6 bg-bgAlt dark:bg-bgAlt-dark rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
         {{- with $first.Params.image -}}
           {{- $image := $first.Resources.Get . -}}
           {{- if $image -}}
             {{- $thumb := $image.Fill "960x720 Center" -}}
             {{- $thumb2x := $image.Fill "1440x1080 Center" -}}
         <div class="md:w-1/2 aspect-[4/3] overflow-hidden">
-          <img 
-            src="{{ $thumb.Permalink }}" 
+          <img
+            src="{{ $thumb.Permalink }}"
             srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
             alt="{{ with $first.Params.image_alt }}{{ . }}{{ else }}{{ $first.Title }}{{ end }}"
             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
@@ -32,12 +32,12 @@
         </div>
           {{- end -}}
         {{- end -}}
-        
+
         <div class="md:w-1/2 p-6 md:p-8 flex flex-col justify-center">
           <h2 class="font-heading font-bold text-2xl md:text-3xl mb-4 group-hover:text-primary transition-colors">
             {{ $first.Title }}
           </h2>
-          
+
           <div class="flex flex-wrap gap-4 text-sm text-gray-600 dark:text-gray-400 mb-4">
             {{- if $first.Params.location -}}
             <span>
@@ -50,7 +50,7 @@
               </time>
             </span>
           </div>
-          
+
           {{- with $first.Summary -}}
           <p class="text-gray-600 dark:text-gray-400 line-clamp-3">
             {{ . | plainify }}

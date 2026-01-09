@@ -6,7 +6,7 @@
       Subscribe to Newsletter
     {{ end }}
   </h2>
-  
+
   <p class="text-gray-600 dark:text-gray-400 mb-6">
     {{ if eq .Page.Language.Lang "zh-tw" }}
       獲取最新的旅遊資訊與攻略
@@ -14,16 +14,16 @@
       Get the latest travel updates and guides
     {{ end }}
   </p>
-  
+
   <form class="flex flex-col sm:flex-row gap-4 max-w-md mx-auto" action="#" method="post">
-    <input 
-      type="email" 
-      name="email" 
+    <input
+      type="email"
+      name="email"
       required
       placeholder="{{ if eq .Page.Language.Lang "zh-tw" }}你的電子信箱{{ else }}Your email address{{ end }}"
-      class="flex-1 px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-white dark:bg-gray-700 focus:outline-none focus:ring-2 focus:ring-primary"
+      class="flex-1 px-4 py-3 rounded-lg border border-gray-300 dark:border-gray-600 bg-bgAlt dark:bg-bgAlt-dark focus:outline-none focus:ring-2 focus:ring-primary"
     >
-    <button 
+    <button
       type="submit"
       class="bg-primary hover:bg-primary-dark text-white font-bold py-3 px-8 rounded-lg transition-colors"
     >
