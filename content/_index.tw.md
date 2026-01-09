@@ -1,5 +1,5 @@
 ---
-title: MadeYourDay.Life
+title: KAI's Wonderlust
 hero_image: hero.jpg
 bio_image: bio.jpg
 tagline: 用旅行探索世界，用冒險豐富人生

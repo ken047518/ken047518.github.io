@@ -22,7 +22,7 @@
 
   <div class="relative z-10 text-center text-white">
     <h1 class="font-heading text-4xl md:text-6xl font-bold mb-4">
-      MadeYourDay.Life
+      {{ .Page.Title }}
     </h1>
     {{- with .Params.tagline -}}
     <p class="text-xl md:text-2xl">{{ . }}</p>
