@@ -1,5 +1,5 @@
 ---
-title: KAI's Wonderlust
+title: KAI's Wanderlust
 hero_image: hero2.jpeg
 bio_image: bio.jpg
 tagline: Travel the world, one adventure at a time

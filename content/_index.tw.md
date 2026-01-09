@@ -1,6 +1,6 @@
 ---
-title: KAI's Wonderlust
-hero_image: hero.jpg
+title: KAI's Wanderlust
+hero_image: hero2.jpeg
 bio_image: bio.jpg
 tagline: 用旅行探索世界，用冒險豐富人生
 ---

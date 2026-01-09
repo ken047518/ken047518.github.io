@@ -6,6 +6,7 @@ description: 預算遊東南亞完整指南 - 住宿、餐飲、交通和省錢�
 image: southeast-asia.jpg
 featured: false
 location: 東南亞
+draft: true
 ---
 
 # 東南亞預算旅遊指南

@@ -6,6 +6,7 @@ description: 第一次去日本旅遊需要知道的一切 - 從購買 JR Pass �
 image: japan.jpg
 featured: true
 location: 日本
+draft: true
 ---
 
 # 日本旅遊完整攻略 - 新手必讀

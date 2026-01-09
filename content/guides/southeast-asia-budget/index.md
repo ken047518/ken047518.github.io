@@ -6,6 +6,7 @@ description: Complete guide to traveling Southeast Asia on a budget - accommodat
 image: southeast-asia.jpg
 featured: false
 location: Southeast Asia
+draft: true
 ---
 
 # Southeast Asia Budget Travel Guide
