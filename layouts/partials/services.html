@@ -7,7 +7,7 @@
         Our Services
       {{ end }}
     </h2>
-    
+
     <p class="text-xl text-gray-600 dark:text-gray-400 mb-8">
       {{ if eq .Page.Language.Lang "zh-tw" }}
         讓我們協助您規劃完美的旅程
@@ -15,10 +15,10 @@
         Let us help you plan the perfect journey
       {{ end }}
     </p>
-    
-    <a 
+
+    <a
       href="{{ "services" | relLangURL }}"
-      class="inline-block bg-primary hover:bg-primary-dark text-white font-bold py-3 px-8 rounded-lg transition-colors"
+      class="inline-block bg-primary dark:bg-primary-dark hover:bg-primary-dark dark:hover:bg-primary text-white font-bold py-3 px-8 rounded-lg transition-colors"
     >
       {{ if eq .Page.Language.Lang "zh-tw" }}
         查看服務項目

@@ -7,8 +7,8 @@
         {{- $thumb := $image.Fill "240x240 Center" -}}
         {{- $thumb2x := $image.Fill "480x480 Center" -}}
     <div class="flex-shrink-0 w-24 h-24 md:w-32 md:h-32 overflow-hidden rounded-lg">
-      <img 
-        src="{{ $thumb.Permalink }}" 
+      <img
+        src="{{ $thumb.Permalink }}"
         srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
         alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
         loading="lazy"
@@ -17,27 +17,27 @@
     </div>
       {{- end -}}
     {{- end -}}
-    
+
     <div class="flex-1 space-y-2">
-      <h3 class="font-heading font-bold text-lg md:text-xl group-hover:text-primary transition-colors">
+      <h3 class="font-heading font-bold text-lg md:text-xl group-hover:text-primary dark:group-hover:text-primary-dark transition-colors">
         {{ .Title }}
       </h3>
-      
+
       {{- if .Params.location -}}
       <p class="text-sm text-gray-600 dark:text-gray-400">
         <i class="fas fa-map-marker-alt mr-1"></i>{{ .Params.location }}
       </p>
       {{- end -}}
-      
+
       {{- with .Description -}}
       <p class="text-gray-600 dark:text-gray-400 text-sm md:text-base line-clamp-2">
         {{ . }}
       </p>
       {{- end -}}
-      
+
       <p class="text-xs md:text-sm text-gray-500 dark:text-gray-500">
         {{ if .Params.modified }}
-          {{ $.Site.Language.Lang | eq "zh-tw" | cond "更新" "Updated" }}: 
+          {{ $.Site.Language.Lang | eq "zh-tw" | cond "更新" "Updated" }}:
           <time datetime="{{ .Params.modified }}">{{ .Params.modified }}</time>
         {{ else }}
           <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time>
