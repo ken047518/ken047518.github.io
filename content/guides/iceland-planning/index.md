@@ -6,6 +6,7 @@ description: Complete guide to planning your Iceland adventure, including when t
 image: iceland.jpg
 featured: true
 location: Iceland
+draft: true
 ---
 
 # Iceland Planning Guide - Everything You Need to Know

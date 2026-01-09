@@ -102,6 +102,12 @@ Browse ->
 1. 搜尋 Git -> Install -> Enable
 2. 搜尋 Hugo Preview -> Install & Enable
 
+設定預設圖片位置：
+
+1. Settings -> Files and links -> Default location for new attachments -> Same folder as current file
+2. New link format: Relative path to file
+3. Uncheck "Use `[[Wikilink]]`"
+
 ## Development
 
 Start the Hugo development server:
@@ -147,6 +153,8 @@ This will:
 
 檔案取名規則：
 
+* 檔案名稱會對應到網址名稱
+	* 文章標題在內容的 `title` 寫
 * `[分類]/[資料夾名稱]/index.md`: 英文網版頁面，網址為 `/[分類]/[資料夾名稱]`
 	* 例如 content/posts/greek/index.md -> `/posts/greek/`
 * 同資料夾下的 `index.tw.md` 為中文版網頁
@@ -155,7 +163,9 @@ This will:
 	* 底線是列表頁面在使用的
 * 檔案和資料夾都用小寫英文和 `-`
 
-在 Obsidian 內不需要加 `.md` 結尾
+*在 Obsidian 內不需要加 `.md` 結尾*
+
+---
 ## Content Structure
 
 ### Homepage (`content/_index.md`)

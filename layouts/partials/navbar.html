@@ -4,7 +4,7 @@
       {{- /* Logo */ -}}
       <div class="flex-shrink-0">
         <a href="{{ "/" | relLangURL }}" class="text-xl font-heading font-bold text-primary">
-          MadeYourDay.Life
+          {{ .Site.Title }}
         </a>
       </div>
 
@@ -15,7 +15,7 @@
           {{ .Name }}
         </a>
         {{- end -}}
-        
+
         {{- /* Language Switcher */ -}}
         {{- if .IsTranslated -}}
           {{- range .Translations -}}
@@ -24,7 +24,7 @@
         </a>
           {{- end -}}
         {{- end -}}
-        
+
         {{- /* Dark Mode Toggle */ -}}
         <button id="theme-toggle" class="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors" aria-label="Toggle theme">
           <i class="fas fa-moon dark:hidden"></i>
@@ -48,13 +48,13 @@
     <button id="mobile-menu-close" class="absolute top-6 right-6 p-2" aria-label="Close menu">
       <i class="fas fa-times text-3xl"></i>
     </button>
-    
+
     {{- range .Site.Menus.main -}}
     <a href="{{ .URL }}" class="nav-link hover:text-primary transition-colors">
       {{ .Name }}
     </a>
     {{- end -}}
-    
+
     {{- if .IsTranslated -}}
       {{- range .Translations -}}
     <a href="{{ .Permalink }}" class="nav-link hover:text-primary transition-colors">
@@ -62,7 +62,7 @@
     </a>
       {{- end -}}
     {{- end -}}
-    
+
     <button id="theme-toggle-mobile" class="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors" aria-label="Toggle theme">
       <i class="fas fa-moon dark:hidden"></i>
       <i class="fas fa-sun hidden dark:inline"></i>

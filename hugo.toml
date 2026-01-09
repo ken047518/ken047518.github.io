@@ -1,5 +1,5 @@
 baseURL = 'https://madeyourday.life/'
-title = 'MadeYourDay.Life'
+title = "MadeYourDay.life"
 defaultContentLanguage = 'en'
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
@@ -7,14 +7,13 @@ enableGitInfo = true
 
 [params]
   description = 'Travel adventures and guides'
-  author = 'MadeYourDay.Life'
+  author = 'KAI'
 
 [languages]
   [languages.en]
     languageCode = 'en-US'
     languageName = 'English'
     weight = 1
-    title = 'MadeYourDay.Life'
     [languages.en.params]
       description = 'Travel adventures and guides'
     [[languages.en.menu.main]]
@@ -58,7 +57,6 @@ enableGitInfo = true
     languageCode = 'zh-TW'
     languageName = '繁體中文'
     weight = 2
-    title = 'MadeYourDay.Life'
     contentDir = 'content'
     [languages.tw.params]
       description = '旅遊冒險與攻略'

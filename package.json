@@ -3,12 +3,16 @@
   "version": "1.0.0",
   "description": "Travel blog and services website",
   "scripts": {
-    "dev": "hugo server -D --disableFastRender",
+    "dev": "hugo server --disableFastRender",
     "build": "npm run build:css && hugo --minify",
     "build:css": "tailwindcss -i ./assets/css/styles.css -o ./static/css/styles.css --minify",
     "watch:css": "tailwindcss -i ./assets/css/styles.css -o ./static/css/styles.css --watch"
   },
-  "keywords": ["hugo", "travel", "blog"],
+  "keywords": [
+    "hugo",
+    "travel",
+    "blog"
+  ],
   "author": "MadeYourDay.Life",
   "license": "MIT",
   "devDependencies": {
