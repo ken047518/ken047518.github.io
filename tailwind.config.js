@@ -21,6 +21,10 @@ module.exports = {
           DEFAULT: "#FAF1EA",
           dark: "#1B1F2B",
         },
+        bgAlt: {
+          DEFAULT: "#FDFBF9",
+          dark: "#333333",
+        },
       },
       fontFamily: {
         heading: [
