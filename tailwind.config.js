@@ -7,7 +7,8 @@ module.exports = {
       colors: {
         primary: {
           DEFAULT: "#EFA837",
-          dark: "#FFC857",
+          dark: "#EFA837",
+          // dark: "#FFC857",
         },
         secondary: {
           DEFAULT: "#2364AA",
@@ -19,11 +20,15 @@ module.exports = {
         },
         bg: {
           DEFAULT: "#FAF1EA",
-          dark: "#1B1F2B",
+          // dark: "#211F23",
+          // dark: "#101D28",
+          dark: "#151F2B",
         },
         bgAlt: {
           DEFAULT: "#FDFBF9",
-          dark: "#333333",
+          dark: "#151B23",
+          // dark: "#131323",
+          // dark: "#223554",
         },
       },
       fontFamily: {
