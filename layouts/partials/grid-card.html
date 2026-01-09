@@ -7,8 +7,8 @@
         {{- $thumb := $image.Fill "480x360 Center" -}}
         {{- $thumb2x := $image.Fill "960x720 Center" -}}
     <div class="aspect-[4/3] overflow-hidden rounded-lg mb-4">
-      <img 
-        src="{{ $thumb.Permalink }}" 
+      <img
+        src="{{ $thumb.Permalink }}"
         srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
         alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
         loading="lazy"
@@ -17,24 +17,24 @@
     </div>
       {{- end -}}
     {{- end -}}
-    
+
     <div class="space-y-2">
-      <h3 class="font-heading font-bold text-xl group-hover:text-primary transition-colors">
+      <h3 class="font-heading font-bold text-xl group-hover:text-primary dark:group-hover:text-primary-dark transition-colors">
         {{ .Title }}
       </h3>
-      
+
       {{- if .Params.location -}}
       <p class="text-sm text-gray-600 dark:text-gray-400">
         <i class="fas fa-map-marker-alt mr-1"></i>{{ .Params.location }}
       </p>
       {{- end -}}
-      
+
       <p class="text-sm text-gray-500 dark:text-gray-500">
         <time datetime="{{ .Date.Format "2006-01-02" }}">
           {{ .Date.Format "January 2, 2006" }}
         </time>
       </p>
-      
+
       {{- with .Summary -}}
       <p class="text-gray-600 dark:text-gray-400 line-clamp-2">
         {{ . | plainify }}
