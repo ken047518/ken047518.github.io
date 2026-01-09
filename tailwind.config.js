@@ -19,11 +19,15 @@ module.exports = {
         },
         bg: {
           DEFAULT: "#FAF1EA",
-          dark: "#1B1F2B",
+          // dark: "#211F23",
+          // dark: "#101D28",
+          dark: "#151F2B",
         },
         bgAlt: {
           DEFAULT: "#FDFBF9",
-          dark: "#333333",
+          dark: "#151B23",
+          // dark: "#131323",
+          // dark: "#223554",
         },
       },
       fontFamily: {
