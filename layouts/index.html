@@ -13,7 +13,23 @@
     srcset="{{ $hero_sm.Permalink }} 960w, {{ $hero_md.Permalink }} 1440w, {{ $hero_lg.Permalink }} 1920w"
     sizes="100vw"
     alt="{{ $.Site.Title }}"
-    class="absolute inset-0 w-full h-full object-cover"
+    class="absolute inset-0 w-full h-full object-cover{{ if $.Params.hero_image_dark }} dark:hidden{{ end }}"
+  >
+    {{- end -}}
+  {{- end -}}
+
+  {{- with .Params.hero_image_dark -}}
+    {{- $image := $.Resources.Get . -}}
+    {{- if $image -}}
+      {{- $hero_sm := $image.Resize "960x" -}}
+      {{- $hero_md := $image.Resize "1440x" -}}
+      {{- $hero_lg := $image.Resize "1920x" -}}
+  <img
+    src="{{ $hero_md.Permalink }}"
+    srcset="{{ $hero_sm.Permalink }} 960w, {{ $hero_md.Permalink }} 1440w, {{ $hero_lg.Permalink }} 1920w"
+    sizes="100vw"
+    alt="{{ $.Site.Title }}"
+    class="absolute inset-0 w-full h-full object-cover hidden dark:block"
   >
     {{- end -}}
   {{- end -}}
