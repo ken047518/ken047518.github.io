@@ -1,7 +1,7 @@
 ---
 title: KAI's Wanderlust
 hero_image: 首圖.png
-hero_image_dark: 首圖.png
+hero_image_dark: hero3.jpeg
 bio_image: bio.jpg
 tagline: 用旅行探索世界，用冒險豐富人生
 ---
