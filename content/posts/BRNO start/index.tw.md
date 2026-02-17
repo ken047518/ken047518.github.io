@@ -6,12 +6,13 @@ summary: 我們在冬季穿越冰島的史詩公路旅行，包括冰川健行�
 image: iceland.jpg
 featured: true
 draft: true
-location: 冰島
+location: 布達佩斯
 tags:
-  - 冰島
-  - 北極光
-  - 冬季旅行
-  - 冒險
+  - "#布達佩斯"
+  - "#中歐"
+  - "#獨旅"
+  - "#歧視"
+  - "#音樂節"
 categories:
   - 旅遊
 ---
