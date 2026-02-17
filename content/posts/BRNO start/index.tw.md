@@ -4,7 +4,7 @@ date: 2024-08-23
 description: 獨自來到歐洲，意外地開啟一場壯遊。
 summary: 在布達佩斯閒晃
 image: IMG_4427.jpg
-featured: true
+featured: false
 draft: false
 location: 布達佩斯
 tags:

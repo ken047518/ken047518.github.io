@@ -5,7 +5,7 @@ modified: 2025-12-20
 description: 探索完美的東京 48 小時行程，涵蓋古老寺廟、現代摩天大樓，以及您吃過最好吃的拉麵。
 summary: 從寧靜的淺草寺到繁華的澀谷街頭，在短短兩天內體驗東京的精華。
 image: tokyo.jpg
-featured: true
+featured: false
 location: 日本東京
 tags:
   - 日本
