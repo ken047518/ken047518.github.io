@@ -1,7 +1,7 @@
 ---
 title: KAI's Wanderlust
 hero_image: 首圖.png
-hero_image_dark: hero.jpg
+hero_image_dark: 首圖.png
 bio_image: bio.jpg
 tagline: TRAVEL UNTIL THE ENDS OF THE WORLD.
 draft: false
