@@ -1,6 +1,6 @@
 ---
 title: 一場壯遊的開始
-date: 2025-11-28
+date: 2024-08-23
 description: 獨自來到歐洲，意外地開啟一場壯遊。
 summary: 在布達佩斯閒晃
 image: IMG_4427.jpg
