@@ -2,7 +2,7 @@
 title: 一場壯遊的開始
 date: 2025-11-28
 description: 獨自來到歐洲，意外地開啟一場壯遊。
-summary: 在布達佩斯閒晃，看見了國會大廈
+summary: 在布達佩斯閒晃
 image: iceland.jpg
 featured: true
 draft: false
