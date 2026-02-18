@@ -8,11 +8,10 @@ featured: true
 draft: false
 location: 布達佩斯
 tags:
-  - "#布達佩斯"
-  - "#中歐"
-  - "#獨旅"
-  - "#歧視"
-  - "#音樂節"
+  - 中歐
+  - 獨旅
+  - 克拉克夫
+  - 青旅
 categories:
   - 旅遊
 ---
