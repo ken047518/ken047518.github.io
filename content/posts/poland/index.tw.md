@@ -6,14 +6,14 @@ summary: 告別了精緻的漁人堡與深夜的麥當勞，我搭上前往波�
 image:
 featured: true
 draft: false
-location: 布達佩斯
+location: 波蘭 克拉克夫
 tags:
   - 中歐
   - 獨旅
   - 克拉克夫
   - 青旅
 categories:
-  - 旅遊
+  - 東北歐獨旅
 ---
 
 ## 前往克拉克夫的夜車

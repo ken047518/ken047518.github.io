@@ -6,7 +6,7 @@ summary: 從布爾諾如雷貫耳的打呼聲，意外地開啟了一趟旅程�
 image: IMG_4427.jpg
 featured: true
 draft: false
-location: 布達佩斯
+location: 匈牙利 布達佩斯
 tags:
   - 布達佩斯
   - "#中歐"

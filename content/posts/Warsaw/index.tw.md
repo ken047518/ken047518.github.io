@@ -6,7 +6,7 @@ summary: 初訪華沙，這座名字浪漫卻刻滿戰爭傷痕的城市。我�
 image:
 featured: true
 draft: false
-location: 布達佩斯
+location: 波蘭 華沙
 tags:
   - 中歐
   - 獨旅
