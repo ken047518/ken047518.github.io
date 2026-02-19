@@ -13,7 +13,7 @@ tags:
   - 青旅
   - 華沙
 categories:
-  - 旅遊
+  - 東北歐獨旅
 ---
 ## 華沙(Warsaw)
 
