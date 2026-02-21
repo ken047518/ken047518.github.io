@@ -46,9 +46,6 @@
 {{- /* Mobile Menu Overlay */ -}}
 <div id="mobile-menu" class="hidden fixed inset-0 z-40 bg-bgAlt dark:bg-bgAlt-dark md:hidden">
   <div class="flex flex-col items-center justify-center h-full space-y-8 text-2xl">
-    <button id="mobile-menu-close" class="absolute top-6 right-6 p-2" aria-label="Close menu">
-      <i class="fas fa-times text-3xl"></i>
-    </button>
 
     {{- range .Site.Menus.main -}}
     <a href="{{ .URL }}" class="nav-link hover:text-primary transition-colors">
