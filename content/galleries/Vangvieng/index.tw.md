@@ -1,7 +1,7 @@
 ---
-title: 萬榮
+title: 萬榮（Vangvieng）
 date: 2026-02-01
-description: 萬榮
+description:
 location: 寮國 萬榮
 image: DSCF3328.webp
 featured: true
