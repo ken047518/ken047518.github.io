@@ -35,9 +35,9 @@
         </time>
       </p>
 
-      {{- with .Summary -}}
+      {{- with .Description -}}
       <p class="text-gray-600 dark:text-gray-400 line-clamp-2">
-        {{ . | plainify }}
+        {{ . }}
       </p>
       {{- end -}}
     </div>
