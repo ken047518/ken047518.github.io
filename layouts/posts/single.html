@@ -50,12 +50,12 @@
     </div>
 
     {{- /* Tags */ -}}
-    {{- with .Params.tags -}}
+    {{- with .GetTerms "tags" -}}
     <div class="mt-4 flex flex-wrap gap-2">
       {{- range . -}}
-      <span class="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm">
-        #{{ . }}
-      </span>
+      <a href="{{ .Page.RelPermalink }}" class="inline-block bg-gray-200 dark:bg-gray-700 rounded-full px-3 py-1 text-sm">
+        #{{ .LinkTitle }}
+      </a>
       {{- end -}}
     </div>
     {{- end -}}
@@ -74,13 +74,13 @@
   </div>
 
   {{- /* Categories */ -}}
-  {{- with .Params.categories -}}
+  {{- with .GetTerms "categories" -}}
   <div class="mt-8 pt-8 border-t border-gray-300 dark:border-gray-700">
     <span class="text-gray-600 dark:text-gray-400">
       {{ $.Site.Language.Lang | eq "zh-tw" | cond "分類" "Categories" }}:
     </span>
     {{- range . -}}
-    <span class="ml-2">{{ . }}</span>
+    <a href="{{ .Page.RelPermalink }}" class="ml-2 text-primary dark:text-primary-dark">{{ .LinkTitle }}</span>
     {{- end -}}
   </div>
   {{- end -}}
