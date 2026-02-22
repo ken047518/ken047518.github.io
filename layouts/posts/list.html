@@ -51,9 +51,9 @@
             </span>
           </div>
 
-          {{- with $first.Summary -}}
+          {{- with $first.Description -}}
           <p class="text-gray-600 dark:text-gray-400 line-clamp-3">
-            {{ . | plainify }}
+            {{ . }}
           </p>
           {{- end -}}
         </div>
