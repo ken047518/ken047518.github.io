@@ -1,7 +1,7 @@
 ---
 title: KAI's Wanderlust
-hero_image: motor1.2.webp
-hero_image_dark: motor1.2.webp
+hero_image: warm.webp
+hero_image_dark: motor1.4.webp
 bio_image: bio.jpg
 tagline: TRAVEL UNTIL THE ENDS OF THE WORLD.
 draft: false
