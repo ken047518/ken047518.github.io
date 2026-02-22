@@ -11,7 +11,6 @@ tags:
   - Hostel
   - SoloTravel
   - MusicFestival
-  - Vilnius
 categories:
   - North-East solo travel
 ---

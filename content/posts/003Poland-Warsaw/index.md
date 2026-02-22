@@ -10,7 +10,6 @@ tags:
   - CentralEurope
   - Hostel
   - SoloTravel
-  - Warsaw
 categories:
   - 東北歐獨旅
 ---

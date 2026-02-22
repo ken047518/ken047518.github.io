@@ -1,102 +1,41 @@
 ---
-title: Chasing the Northern Lights in Iceland
-date: 2025-11-28
-description: An unforgettable journey through Iceland's winter wonderland in search of the magical Aurora Borealis.
-summary: Our epic road trip through Iceland during winter, complete with glacier hikes, hot springs, and the spectacular Northern Lights.
-image: iceland.jpg
+title: "EP 5. At the Heart of the Baltics: Rediscovering the Simplicity of Life"
+date: 2024-09-02
+description: Crossing the border into Riga, I found a city that once rivaled Stockholm as a great trading hub, now radiating a secluded, timeless elegance. In a hostel brimming with the pulse of daily life, I swapped melodies with Henry, a BBC photographer. It was here that my identity began to shift—from a guitarist and an athlete to a traveling adventurer, sowing the seeds of my passion for photography. From cooking a 30-TWD bell pepper and chicken pasta to lowering my guard during a game of beach volleyball by the Daugava River, I realized that as the veneer of prosperity fades, a refined sense of "living" becomes even more precious. As the sun dipped into the river, I finally found my own rhythm in the long Nordic nights.
+summary: Crossing the border into Riga, I found a city that once rivaled Stockholm as a great trading hub, now radiating a secluded, timeless elegance. In a hostel brimming with the pulse of daily life, I swapped melodies with Henry, a BBC photographer. It was here that my identity began to shift—from a guitarist and an athlete to a traveling adventurer, sowing the seeds of my passion for photography. From cooking a 30-TWD bell pepper and chicken pasta to lowering my guard during a game of beach volleyball by the Daugava River, I realized that as the veneer of prosperity fades, a refined sense of "living" becomes even more precious. As the sun dipped into the river, I finally found my own rhythm in the long Nordic nights.
+image: Riga.webp
 featured: true
-location: Iceland
+location: Riga, Lativa.
 tags:
-  - Iceland
-  - northern-lights
-  - winter-travel
-  - adventure
+  - Baltic
+  - Hostel
+  - SoloTravel
 categories:
-  - travel
+  - North-East solo travel
 ---
+## Arriving in Riga: A Hidden Sanctuary Behind a Faded Facade
 
-Iceland in winter is a different world - a land of ice, fire, and one of nature's most spectacular light shows. After years of dreaming about seeing the Northern Lights, I finally made the journey to this Nordic island nation, and it exceeded every expectation.
+The daytime journey to Riga was a continuous stretch of breathtaking countryside. For once, I didn't have to take a night bus, allowing me to finally soak in the scenery—I found myself quite envious of the horses enjoying those vast, endless meadows. The Riga bus station is just a short walk from the Old Town. After a quick bite of donuts and bread, I spent some time searching for my hostel.
 
-## The Quest Begins
+Since it was a budget hostel, it was tucked away in an alley with no sign and no staff in sight. Following my usual "tactic," I slipped inside when I saw someone leaving the building. The elevator was a relic—manual doors that clattered loudly as it ascended. On the fourth floor, a friendly Indian man helped me get my keys and showed me to my room. As we walked through the common areas, the atmosphere was incredibly cozy: some were cooking, some were reading, and someone was strumming a guitar. It looked worn out on the outside, but inside, it felt like a home.
 
-Seeing the Northern Lights isn't guaranteed. It requires clear skies, solar activity, and a good dose of patience. We spent a week in Iceland during late November, giving ourselves the best chance to witness the Aurora Borealis.
+## Inspiration from a BBC Photographer
 
-### Night One: Patience
+This was the first time I’d stayed in a hostel with a guitar, and it marked the longest I’d gone without playing since high school. Back in the lounge, I met a man named Henry from England. With his effortless, artistic beard, he looked every bit the creative. Henry had studied politics and history and was now a photographer for the BBC, specializing in human-interest stories. Talking to him ignited a longing in me for photography as both a passion and a profession. I’ve always been an observer; perhaps, I thought, I too could become a nomadic photographer.
 
-Our first night was cloudy. We drove out of Reykjavik, away from light pollution, and waited. And waited. Nothing. The forecast app showed potential activity, but the clouds didn't cooperate. This is part of the adventure - nature operates on its own schedule.
+Henry had studied classical guitar since childhood and played beautifully; I was surprised to learn he was only twenty-five. He mentioned that traveling had softened his English accent. He handed me the guitar before heading off to cook his dinner. As I played through old songs and improvised new melodies, I realized the calluses on my fingertips were gone. It hit me then: I was no longer a guitarist in a band, but a wanderer who had shed his cocoon, embracing a life without a fixed address.
 
-### Night Three: The Moment
+## Immersion in the Powder Tower: Life Refined by History
 
-On our third night, after a day exploring the Golden Circle, we checked the aurora forecast. Strong activity predicted! We drove to Thingvellir National Park and set up our cameras around 11 PM.
+Riga is a city of profound historical and strategic significance. In the Middle Ages, it served as a vital trade hub connecting East and West, earned its title as the "Heart of the Baltics," and later became the midpoint of the legendary "Baltic Way." From the 13th to the 15th century, during the glory days of the Hanseatic League, architectural gems like the Riga Cathedral, the Three Brothers, St. Peter’s Church, and the Powder Tower were born. By the 17th century, Riga had grown to be the largest city in the Swedish Empire, even surpassing Stockholm. Later, under Russian rule, it flourished as an industrial and foreign trade port. This economic prosperity paved the way for the Art Nouveau movement in the early 20th century, leaving behind the ornate facades that define the Old Town today. Having endured Nazi and Soviet occupations, the city finally regained independence in 1991—a dark yet unforgettable chapter commemorated by the Museum of the Occupation of Latvia.
 
-At 11:47 PM, it started.
+The Powder Tower, once a storage for gunpowder, has been thoughtfully repurposed into a museum. I was struck by the European approach to design; the interactive and immersive exhibits are incredibly human-centric. Housing everything from cannonballs to tanks, it tells the story of the Latvian War of Independence through triggered mechanisms that create a truly visceral experience.
 
-A faint green glow appeared on the horizon. Within minutes, it intensified, dancing across the sky in waves of green, white, and occasional purple. No photo can capture the feeling of watching the Northern Lights dance above you. It's ethereal, almost spiritual.
+Leaving the museum, I arrived at the Town Hall Square. The melancholic strains of a street violinist’s cello seemed to echo Riga’s current solitude. Once a trade giant that overshadowed Stockholm, the city—having weathered the storms of Nazism and Soviet rule—no longer possesses its former bustling crowds. What remains is a small population and numerous museums mourning the past. Yet, this is exactly what shapes Riga’s unique, secluded character: by losing its overwhelming prosperity, it has gained a pure, unadorned sense of "living."
 
-We stayed until 2 AM, watching the lights pulse and swirl. By the time we drove back to our hotel, we were exhausted but elated.
+## Beach Volleyball in Riga: The Moment I Unbuckled My Waist Bag
 
-## Beyond the Lights
+Since Riga sits on low-lying land near the river mouth, there aren't many viewpoints for a traditional night cityscape. I crossed the Daugava River toward a part of the city that seemed more bustling. A sudden, urgent need for a restroom led me to a public facility at a beach volleyball court. It hit me then—how long had it been since I last played? Volleyball and the guitar used to be the two pillars of my life, but both had drifted away since I started traveling.
 
-While the Northern Lights were the main goal, Iceland's winter landscape offered countless other wonders:
+I walked toward the court and was unexpectedly invited by locals to join their game. In that moment, I unbuckled the waist bag I’d kept strapped to me for security. The sheer "living" atmosphere here allowed me to finally lower my guard. We were all strangers, many playing there for the first time, yet there was a powerful sense of cohesion. We played until the sun began to set around 8:00 or 9:00 PM. Afterward, we dove straight into the river for a swim. The orange-red sunset bled into the sand while a blue-violet sky slowly, unhurriedly draped itself over the city. This is the beauty of the endless Nordic summer nights. Back at the hostel, I cooked my signature bell pepper and chicken pasta, the perfect end to a perfect day.
 
-### The Golden Circle
-
-The classic tourist route, but spectacular in winter:
-- **Thingvellir National Park**: Where the North American and Eurasian tectonic plates meet
-- **Geysir**: Watching Strokkur erupt every 5-10 minutes never gets old
-- **Gullfoss**: The "Golden Falls" partially frozen - absolutely stunning
-
-### Glacier Hiking
-
-We joined a glacier hiking tour on Sólheimajökull. Strapping on crampons and walking across ancient ice, peering into deep blue crevasses - it's humbling and exhilarating.
-
-### The Blue Lagoon
-
-Yes, it's touristy. Yes, it's expensive. Yes, it's absolutely worth it. Soaking in the milky blue geothermal water while snow falls around you is magical.
-
-### Black Sand Beach
-
-Reynisfjara beach with its basalt columns and powerful waves is otherworldly. The winter storms make it even more dramatic (but respect the warning signs - those waves are dangerous).
-
-## Practical Tips
-
-### Clothing
-- Layer, layer, layer
-- Waterproof outer shell is essential
-- Good boots with grip
-- Warm gloves and hat
-- Thermal underwear
-
-### Photography
-- Tripod is a must for Northern Lights
-- Extra batteries (cold drains them fast)
-- Manual camera settings
-- Learn long exposure techniques before you go
-
-### Driving
-- Rent a 4WD vehicle
-- Check weather and road conditions daily
-- Winter tires are mandatory
-- Drive slowly - roads can be icy
-- Fill up gas whenever you can
-
-### Northern Lights Apps
-- "My Aurora Forecast" for activity predictions
-- Check cloud cover forecasts
-- Be prepared to stay up late or wake up in the middle of the night
-
-## The Cost
-
-Iceland isn't cheap, but it's manageable with planning:
-- **Flights**: $400-800 depending on season
-- **Car rental**: $70-120/day for 4WD
-- **Accommodation**: $100-200/night
-- **Food**: $50-80/day
-- **Activities**: $50-150 per activity
-- **Weekly budget**: $2,500-3,500 for two people
-
-## Final Thoughts
-
-Iceland in winter is challenging - short days, cold weather, unpredictable conditions. But it's also incredibly rewarding. The landscapes are otherworldly, the experiences are unforgettable, and if you're lucky enough to see the Northern Lights dancing across the sky, it's a moment you'll carry with you forever.
-
-Would I go back? In a heartbeat. There's so much more to explore, and part of me will always be chasing those lights.

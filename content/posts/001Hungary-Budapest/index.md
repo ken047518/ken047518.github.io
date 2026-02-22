@@ -7,7 +7,6 @@ image: IMG_4427.jpg
 featured: true
 location: Budapest, Hungary
 tags:
-  - Budapest
   - CentralEurope
   - SoloTravel
   - MusicFestival

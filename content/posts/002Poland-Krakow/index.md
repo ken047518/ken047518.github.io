@@ -10,7 +10,6 @@ tags:
   - CentralEurope
   - SoloTravel
   - Hostel
-  - Kraków
 categories:
   - North-East solo travel
 ---

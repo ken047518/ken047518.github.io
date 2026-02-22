@@ -1,102 +1,38 @@
 ---
-title: Chasing the Northern Lights in Iceland
-date: 2025-11-28
-description: An unforgettable journey through Iceland's winter wonderland in search of the magical Aurora Borealis.
-summary: Our epic road trip through Iceland during winter, complete with glacier hikes, hot springs, and the spectacular Northern Lights.
-image: iceland.jpg
+title: "EP 7. Reunion at the Turning Point of Time: Unlocking the Baltic Mystery"
+date: 2024-09-05
+description: 'It began with a simple bowl of pasta and a deep conversation with a German sociology student. Together, we wandered past the Russian Embassy, etched with historical scars, and the desolate ruins used as filming locations for Tenet. Our walk became a classroom for debating war, sovereignty, and the stark contrasts between the German and Taiwanese education systems. Soon, the setting shifted to the beach, where I joined a group of Ukrainian men—living fiercely in the moment—for intense rounds of volleyball and table tennis. In their laughter, I witnessed true resilience and experienced a brand of language learning that no textbook could ever provide. Finally, through a small twist involving a WhatsApp contact, I released the regret that had lingered since Budapest. I realized that the meeting of travelers is like "time inversion": not every encounter is a prelude to a goodbye. Some people are simply waiting for their next predestined reunion.'
+summary: 'It began with a simple bowl of pasta and a deep conversation with a German sociology student. Together, we wandered past the Russian Embassy, etched with historical scars, and the desolate ruins used as filming locations for Tenet. Our walk became a classroom for debating war, sovereignty, and the stark contrasts between the German and Taiwanese education systems. Soon, the setting shifted to the beach, where I joined a group of Ukrainian men—living fiercely in the moment—for intense rounds of volleyball and table tennis. In their laughter, I witnessed true resilience and experienced a brand of language learning that no textbook could ever provide. Finally, through a small twist involving a WhatsApp contact, I released the regret that had lingered since Budapest. I realized that the meeting of travelers is like "time inversion": not every encounter is a prelude to a goodbye. Some people are simply waiting for their next predestined reunion.'
+image: Tallinn_ambassy.webp
 featured: true
-location: Iceland
+location: Tallinn, Estonia
 tags:
-  - Iceland
-  - northern-lights
-  - winter-travel
-  - adventure
+  - Baltic
+  - Hostel
+  - SoloTravel
 categories:
-  - travel
+  - North-East solo travel
 ---
+## The Pasta Prelude: Debating Education and Empires at Linnahall
 
-Iceland in winter is a different world - a land of ice, fire, and one of nature's most spectacular light shows. After years of dreaming about seeing the Northern Lights, I finally made the journey to this Nordic island nation, and it exceeded every expectation.
+It was a simple bowl of sausage pasta that opened the door to a profound afternoon. A German sociology student, intrigued (and perhaps a bit concerned) by my minimalist lunch of pasta, grapes, and milk tea, invited me to explore Tallinn with him.
 
-## The Quest Begins
+Our walk took us through the medieval heart of the city, but the most striking stop was the Russian Embassy. The gates were a gallery of silent resistance: Ukrainian flags, blood-stained white linens, and the haunting faces of the missing. It was a visceral reminder of the shared Baltic history of occupation and their unwavering support for sovereignty.
 
-Seeing the Northern Lights isn't guaranteed. It requires clear skies, solar activity, and a good dose of patience. We spent a week in Iceland during late November, giving ourselves the best chance to witness the Aurora Borealis.
+We eventually made our way to the brutalist remains of **Linnahall**, the "Tenet" filming site. The concrete was cracked and reclaimed by weeds, a stark, desolate backdrop for our discussion on education. We compared the German commitment to linguistic purity in universities with Taiwan’s somewhat confused "internationalization" efforts. He observed that for Europeans, language isn't a subject to be mastered over decades—it’s a tool integrated into the rhythm of life.
 
-### Night One: Patience
+I realized then that my few days on the road had taught me more practical English than years in a classroom. As the smell of "weed"—a word far more common here than the "marijuana" of my textbooks—wafted through the summer air, I felt the gap between academic learning and real-world existence finally beginning to close.
 
-Our first night was cloudy. We drove out of Reykjavik, away from light pollution, and waited. And waited. Nothing. The forecast app showed potential activity, but the clouds didn't cooperate. This is part of the adventure - nature operates on its own schedule.
+## The Ukrainian Invitation and the Baltic Resolution
 
-### Night Three: The Moment
+The scent of "weed" drifting up from the steps became too pungent, so we headed back to the hostel for a quick break. Remembering the sand volleyball courts I’d spotted near **Linnahall**, I decided to return to the beach that evening. There, I unexpectedly joined a team of middle-aged Ukrainian men. I realized then how many Ukrainians are living across Europe; yet, the way they radiated a fierce "living in the moment" energy made it impossible to sense any heavy burden of worry. I couldn't help but wonder: what do they feel when they see their national flag draped over the gates of the Russian Embassy? If I saw the Taiwanese flag displayed in another country as a sign of support, I know I would be deeply moved.
 
-On our third night, after a day exploring the Golden Circle, we checked the aurora forecast. Strong activity predicted! We drove to Thingvellir National Park and set up our cameras around 11 PM.
+On the court, no one was particularly skilled, but the joy was infectious. One uncle even accidentally kicked sand into my eyes while diving for a ball. After losing the first set, they abruptly invited me to play table tennis—they even had their own paddles ready! It was all so sudden, but we ended up battling it out on stone tables right there on the beach. My German friend from earlier joined in, and this international match roared on until every single ping-pong ball had cracked. We ended the night in a chorus of laughter and satisfaction.
 
-At 11:47 PM, it started.
+## Unlocking the Baltic Enigma
 
-A faint green glow appeared on the horizon. Within minutes, it intensified, dancing across the sky in waves of green, white, and occasional purple. No photo can capture the feeling of watching the Northern Lights dance above you. It's ethereal, almost spiritual.
+The day felt like a series of scattered moments, but isn't that just how life moves forward? I woke up with no plans, eating my leftover sausage pasta, met the German guy in the kitchen, and ended up wandering the Old Town and the cinematic ruins of _Tenet_.
 
-We stayed until 2 AM, watching the lights pulse and swirl. By the time we drove back to our hotel, we were exhausted but elated.
+I’ve realized that as I move forward through time, those coming from the opposite direction are simply following their own timelines. These chance encounters between travelers are like the "time inversion" in _Tenet_—a fated convergence at a specific coordinate in the world. This was my final stop in the Baltics, and I finally understood why that Hong Kong girl loved this place so much. It was also while trying to exchange WhatsApp info with my German friend that I realized a small technical detail: saving a number doesn't always trigger an automatic "add." This tiny discovery suddenly released a long-held knot in my heart. You were heading south, and I was heading north; we crossed paths for a fleeting moment. The regret I left behind in Budapest was finally set free. I see now that not every meeting is a prelude to a goodbye. Some people are just waiting for the next "inverted" reunion.
 
-## Beyond the Lights
-
-While the Northern Lights were the main goal, Iceland's winter landscape offered countless other wonders:
-
-### The Golden Circle
-
-The classic tourist route, but spectacular in winter:
-- **Thingvellir National Park**: Where the North American and Eurasian tectonic plates meet
-- **Geysir**: Watching Strokkur erupt every 5-10 minutes never gets old
-- **Gullfoss**: The "Golden Falls" partially frozen - absolutely stunning
-
-### Glacier Hiking
-
-We joined a glacier hiking tour on Sólheimajökull. Strapping on crampons and walking across ancient ice, peering into deep blue crevasses - it's humbling and exhilarating.
-
-### The Blue Lagoon
-
-Yes, it's touristy. Yes, it's expensive. Yes, it's absolutely worth it. Soaking in the milky blue geothermal water while snow falls around you is magical.
-
-### Black Sand Beach
-
-Reynisfjara beach with its basalt columns and powerful waves is otherworldly. The winter storms make it even more dramatic (but respect the warning signs - those waves are dangerous).
-
-## Practical Tips
-
-### Clothing
-- Layer, layer, layer
-- Waterproof outer shell is essential
-- Good boots with grip
-- Warm gloves and hat
-- Thermal underwear
-
-### Photography
-- Tripod is a must for Northern Lights
-- Extra batteries (cold drains them fast)
-- Manual camera settings
-- Learn long exposure techniques before you go
-
-### Driving
-- Rent a 4WD vehicle
-- Check weather and road conditions daily
-- Winter tires are mandatory
-- Drive slowly - roads can be icy
-- Fill up gas whenever you can
-
-### Northern Lights Apps
-- "My Aurora Forecast" for activity predictions
-- Check cloud cover forecasts
-- Be prepared to stay up late or wake up in the middle of the night
-
-## The Cost
-
-Iceland isn't cheap, but it's manageable with planning:
-- **Flights**: $400-800 depending on season
-- **Car rental**: $70-120/day for 4WD
-- **Accommodation**: $100-200/night
-- **Food**: $50-80/day
-- **Activities**: $50-150 per activity
-- **Weekly budget**: $2,500-3,500 for two people
-
-## Final Thoughts
-
-Iceland in winter is challenging - short days, cold weather, unpredictable conditions. But it's also incredibly rewarding. The landscapes are otherworldly, the experiences are unforgettable, and if you're lucky enough to see the Northern Lights dancing across the sky, it's a moment you'll carry with you forever.
-
-Would I go back? In a heartbeat. There's so much more to explore, and part of me will always be chasing those lights.
+---
