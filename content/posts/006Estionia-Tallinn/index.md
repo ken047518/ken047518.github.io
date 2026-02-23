@@ -7,9 +7,10 @@ image: Tallinn_guitarist.webp
 featured: true
 location: Tallinn, Estonia
 tags:
-  - Baltic
-  - Hostel
-  - SoloTravel
+  - baltic
+  - hostel
+  - solo-travel
+  - bus
 categories:
   - North-East solo travel
 ---

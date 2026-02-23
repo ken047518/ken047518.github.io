@@ -7,11 +7,11 @@ image: Helsinki.webp
 featured: true
 location: Helsinki, Finland
 tags:
-  - Nordic
-  - SoloTravel
-  - Hostel
-  - History
-  - Cuisine
+  - hostel
+  - history
+  - solo-travel
+  - nordic
+  - ferry
 categories:
   - North-East solo travel
 draft: true

@@ -7,9 +7,13 @@ image: Riga.webp
 featured: true
 location: Riga, Lativa.
 tags:
-  - Baltic
-  - Hostel
-  - SoloTravel
+  - baltic
+  - hostel
+  - music
+  - solo-travel
+  - photography
+  - volleyball
+  - bus
 categories:
   - North-East solo travel
 ---

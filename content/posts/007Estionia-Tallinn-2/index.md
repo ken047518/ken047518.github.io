@@ -7,9 +7,13 @@ image: Tallinn_ambassy.webp
 featured: true
 location: Tallinn, Estonia
 tags:
-  - Baltic
-  - Hostel
-  - SoloTravel
+  - baltic
+  - hostel
+  - solo-travel
+  - table-tennis
+  - volleyball
+  - history
+  - ferry
 categories:
   - North-East solo travel
 ---

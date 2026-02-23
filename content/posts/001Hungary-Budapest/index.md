@@ -7,10 +7,11 @@ image: IMG_4427.jpg
 featured: true
 location: Budapest, Hungary
 tags:
-  - CentralEurope
-  - SoloTravel
-  - MusicFestival
-  - Hostel
+  - central-europe
+  - hostel
+  - music
+  - solo-travel
+  - bus
 categories:
   - North-East solo travel
 ---

@@ -8,11 +8,11 @@ featured: true
 draft: false
 location: 匈牙利 布達佩斯
 tags:
-  - 布達佩斯
   - 中歐
   - 獨旅
-  - 音樂節
   - 青旅
+  - 音樂
+  - 巴士
 categories:
   - 東北歐獨旅
 ---

@@ -7,9 +7,7 @@ image:
 featured: true
 location: Helsinki, Finland
 tags:
-  - Nordic
-  - SoloTravel
-  - Hostel
+  - nordic
 categories:
   - North-East solo travel
 draft: true

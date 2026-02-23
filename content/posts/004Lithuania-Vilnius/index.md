@@ -7,10 +7,11 @@ image: Vilnius.webp
 featured: true
 location: Vilnius, Lithuania
 tags:
-  - Baltic
-  - Hostel
-  - SoloTravel
-  - MusicFestival
+  - baltic
+  - hostel
+  - music
+  - solo-travel
+  - bus
 categories:
   - North-East solo travel
 ---

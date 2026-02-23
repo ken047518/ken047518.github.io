@@ -7,9 +7,13 @@ image: Warsaw.webp
 featured: true
 location: Warsaw, Poland
 tags:
-  - CentralEurope
-  - Hostel
-  - SoloTravel
+  - central-europe
+  - hostel
+  - name
+  - solo-travel
+  - photography
+  - history
+  - bus
 categories:
   - 東北歐獨旅
 ---

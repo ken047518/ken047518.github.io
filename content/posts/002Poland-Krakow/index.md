@@ -7,9 +7,12 @@ image: krakow.webp
 featured: true
 location: Kraków, Poland
 tags:
-  - CentralEurope
-  - SoloTravel
-  - Hostel
+  - central-europe
+  - hostel
+  - music
+  - solo-travel
+  - history
+  - bus
 categories:
   - North-East solo travel
 ---
