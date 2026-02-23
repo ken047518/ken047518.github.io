@@ -1,4 +1,4 @@
 ---
-title: Galleries
-description: Photo galleries from our travels around the world
+title: 相簿
+description: 來自世界各地旅行的照片相簿
 ---
