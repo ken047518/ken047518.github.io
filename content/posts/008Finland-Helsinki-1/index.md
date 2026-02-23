@@ -1,20 +1,19 @@
 ---
 title: "EP 8. Wandering Across the Sea Under a Purple Afterglow: When Regret Becomes a Destined Tenderness"
-date: 2024-09-08
+date: 2024-09-07
 description: Beginning with the regret of a missed ferry, I unexpectedly stumbled into the decadent purple tenderness of Helsinki. In the hostel's bustling kitchen, a surprise African meal warmed my long-parched Asian stomach, while the raw monologues of travelers revealed the realities of survival in the North. As I stood atop the cold cannons of Suomenlinna, watching crowds picnic peacefully beside war ruins, I truly felt the weight of shifting eras. It turns out that every regret on the road is merely a guide, leading us toward a destined, beautiful memory.
 summary: Beginning with the regret of a missed ferry, I unexpectedly stumbled into the decadent purple tenderness of Helsinki. In the hostel's bustling kitchen, a surprise African meal warmed my long-parched Asian stomach, while the raw monologues of travelers revealed the realities of survival in the North. As I stood atop the cold cannons of Suomenlinna, watching crowds picnic peacefully beside war ruins, I truly felt the weight of shifting eras. It turns out that every regret on the road is merely a guide, leading us toward a destined, beautiful memory.
-image: Helsinki.webp
+image: Helsinki-sky2.webp
 featured: true
 location: Helsinki, Finland
 tags:
   - hostel
-  - history
   - solo-travel
-  - nordic
   - ferry
+  - nordic
+  - history
 categories:
   - North-East solo travel
-draft: true
 ---
 ## Nordic-Exclusive Purple Tenderness: Island Hopping from Tallinn to Helsinki
 
