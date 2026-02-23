@@ -1,58 +1,61 @@
 ---
-title: "EP 4. Heading North: Post-Rock in a Forest City"
+title: EP 4.《一路向北：在森林系首都，聽一場直擊內心的後搖滾》
 date: 2024-08-31
-description: I woke up in Vilnius during the early morning "blue hour." This forest-enveloped capital felt even more free and mysterious than I had imagined. My journey here began by stumbling into a graffiti-covered ruin of a hostel. In the Old Town, I found soul music that felt like a cleansing for the spirit, and later, I stood atop Gediminas' Hill, overlooking the city with a cup of bubble tea in hand. Looking at the crumbling remains of the Upper Castle, I realized that this city chooses to coexist with its scars—a gentle compromise between time and freedom. As the local children welcomed the first day of school, I put on a pair of new shoes, ready to wander even further.
-summary: I woke up in Vilnius during the early morning "blue hour." This forest-enveloped capital felt even more free and mysterious than I had imagined. My journey here began by stumbling into a graffiti-covered ruin of a hostel. In the Old Town, I found soul music that felt like a cleansing for the spirit, and later, I stood atop Gediminas' Hill, overlooking the city with a cup of bubble tea in hand. Looking at the crumbling remains of the Upper Castle, I realized that this city chooses to coexist with its scars—a gentle compromise between time and freedom. As the local children welcomed the first day of school, I put on a pair of new shoes, ready to wander even further.
+description: 醒在清晨藍調時光的維爾紐斯，這座被森林包圍的首都，比想像中更加自由且神祕。從闖進充滿塗鴉的廢墟旅舍開始，我在老城區遇見了洗滌心靈的靈魂音樂，在格迪米納斯山上拎著珍奶俯瞰城市。上城杜卡宮的殘磚破瓦，我明白這裡選擇帶著傷痕共存，那是時間與自由最溫柔的妥協。當城市的孩子迎來開學，我卻換上一雙新鞋，決定愈走愈遠。
+summary: 醒在清晨藍調時光的維爾紐斯，這座被森林包圍的首都，比想像中更加自由且神祕。從闖進充滿塗鴉的廢墟旅舍開始，我在老城區遇見了洗滌心靈的靈魂音樂，在格迪米納斯山上拎著珍奶俯瞰城市。上城杜卡宮的殘磚破瓦，我明白這裡選擇帶著傷痕共存，那是時間與自由最溫柔的妥協。當城市的孩子迎來開學，我卻換上一雙新鞋，決定愈走愈遠。
 image: Vilnius.webp
 featured: true
-location: Vilnius, Lithuania
+draft: false
+location: 立陶宛 維爾紐斯
 tags:
-  - baltic
-  - hostel
-  - music
-  - solo-travel
-  - bus
+  - 獨旅
+  - 青旅
+  - 波羅地海三國
+  - 音樂
+  - 巴士
 categories:
-  - North-East solo travel
+  - 東北歐獨旅
 ---
-## Dawn in Vilnius: The Mystery of Hostel Jamaika
+## 闖進 Jamaika：在廢墟塗鴉中睡去的清晨
 
-I woke up on the bus to a landscape draped in thick fog. The sky was shifting into a deep morning blue, casting a dreamy filter over the passing fields. The utility poles and silhouettes of trees emerged slowly from the mist as the day began to break. It was a breathtakingly quiet start to the journey.
+又是一班夜車，在巴士上睡了一覺，醒來看見車窗起了大霧，稍微能夠看見窗外的田野，以及微微亮起的天空呈現清晨的藍調時光。「好美啊...」我用睡眼惺忪加上大霧的朦朧濾鏡看著窗外，電線桿靜靜地佇立在田野旁邊好久好久，樹影不斷畫過眼前，一分鐘比一分鐘還要清晰。
 
-Vilnius offers a different vibe from its neighbors. While Budapest is grand and Warsaw is a symbol of resilience, Vilnius feels like a capital of the forest—a peaceful getaway tucked away from reality.
+維爾紐斯是立陶宛首都，如果說布達佩斯是壯麗的，華沙是重生的韌性，維爾紐斯則給人一種「森林系」首都的感覺，他是遠離塵囂的世外桃源。
 
-Determined to find **Hostel Jamaika**, I navigated through a secluded alleyway and entered a gated lot. The scene was raw: graffiti-strewn walls, overgrown weeds, and no signage in sight. I found a door, but it was locked. Shivering in the 10°C morning air, I waited. Eventually, someone came out for a smoke, and I seized the chance to slip in. I spent my first few hours in the city face-down on a kitchen table. Later, the non-English speaking manager checked me in via a translator app. I had a five-bed dorm all to myself for the rest of my stay.
+在清晨抵達維爾紐斯，我在網路上看到一間牙買加旅社，決定清晨直接去探個究竟。我循著地圖的路徑，他似乎是隱蔽在一個街區裡頭，照著 Google map 的路徑看到一個由鐵門圍起來的入口就進去了。一片停車場，還有看起來有些雜草雜物閒置在塗鴉的牆壁旁邊，連個招牌都沒有，看到了一扇門我猜是入口吧，不過清晨沒有人管理所以鎖住了。清晨十幾度的維爾紐斯還是很冷的。
 
-## Vilnius Capital Days: A City-Wide Forest Bath
+過了不久有一位男子從那個門走出來抽菸，我沒有想太多就直接進去了，直覺告訴我這裡就是旅社。我在廚房趴著就睡了幾個小時。醒來後管理員來了，他不會講英文，所以用翻譯跟我溝通。後來住到一間五人房，但這兩天整個房間都只有我一個人。
 
-After catching up on sleep, I marked a few spots on the map and headed out. I stopped by a bakery near the hostel called **Pleassurie Uptown** for a blueberry crumble bun—I’m mentioning the name because it was honestly legendary.
+## 維爾紐斯首都日：城市的森林浴
 
-I started from **All Saints Church**, passed the **Bastion of the Defensive Wall**, and walked through the **Town Hall Square**toward Lithuania’s top institution: **Vilnius University**. It’s the "National Taiwan University" of Lithuania, with the Presidential Palace right next door. The **Vilnia River** adds a playful charm to the city; locals have hung a painted wooden swing from a bridge, and the riverbanks are dotted with artwork and sculptures. With red flowers accenting the lush greenery, it felt like a scene straight out of a fairy tale.
+補眠起來後，在地圖標記了一些景點，決定去城區走走。去了旅社附近的麵包店 Pleassurie Uptown 買了一個奶酥藍莓麵包，我直接把店名寫出來因為真的太好吃了。
 
-On my way to the **Vilnius Cathedral**, I heard the faint pulse of music. As I drew closer, it became clear: a city music festival was in full swing. I had other sights planned, but the moment I reached the square and heard my favorite **Post-rock** melodies, I ran toward the stage. I let the soaring "wall of sound" built by the guitars wash over me, stirring something deep inside. Post-rock has this way of piercing through the surface, striking the core of my heart to bring a sense of release and peace.
+從諸聖堂出發，繞過防禦牆堡壘，穿過市政廳廣場走向立陶宛的最高學府 — 維爾紐斯大學。維爾紐斯大學可以說是立陶宛的台大，甚至總統府就在旁邊。途經的維爾尼亞河增添了維爾紐斯的趣味性，當地人在小橋掛了一個木椅製的彩繪盪鞦韆，河流周圍還有圖畫和雕像，紅花點綴在綠意盎然的城區，這種童話故事裡面才會有的畫面竟然存在於維爾紐斯。
 
-Vilnius has a population of about 700,000, and that night, it felt like every single one of them was there. I stayed until the headliner—one of Lithuania’s most famous female singers. Her set wasn't high-energy hype; instead, it was rhythmic and relaxing, using organic, nature-like instruments to immerse the entire crowd in a collective "forest bath."
+在前往維爾紐斯主座教堂的路上，我模糊地聽到了音樂的聲音，隨著我慢慢靠近逐漸清晰，原來是一場城市音樂節。原本還有安排一些景點，但我一到廣場就聽到我最喜歡的後搖滾音樂 (Post-rock)，我直接奔向舞台，讓後搖滾建構出的層層音牆，推向我內心的悸動。後搖滾總是可以穿越我心中的表象，直擊內心最深處，進而達到壓力的釋放和平靜。
 
-## Lithuanian Flavors: Neon Pink Soup and Zeppelin Dumplings
+維爾紐斯人口大約 70 萬人，當天晚上感覺整個城市的人都在這裡了，一路聽到壓軸，很期待他們音樂節的壓軸會是什麼類型的音樂，壓軸是他們最有名的女歌手之一，不是那種很嗨的音樂，而是比較舞動、放鬆的，用一些接近自然聲音的樂器讓全場沉浸在這場森林浴。
 
-After my musical "forest bath," I slept for ten straight hours. The next morning, I hit up a second-hand shop for a pair of pants—since I’d originally planned for a three-day trip, I was seriously running low on clean clothes. With my wardrobe sorted, it was time to dive into the local specialties: **Šaltibarščiai** (Pink Cold Soup) and **Cepelinai** (Lithuanian Meat Dumplings).
+## 立陶宛美食體驗：粉紅冷湯與齊柏林飛船
 
-**Šaltibarščiai** sports an almost unnaturally bright neon pink color, a result of mixing beets with **Kefir** (traditional fermented milk). Packed with cucumbers, dill, and chopped hard-boiled eggs, and served with a side of potatoes, it’s a bizarre sight. Honestly, it felt a bit like drinking watercolor paint, but once you get past the visual, it’s surprisingly refreshing and natural.
+洗完音樂森林浴後，直接十小時睡到自然醒。早上去附近的二手衣店買了一件換洗用的褲子，畢竟我一開始只打算出來玩三天，根本沒帶幾件換洗衣物。一切打理好後，當然還要去嘗嘗當地特色料理 –– 粉色冷湯 (Šaltibarščiai) 以及立陶宛肉圓 (Cepelinai)。
 
-Then there’s **Cepelinai**, nicknamed "Zeppelins" because they look exactly like giant airships. The casing is a mix of raw and cooked grated potatoes, stuffed with pork and cheese. The "soul" of the dish is the heavy topping of sour cream and crispy bacon bits (spirgučiai). It’s incredibly dense and greasy—one of these starchy giants is enough to fuel me for an entire day. Since I’ve been in "survival mode" and skimping on meals, my stomach has shrunk, so this felt like a massive feat to finish.
+Šaltibarščiai 呈現出一種極度不自然的螢光粉紅色，這顏色來自於甜菜根與立陶宛傳統發酵乳 (Kefir)，裡面還會加入小黃瓜、蒔蘿和切碎的水煮蛋，並附上馬鈴薯配著吃，一開始會覺得很詭異但其實還不錯喝，很清爽自然的感覺，同時也很像在喝水彩顏料。
 
-## Gediminas Hill: A Gentle Compromise Between Time and Freedom
+Cepelinai 又稱齊柏林飛船，因為它的外型就像一顆巨大的飛艇，由磨碎的生馬鈴薯與煮熟的馬鈴薯混合製成外皮，內層包豬肉餡和乳酪，淋上酸奶油和炸豬油渣製成的靈魂醬汁，整體味道非常重而且很油膩，這些厚重的澱粉感覺足夠我撐上一整天，出來旅行後常常省吃儉用就會變成小鳥胃求生模式。
 
-After soaking in the city’s music for hours, I’ve fallen in love with the Lithuanian sound—airy, organic, and perfectly in sync with the city’s spirit. Music here is inseparable from its environment.
+## 格迪米納斯山：時間與自由最溫柔的妥協
 
-At sunset, I climbed **Gediminas Hill** with a cup of "Formosa" bubble tea. The **Gediminas Tower** and the **Ducal Palace of the Upper Castle** stand as an inseparable pair atop the hill. The octagonal red-brick tower, flying the Lithuanian flag, was a stronghold of nationalism in the late 20th century. More importantly, it was the starting point of the 1989 **Baltic Way**—a peaceful human chain of 2 million people stretching 675 kilometers to Tallinn, Estonia, a monumental moment for Baltic independence.
+去城市聽了幾個小時的音樂，真的很喜歡立陶宛的音樂氛圍啊，整體自然輕盈的氛圍與城市風格毫無違和，果然一個地方的音樂風格和其環境絕對脫離不了關係。
 
-Nearby, the Upper Castle ruins stand in stark contrast to the opulence of the Lower Palace. While the latter was for social splendor, the Upper Castle symbolized defense and sovereignty. Destroyed during the 17th-century Russo-Polish War, it has been left in its ruined state ever since. Unlike Warsaw’s meticulous reconstruction, Vilnius chooses to coexist with its scars. There is a profound beauty in this incompleteness. Having witnessed centuries of gunpowder, the silence of the Soviet era, and the hope of the Baltic Way, these ruins represent a gentle compromise between time and freedom.
+夕陽時分買了一杯福爾摩沙珍珠奶茶爬上了格迪米納斯山 (Gediminas Hill)，格迪米納斯塔 (Gediminas Tower)和上城杜卡宮 (Ducal Palace of the Upper Castle) 是山丘上不可分割的共同體。格迪米納斯塔是八角型的紅磚塔，城堡上可以見到立陶宛國旗，這裡是 20 世紀末立陶宛民族主義高揚時的據點，更是 1989 年波羅地海之路大規模和平示威的起點，大約 200 萬人手牽手組成「人鏈」一路延伸到愛沙尼亞的首都塔林，總長度超過 675 公里，奠定了波羅的海的民族意識及往後獨立運動的發展。
 
-I sat on the stone wall by the tower, legs dangling, watching the sun dip below the horizon. I felt the breath of freedom and the passage of time, realizing that the hours I spent relaxing there represented decades of struggle for others.
+山坡上相隔不遠處的上城杜卡宮，有別於下城大公宮的金碧輝煌，殘磚破瓦正是其特色。古時候下城宮殿以社交功能為主，上城則是防禦功能和主權象徵。在 17 世紀俄波戰爭時遭到摧毀，往後便保留廢墟狀態至此。有別於華沙的老城重建，維爾紐斯選擇帶著傷痕共存，其殘缺之美反而更讓人欣賞。它見證了無數個世紀的火藥，到波羅地海之路和平示威的震撼，再到蘇聯時期的沉默，上城的廢墟是時間與自由最溫柔的妥協。
 
-As darkness fell, the pulse of jazz drums from below grew louder. I headed down to find a restroom and stumbled into an outdoor music bar. For a 5-euro "entry fee," I stayed to enjoy a local band. Inside that "musical cave," the crowd was a blur of dancing and raw energy—the true essence of a Vilnius night.
+我拎著一杯珍奶，雙腳懸空坐在格迪米納斯塔旁邊的石牆，從太陽的西下感受時間的流逝，感受自由的氣息，這幾小時曾經是其他人的幾十年啊。
 
-On my final day, I replaced my worn-out sneakers with a fresh, comfortable pair of white shoes and treated myself to some locally recommended sushi. For my final hours, I climbed the **Hill of Three Crosses**. Seeing parents and children gathered by the river, I realized school had started—yet here I was, refusing to stop, heading further and further North.
+太陽落下後，山下不斷敲響的爵士鼓沒有停過，天黑後我決定下山去找廁所，碰巧進到了那間戶外的音樂酒吧，花了五歐元進去上廁所，便留下來聽了在地樂團的音樂，在音樂洞窟裡，大家跳舞、躁動，這就是屬於維爾紐斯的夜晚吧。
 
-The irony? I realized at the last minute I’d booked my bus from the wrong station. I ended up racing through the streets on a **Bolt e-bike**, cursing the 25km/h speed limit. Miraculously, I made it. If you want to avoid my clumsy mistakes, check out my Vilnius Travel Guide!
+在維爾紐斯的最後一天，我去買了一雙很好看很舒服的白鞋替換已經被我走到爛掉的白鞋， 然後去吃了當地人推薦的壽司，最後的幾小時我決定爬上三十字架山，一路上看到一些小朋友和家長在河邊草皮進行一些活動，才意識到已經開學了，而我卻沒有打算停下來，一路向北愈走愈遠。
+
+更好笑的是，我的巴士票竟然買錯車站，最後極限租了一台 Bolt 電動腳踏車衝去另一個車站，結果連電動腳踏車都有速限每小時 25 公里，好在最後還是有趕上巴士，不想遇到這種窘境可以去看我的維爾紐斯旅行攻略~

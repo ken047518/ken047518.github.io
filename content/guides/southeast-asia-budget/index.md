@@ -1,553 +1,554 @@
 ---
-title: Southeast Asia Budget Travel Guide
+title: 東南亞預算旅遊指南
 date: 2025-09-20
 modified: 2025-11-05
-description: Complete guide to traveling Southeast Asia on a budget - accommodation, food, transportation, and money-saving tips.
+description: 預算遊東南亞完整指南 - 住宿、餐飲、交通和省錢技巧。
 image: southeast-asia.jpg
 featured: false
-location: Southeast Asia
+location: 東南亞
 draft: true
 ---
 
-# Southeast Asia Budget Travel Guide
-
-Southeast Asia is a backpacker's paradise - stunning beaches, ancient temples, delicious food, and incredible value for money. Here's your complete guide to traveling the region on a budget.
-
-## Daily Budget by Country
-
-### Ultra-Budget ($15-25/day)
-- Hostel dorms
-- Street food only
-- Local transport
-- Free activities
-- Possible in: Cambodia, Laos, Vietnam, Myanmar
-
-### Budget Backpacker ($25-40/day)
-- Mix of hostels and cheap guesthouses
-- Street food + occasional restaurant
-- Mix of local transport and some tours
-- Some paid activities
-- Comfortable in most countries
-
-### Mid-Range ($40-70/day)
-- Private rooms
-- Mix of local food and restaurants
-- Comfortable transport
-- Regular tours and activities
-- All countries easily
-
-### Country-by-Country Breakdown
-
-**Thailand** - $30-50/day
-- Most developed infrastructure
-- Wide range of options
-- Islands more expensive
-- Bangkok and Chiang Mai great value
-
-**Vietnam** - $20-35/day
-- Excellent value
-- Amazing street food
-- Affordable accommodation
-- Transport can add up
-
-**Cambodia** - $20-30/day
-- Very budget-friendly
-- Angkor Wat is pricey ($37/day pass)
-- Basic but adequate facilities
-- Limited transport options
-
-**Laos** - $25-35/day
-- Quiet and relaxed
-- Less developed
-- Limited ATMs
-- Beautiful nature
-
-**Myanmar** - $25-40/day
-- Less tourist infrastructure
-- Cash only (US dollars)
-- Unique experiences
-- Harder to travel independently
-
-**Malaysia** - $35-55/day
-- More expensive than neighbors
-- Excellent infrastructure
-- Great food scene
-- Modern amenities
-
-**Indonesia (Bali)** - $25-45/day
-- Wide price range
-- Touristy areas expensive
-- Local areas very cheap
-- Great for longer stays
-
-**Philippines** - $30-50/day
-- Transport is expensive (islands)
-- Accommodation cheap
-- Food affordable
-- Amazing beaches
-
-## Accommodation
-
-### Hostels ($5-15/night)
-
-**Best booking sites:**
-- Hostelworld - Largest selection
-- Booking.com - Often cheaper
-- Agoda - Best for Asia
-
-**Tips:**
-- Book 1-2 days ahead during high season
-- Read recent reviews
-- Check location carefully
-- Free breakfast saves money
-- Look for free WiFi
-
-**Recommended chains:**
-- Mad Monkey (party hostels)
-- Lub d (quality on budget)
-- Slumber Party (stylish budget)
-
-### Guesthouses ($8-20/night)
-
-**Advantages:**
-- Private room
-- More local experience
-- Often family-run
-- Can negotiate longer stays
-
-**Where to find:**
-- Walk around and look
-- Ask other travelers
-- Book.com last-minute deals
-- Local recommendations
-
-### Alternative Accommodation
-
-**Couchsurfing** - Free
-- Stay with locals
-- Great cultural exchange
-- Must be social
-- Safety considerations
-
-**Work Exchange** - Free accommodation
-- Workaway, HelpX, WWOOF
-- 4-5 hours work/day
-- Learn new skills
-- Meet like-minded travelers
-
-**Longer-term rentals** - Cheaper monthly
-- Airbnb (monthly discounts)
-- Facebook groups
-- Local agents
-- Negotiate directly
-
-## Food
-
-### Street Food ($1-3/meal)
-
-**Best countries:**
-- Thailand - Pad Thai, Som Tam
-- Vietnam - Pho, Banh Mi
-- Malaysia - Nasi Lemak, Roti Canai
-- Indonesia - Nasi Goreng, Satay
-
-**Tips:**
-- Eat where locals eat
-- Look for busy stalls
-- Point if you can't read menu
-- Ask for "no spicy" or "little spicy"
-- Carry tissues/hand sanitizer
-
-### Local Restaurants ($2-5/meal)
-
-**What to order:**
-- Daily specials (often cheapest)
-- Rice-based dishes
-- Noodle soups
-- Set meals
-
-**Money-saving:**
-- Lunch specials cheaper
-- Share dishes
-- Skip drinks (expensive)
-- Water is usually free
-
-### Supermarkets
-
-**For self-catering:**
-- 7-Eleven (everywhere)
-- Local markets (cheapest)
-- FamilyMart, Circle K
-- Buy fruit at markets
-
-**Budget items:**
-- Instant noodles
-- Bread and spreads
-- Bananas (super cheap)
-- Biscuits/crackers
-- Water refills
-
-### Food Budget Tips
-
-1. **Eat like a local** - Skip Western food
-2. **Breakfast** - Often included at hostels
-3. **Lunch** - Cheaper than dinner
-4. **Markets** - Cheapest fresh produce
-5. **Cook occasionally** - Hostels with kitchens
-6. **Say no to bottled water** - Use filter or refill stations
-7. **Fruit** - Cheap, healthy snacks
-
-## Transportation
-
-### Flights
-
-**Budget Airlines:**
-- AirAsia (Malaysia-based)
-- Lion Air (Indonesia)
-- VietJet (Vietnam)
-- Nok Air (Thailand)
-- Cebu Pacific (Philippines)
-
-**Booking tips:**
-- Book 1-3 months ahead
-- Tuesday/Wednesday cheapest
-- Early morning/late night cheaper
-- Compare on Skyscanner
-- Book directly with airline
-- Watch for sales
-
-**Baggage:**
-- Bring only carry-on if possible
-- 7kg limit usually
-- Wear heaviest items
-- Baggage fees expensive
-
-### Buses
-
-**Types:**
-- Local bus (cheapest, slowest)
-- VIP bus (air-con, more comfortable)
-- Sleeper bus (overnight, saves hotel)
-- Tourist bus (most expensive, most comfortable)
-
-**Booking:**
-- Book at guesthouse (small commission)
-- Online: 12Go Asia, Bookaway
-- At bus station (cheapest but less convenient)
-- Avoid touts at tourist areas
-
-**Tips:**
-- Overnight buses save accommodation
-- Bring layers (air-con can be freezing)
-- Guard valuables
-- Bring entertainment
-- Expect delays
-
-### Trains
-
-**Best train networks:**
-- Thailand - Extensive, reliable
-- Vietnam - North-South route
-- Malaysia - Modern and comfortable
-- Myanmar - Slow but scenic
-
-**Classes:**
-- 3rd class - Wooden seats, local experience
-- 2nd class - Fans, padded seats
-- 1st class - Air-con, reclining seats
-- Sleeper - Overnight journeys
-
-**Money-saving:**
-- Book direct at station
-- Daytime trains cheaper
-- 2nd/3rd class huge savings
-- Overnight saves hotel
-
-### Ferries & Boats
-
-**Common routes:**
-- Thailand islands
-- Philippines island hopping
-- Ha Long Bay (Vietnam)
-- Mekong River (Laos/Cambodia)
-
-**Tips:**
-- Book in advance (high season)
-- Compare companies
-- Check weather
-- Bring seasickness medication
-- Watch for hidden fees
-
-### Local Transport
-
-**Tuk-tuks/Taxis:**
-- Always negotiate before getting in
-- Use Grab app (Southeast Asian Uber)
-- Share with other travelers
-- Walk if it's close
-- Learn to say prices in local language
-
-**Motorcycles:**
-- Rent: $5-10/day
-- Cheapest transport
-- Great for countryside
-- Wear helmet!
-- Check license requirements
-
-**Bicycle:**
-- Rent: $1-3/day
-- Best for small towns
-- Great for temples
-- Lock it well
-
-## Activities & Attractions
-
-### Free Activities
-
-**Nature:**
-- Beaches (mostly free)
-- Hiking
-- Waterfalls
-- Sunsets
-- National parks (some free days)
-
-**Cultural:**
-- Walking tours (tip-based)
-- Free temple days
-- Markets
-- Local festivals
-- Street art
-
-**Social:**
-- Hostel events
-- Beach hangouts
-- Meetup groups
-- Language exchanges
-
-### Budget Activities ($5-20)
-
-- Snorkeling day trips
-- Cooking classes
-- Bicycle tours
-- Boat trips
-- Cave exploring
-- Zip-lining
-- Local spa/massage
-
-### Expensive But Worth It ($20-50+)
-
-- Scuba diving
-- Multi-day trekkingAngkor Wat pass ($37)
-- Ha Long Bay cruise
-- Hot air balloon (Myanmar)
-
-### Money-Saving Tips
-
-1. **Group tours cheaper** - Join with others
-2. **Negotiate** - Especially for private tours
-3. **Book locally** - Often cheaper than online
-4. **Off-season** - Better deals
-5. **Package deals** - Multiple activities
-6. **Free walking tours** - Tip what you can
-7. **Happy hours** - Cheaper drinks
-8. **Skip tourist traps** - Research first
-
-## Money Management
-
-### Cash vs Card
-
-**Cash:**
-- Preferred everywhere
-- Better exchange rates
-- Small vendors only take cash
-- Keep in money belt
-
-**ATMs:**
-- Withdraw large amounts (fees)
-- Notify your bank before travel
-- Use bank ATMs (not convenience stores)
-- Fees: $3-7 per withdrawal
-
-**Cards:**
-- Emergency backup
-- Larger purchases
-- Hotels, flights
-- Watch for foreign transaction fees
-
-### Best cards for travel:**
-- Wise (formerly TransferWise)
+# 東南亞預算旅遊指南
+
+東南亞是背包客的天堂 - 令人驚嘆的海灘、古老的寺廟、美味的食物，以及令人難以置信的物超所值。這是您預算遊覽該地區的完整指南。
+
+## 各國每日預算
+
+### 超低預算（每天$15-25）
+- 旅館宿舍
+- 只吃街頭小吃
+- 當地交通
+- 免費活動
+- 可行國家：柬埔寨、寮國、越南、緬甸
+
+### 背包客預算（每天$25-40）
+- 旅館和廉價賓館混合
+- 街頭小吃 + 偶爾餐廳
+- 當地交通和一些旅遊混合
+- 一些付費活動
+- 大多數國家都舒適
+
+### 中等預算（每天$40-70）
+- 私人房間
+- 當地美食和餐廳混合
+- 舒適的交通
+- 定期旅遊和活動
+- 所有國家都輕鬆
+
+### 各國明細
+
+**泰國** - 每天$30-50
+- 最發達的基礎設施
+- 多種選擇
+- 島嶼更貴
+- 曼谷和清邁物超所值
+
+**越南** - 每天$20-35
+- 物超所值
+- 令人驚嘆的街頭小吃
+- 經濟實惠的住宿
+- 交通可能會增加
+
+**柬埔寨** - 每天$20-30
+- 非常預算友好
+- 吳哥窟很貴（每天通行證$37）
+- 基本但足夠的設施
+- 交通選擇有限
+
+**寮國** - 每天$25-35
+- 安靜放鬆
+- 較不發達
+- ATM 有限
+- 美麗的自然
+
+**緬甸** - 每天$25-40
+- 較少的遊客基礎設施
+- 只收現金（美元）
+- 獨特體驗
+- 較難獨立旅行
+
+**馬來西亞** - 每天$35-55
+- 比鄰國貴
+- 優秀的基礎設施
+- 很棒的美食場景
+- 現代設施
+
+**印尼（峇里島）** - 每天$25-45
+- 價格範圍廣
+- 觀光區昂貴
+- 當地區域非常便宜
+- 適合長期停留
+
+**菲律賓** - 每天$30-50
+- 交通昂貴（島嶼）
+- 住宿便宜
+- 食物實惠
+- 令人驚嘆的海灘
+
+## 住宿
+
+### 旅館（每晚$5-15）
+
+**最佳訂房網站：**
+- Hostelworld - 最大選擇
+- Booking.com - 通常更便宜
+- Agoda - 最適合亞洲
+
+**技巧：**
+- 旺季提前1-2天預訂
+- 閱讀最新評論
+- 仔細檢查位置
+- 免費早餐省錢
+- 尋找免費 WiFi
+
+**推薦連鎖：**
+- Mad Monkey（派對旅館）
+- Lub d（預算優質）
+- Slumber Party（時尚預算）
+
+### 賓館（每晚$8-20）
+
+**優點：**
+- 私人房間
+- 更多當地體驗
+- 通常是家庭經營
+- 可以協商長期住宿
+
+**哪裡找：**
+- 四處走走看看
+- 詢問其他旅行者
+- Booking.com 最後一刻優惠
+- 當地推薦
+
+### 替代住宿
+
+**沙發衝浪** - 免費
+- 與當地人住在一起
+- 很棒的文化交流
+- 必須善於社交
+- 安全考慮
+
+**工作交換** - 免費住宿
+- Workaway、HelpX、WWOOF
+- 每天工作4-5小時
+- 學習新技能
+- 結識志同道合的旅行者
+
+**長期租賃** - 按月更便宜
+- Airbnb（月租折扣）
+- Facebook 群組
+- 當地代理
+- 直接協商
+
+## 餐飲
+
+### 街頭小吃（每餐$1-3）
+
+**最佳國家：**
+- 泰國 - 泰式炒河粉、青木瓜沙拉
+- 越南 - 河粉、越南法包
+- 馬來西亞 - 椰漿飯、印度煎餅
+- 印尼 - 印尼炒飯、沙嗲
+
+**技巧：**
+- 在當地人吃的地方吃
+- 尋找繁忙的攤位
+- 如果看不懂菜單就用指的
+- 要求「不辣」或「微辣」
+- 攜帶紙巾/手部消毒劑
+
+### 當地餐廳（每餐$2-5）
+
+**點什麼：**
+- 每日特餐（通常最便宜）
+- 米飯類菜餚
+- 湯麵
+- 套餐
+
+**省錢：**
+- 午餐特價更便宜
+- 分享菜餚
+- 跳過飲料（昂貴）
+- 水通常免費
+
+### 超市
+
+**自炊：**
+- 7-Eleven（到處都有）
+- 當地市場（最便宜）
+- FamilyMart、Circle K
+- 在市場買水果
+
+**預算項目：**
+- 泡麵
+- 麵包和抹醬
+- 香蕉（超便宜）
+- 餅乾/薄脆餅
+- 水補充
+
+### 餐飲預算技巧
+
+1. **像當地人一樣吃** - 跳過西餐
+2. **早餐** - 旅館通常包含
+3. **午餐** - 比晚餐便宜
+4. **市場** - 最便宜的新鮮農產品
+5. **偶爾煮飯** - 有廚房的旅館
+6. **拒絕瓶裝水** - 使用過濾器或補充站
+7. **水果** - 便宜、健康的零食
+
+## 交通
+
+### 航班
+
+**廉價航空：**
+- 亞洲航空（馬來西亞）
+- 獅子航空（印尼）
+- 越捷航空（越南）
+- 鳥航（泰國）
+- 宿霧太平洋（菲律賓）
+
+**訂票技巧：**
+- 提前1-3個月預訂
+- 週二/週三最便宜
+- 清晨/深夜更便宜
+- 在 Skyscanner 比較
+- 直接向航空公司預訂
+- 注意促銷
+
+**行李：**
+- 如果可能只帶隨身行李
+- 通常7公斤限制
+- 穿最重的物品
+- 行李費昂貴
+
+### 巴士
+
+**類型：**
+- 當地巴士（最便宜、最慢）
+- VIP 巴士（空調、更舒適）
+- 臥鋪巴士（過夜、省旅館）
+- 觀光巴士（最貴、最舒適）
+
+**預訂：**
+- 在賓館預訂（小額佣金）
+- 網上：12Go Asia、Bookaway
+- 在巴士站（最便宜但較不方便）
+- 避免觀光區的兜售者
+
+**技巧：**
+- 過夜巴士省住宿
+- 帶衣服分層（空調可能很冷）
+- 保管貴重物品
+- 帶娛樂
+- 預期延誤
+
+### 火車
+
+**最佳火車網絡：**
+- 泰國 - 廣泛、可靠
+- 越南 - 南北路線
+- 馬來西亞 - 現代舒適
+- 緬甸 - 慢但風景優美
+
+**等級：**
+- 三等 - 木製座位、當地體驗
+- 二等 - 風扇、軟墊座位
+- 一等 - 空調、可躺座位
+- 臥鋪 - 過夜旅程
+
+**省錢：**
+- 在車站直接預訂
+- 白天火車更便宜
+- 二/三等大幅節省
+- 過夜省旅館
+
+### 渡輪和船
+
+**常見路線：**
+- 泰國島嶼
+- 菲律賓跳島
+- 下龍灣（越南）
+- 湄公河（寮國/柬埔寨）
+
+**技巧：**
+- 提前預訂（旺季）
+- 比較公司
+- 檢查天氣
+- 帶暈船藥
+- 注意隱藏費用
+
+### 當地交通
+
+**嘟嘟車/計程車：**
+- 上車前務必議價
+- 使用 Grab 應用程式（東南亞版 Uber）
+- 與其他旅行者共乘
+- 如果近就走路
+- 學會用當地語言說價格
+
+**摩托車：**
+- 租金：每天$5-10
+- 最便宜的交通
+- 非常適合鄉村
+- 戴頭盔！
+- 檢查駕照要求
+
+**自行車：**
+- 租金：每天$1-3
+- 最適合小鎮
+- 很適合參觀寺廟
+- 好好鎖上
+
+## 活動與景點
+
+### 免費活動
+
+**自然：**
+- 海灘（大多免費）
+- 徒步旅行
+- 瀑布
+- 日落
+- 國家公園（有些免費日）
+
+**文化：**
+- 步行導覽（小費制）
+- 寺廟免費日
+- 市場
+- 當地節日
+- 街頭藝術
+
+**社交：**
+- 旅館活動
+- 海灘聚會
+- Meetup 群組
+- 語言交換
+
+### 預算活動（$5-20）
+
+- 浮潛一日遊
+- 烹飪課程
+- 自行車之旅
+- 船遊
+- 洞穴探索
+- 高空滑索
+- 當地水療/按摩
+
+### 昂貴但值得（$20-50+）
+
+- 水肺潛水
+- 多日健行
+- 吳哥窟通行證（$37）
+- 下龍灣遊船
+- 熱氣球（緬甸）
+
+### 省錢技巧
+
+1. **團體旅遊更便宜** - 與他人一起
+2. **議價** - 特別是私人旅遊
+3. **當地預訂** - 通常比網上便宜
+4. **淡季** - 更好的優惠
+5. **套餐優惠** - 多項活動
+6. **免費步行導覽** - 給您能給的小費
+7. **歡樂時光** - 飲料更便宜
+8. **跳過觀光陷阱** - 先研究
+
+## 金錢管理
+
+### 現金 vs 卡
+
+**現金：**
+- 到處都首選
+- 更好的匯率
+- 小販只收現金
+- 放在隱密腰包
+
+**ATM：**
+- 大額提款（手續費）
+- 旅行前通知您的銀行
+- 使用銀行 ATM（不是便利商店）
+- 手續費：每次提款$3-7
+
+**卡：**
+- 緊急備用
+- 大額購買
+- 酒店、航班
+- 注意外幣交易費
+
+### 最佳旅行卡：**
+- Wise（以前稱為 TransferWise）
 - Revolut
-- Charles Schwab (no foreign fees)
-- Capital One (no foreign fees)
+- Charles Schwab（無外幣費用）
+- Capital One（無外幣費用）
 
-### Money-Saving Strategies
+### 省錢策略
 
-1. **Haggle** - Markets, tuk-tuks, long-term stays
-2. **Split costs** - Share tours, taxis, accommodation
-3. **Travel slowly** - Weekly/monthly rates cheaper
-4. **Cook occasionally** - Saves significant money
-5. **Happy hours** - Food and drink specials
-6. **Free activities** - Beaches, hikes, temples
-7. **Travel off-season** - Everything cheaper
-8. **Avoid tourist areas** - Eat and sleep locally
+1. **議價** - 市場、嘟嘟車、長期住宿
+2. **分攤費用** - 分享旅遊、計程車、住宿
+3. **慢遊** - 週租/月租更便宜
+4. **偶爾煮飯** - 大幅節省
+5. **歡樂時光** - 餐飲特價
+6. **免費活動** - 海灘、徒步、寺廟
+7. **淡季旅行** - 一切都便宜
+8. **避開觀光區** - 在當地吃住
 
-## Sample Itineraries
+## 範例行程
 
-### 1 Month - Highlights ($1,200-1,800)
+### 1個月 - 精華（$1,200-1,800）
 
-**Week 1: Thailand**
-- Bangkok (3 days)
-- Chiang Mai (3 days)
-- Islands (Koh Tao or Koh Phangan)
+**第1週：泰國**
+- 曼谷（3天）
+- 清邁（3天）
+- 島嶼（龜島或帕岸島）
 
-**Week 2: Vietnam**
-- Hanoi (2 days)
-- Ha Long Bay (1 day)
-- Hoi An (2 days)
-- Ho Chi Minh (2 days)
+**第2週：越南**
+- 河內（2天）
+- 下龍灣（1天）
+- 會安（2天）
+- 胡志明市（2天）
 
-**Week 3: Cambodia**
-- Siem Reap - Angkor Wat (3 days)
-- Phnom Penh (2 days)
-- Sihanoukville beaches (2 days)
+**第3週：柬埔寨**
+- 暹粒 - 吳哥窟（3天）
+- 金邊（2天）
+- 西哈努克海灘（2天）
 
-**Week 4: Laos**
-- Vientiane (2 days)
-- Vang Vieng (2 days)
-- Luang Prabang (3 days)
+**第4週：寮國**
+- 永珍（2天）
+- 萬榮（2天）
+- 龍坡邦（3天）
 
-### 2 Months - In-Depth ($2,000-3,000)
+### 2個月 - 深入（$2,000-3,000）
 
-Add to above:
-- **Myanmar** (10 days) - Yangon, Bagan, Inle Lake
-- **Malaysia** (7 days) - Kuala Lumpur, Penang, Perhentians
-- **More time in favorites** - Slower pace, deeper experience
+加上以上：
+- **緬甸**（10天）- 仰光、蒲甘、茵萊湖
+- **馬來西亞**（7天）- 吉隆坡、檳城、停泊島
+- **最愛地方的更多時間** - 更慢的節奏、更深的體驗
 
-### 3 Months - Complete Circuit ($3,000-4,500)
+### 3個月 - 完整環線（$3,000-4,500）
 
-Add to above:
-- **Indonesia** (14 days) - Bali, Gili Islands, Lombok
-- **Philippines** (14 days) - Manila, Palawan, Boracay
-- **Extended stays** - Work exchanges, month-long rentals
+加上以上：
+- **印尼**（14天）- 峇里島、吉利島、龍目島
+- **菲律賓**（14天）- 馬尼拉、巴拉望、長灘島
+- **延長住宿** - 工作交換、月租
 
-## Packing Essentials
+## 打包必需品
 
-### Clothing (Pack Light!)
+### 衣著（輕裝！）
 
-- 3-4 t-shirts
-- 2 pairs shorts
-- 1 pair long pants
-- 1 long-sleeve shirt
-- Swimsuit
-- 4-5 underwear
-- Flip-flops
-- Walking shoes
-- Light rain jacket
+- 3-4件T恤
+- 2條短褲
+- 1條長褲
+- 1件長袖襯衫
+- 泳衣
+- 4-5件內衣
+- 人字拖
+- 步行鞋
+- 輕便雨衣
 
-### Gear
+### 裝備
 
-- Backpack (40-50L)
-- Daypack (20L)
-- Microfiber towel
-- Sarong (multi-use!)
-- Ziplock bags
-- Padlock
-- Headlamp
-- Earplugs
-- Eye mask
+- 背包（40-50L）
+- 日用包（20L）
+- 超細纖維毛巾
+- 紗籠（多用途！）
+- 密封袋
+- 掛鎖
+- 頭燈
+- 耳塞
+- 眼罩
 
-### Tech
+### 科技
 
-- Smartphone
-- Portable charger
-- Universal adapter
-- Earbuds
-- Camera (phone often enough)
-- Kindle/tablet
+- 智慧手機
+- 行動電源
+- 萬用轉接頭
+- 耳機
+- 相機（手機通常就夠了）
+- Kindle/平板
 
-### Health & Hygiene
+### 健康與衛生
 
-- First aid kit
-- Insect repellent (DEET)
-- Sunscreen
-- Water purification (tablets or Lifestraw)
-- Toiletries (travel size)
-- Prescription medications
+- 急救包
+- 驅蟲劑（DEET）
+- 防曬霜
+- 水淨化（片劑或 Lifestraw）
+- 盥洗用品（旅行尺寸）
+- 處方藥
 
-## Health & Safety
+## 健康與安全
 
-### Vaccinations
+### 疫苗接種
 
-**Recommended:**
-- Hepatitis A & B
-- Typhoid
-- Tetanus
-- Japanese Encephalitis (rural areas)
-- Rabies (if handling animals)
+**建議：**
+- A 型和 B 型肝炎
+- 傷寒
+- 破傷風
+- 日本腦炎（農村地區）
+- 狂犬病（如果接觸動物）
 
-**Malaria:** 
-- Prevention pills for certain areas
-- Sleep under mosquito net
-- Use repellent
+**瘧疾：** 
+- 特定地區的預防藥丸
+- 在蚊帳下睡覺
+- 使用驅蟲劑
 
-### Travel Insurance
+### 旅遊保險
 
-**Essential coverage:**
-- Medical emergencies
-- Evacuation
-- Lost/stolen belongings
-- Activity coverage (scuba, motorcycles)
+**必要保障：**
+- 醫療緊急情況
+- 撤離
+- 遺失/被竊物品
+- 活動保障（水肺潛水、摩托車）
 
-**Recommended providers:**
+**推薦供應商：**
 - World Nomads
 - Safety Wing
 - True Traveller
 
-### Safety Tips
+### 安全提示
 
-1. **Guard valuables** - Money belt, hidden pockets
-2. **Scam awareness** - Research common scams
-3. **Traffic** - Roads are dangerous, be careful
-4. **Drink safety** - Watch drinks at bars
-5. **Copies** - Photo/cloud backup of documents
-6. **Embassy info** - Know location and contact
-7. **Trust instincts** - If something feels wrong, leave
+1. **保管貴重物品** - 隱密腰包、隱藏口袋
+2. **詐騙意識** - 研究常見詐騙
+3. **交通** - 道路危險，小心
+4. **飲料安全** - 在酒吧注意飲料
+5. **副本** - 照片/雲端備份文件
+6. **大使館資訊** - 知道位置和聯繫方式
+7. **相信直覺** - 如果感覺不對，離開
 
-## Connectivity
+## 連線
 
-### SIM Cards
+### SIM 卡
 
-**Cost:** $5-15 for 1-4 weeks
-**Where to buy:** Airport, convenience stores, phone shops
+**費用：** 1-4週$5-15
+**哪裡買：** 機場、便利商店、手機店
 
-**Best networks by country:**
-- Thailand: AIS, TrueMove
-- Vietnam: Viettel, Vinaphone
-- Cambodia: Cellcard, Smart
-- Laos: Unitel, Lao Telecom
-- Myanmar: Telenor, MPT
+**各國最佳網絡：**
+- 泰國：AIS、TrueMove
+- 越南：Viettel、Vinaphone
+- 柬埔寨：Cellcard、Smart
+- 寮國：Unitel、Lao Telecom
+- 緬甸：Telenor、MPT
 
-### Staying Connected
+### 保持連線
 
-- Most hostels have WiFi
-- Cafes and restaurants
-- Coworking spaces
-- Public WiFi (use VPN)
-- Download offline maps
+- 大多數旅館有 WiFi
+- 咖啡館和餐廳
+- 共同工作空間
+- 公共 WiFi（使用 VPN）
+- 下載離線地圖
 
-## Final Tips
+## 最後提示
 
-1. **Travel slowly** - Staying longer saves money
-2. **Be flexible** - Best deals appear last minute
-3. **Make friends** - Share costs and experiences
-4. **Eat local** - Cheaper and more authentic
-5. **Learn basics** - Hello, thank you, numbers
-6. **Respect culture** - Dress modestly at temples
-7. **Bargain fairly** - It's expected but be reasonable
-8. **Stay healthy** - Medical costs can blow budget
-9. **Track spending** - Use app to monitor
-10. **Enjoy the journey** - Not everything is about saving money
+1. **慢遊** - 停留更久省錢
+2. **保持靈活** - 最佳優惠在最後一刻出現
+3. **交朋友** - 分攤費用和經驗
+4. **吃當地** - 更便宜更正宗
+5. **學習基礎** - 你好、謝謝、數字
+6. **尊重文化** - 在寺廟穿著端莊
+7. **公平議價** - 這是預期的，但要合理
+8. **保持健康** - 醫療費用可能超出預算
+9. **追蹤支出** - 使用應用程式監控
+10. **享受旅程** - 不是一切都是為了省錢
 
-Southeast Asia is incredibly budget-friendly. With smart planning and these tips, you can have an amazing adventure without breaking the bank.
+東南亞非常預算友好。通過明智的規劃和這些技巧，您可以在不破產的情況下度過一次美好的冒險。
 
-**Questions about budget travel in Southeast Asia?** Happy to help!
+**關於東南亞預算旅行有問題嗎？** 很樂意幫忙！

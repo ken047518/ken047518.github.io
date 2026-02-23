@@ -1,37 +1,46 @@
 ---
-title: "EP 6. At the Peak of Europe's Silicon Valley: Meeting the Musician Who Rejected the World"
+title: EP 6.《在歐洲矽谷的高處，遇見那位拒絕世俗的音樂人》
 date: 2024-09-04
-description: 'Tallinn: Finding Truth at the Edge of Europe’s Silicon ValleyArriving in Tallinn, a city celebrated as the "Silicon Valley of Europe," I stepped into the Old Town and felt as though I had entered another realm. At the Patkuli Viewing Platform, I met a wanderer—once a forestry executive who, at the age of thirty-four, resigned to carry his guitar across the globe. Amidst the lingering glow of the midnight sun, we talked of music and our shared weariness of societal frameworks built on fame and fortune. Though he lived a humble, modest life, his unwavering commitment to freedom and his passion for living gave me a profound sense of confidence. At this final stop in the Baltics, I found the courage to step outside conventional definitions and pursue a life true to my own ideals.'
-summary: 'Tallinn: Finding Truth at the Edge of Europe’s Silicon ValleyArriving in Tallinn, a city celebrated as the "Silicon Valley of Europe," I stepped into the Old Town and felt as though I had entered another realm. At the Patkuli Viewing Platform, I met a wanderer—once a forestry executive who, at the age of thirty-four, resigned to carry his guitar across the globe. Amidst the lingering glow of the midnight sun, we talked of music and our shared weariness of societal frameworks built on fame and fortune. Though he lived a humble, modest life, his unwavering commitment to freedom and his passion for living gave me a profound sense of confidence. At this final stop in the Baltics, I found the courage to step outside conventional definitions and pursue a life true to my own ideals.'
+description: 抵達被譽為「歐洲矽谷」的塔林，我進去了老城區，彷彿來到另一個世界。在帕特庫利觀景台遇見了一位曾是林業主管、卻在三十四歲辭職背起吉他流浪世界的浪人。我們在夜晚的日落餘暉中，從音樂聊到對名利框架的厭倦；即便落魄，他對自由和生活熱情的執著，讓我在波羅的海的終點站，找到了跳脫世俗定義、追求理想生活的真實信心。
+summary: 抵達被譽為「歐洲矽谷」的塔林，我進去了老城區，彷彿來到另一個世界。在帕特庫利觀景台遇見了一位曾是林業主管、卻在三十四歲辭職背起吉他流浪世界的浪人。我們在夜晚的日落餘暉中，從音樂聊到對名利框架的厭倦；即便落魄，他對自由和生活熱情的執著，讓我在波羅的海的終點站，找到了跳脫世俗定義、追求理想生活的真實信心。
 image: Tallinn_guitarist.webp
 featured: true
-location: Tallinn, Estonia
+draft: false
+location: 愛沙尼亞 塔林
 tags:
-  - baltic
-  - hostel
-  - solo-travel
-  - bus
+  - 獨旅
+  - 青旅
+  - 波羅地海三國
+  - 歷史
+  - 吉他
+  - 音樂
 categories:
-  - North-East solo travel
+  - 東北歐獨旅
 ---
-## Tallinn: Where Silicon Valley Meets the Midnight Sun
+## 塔林印象
 
-My arrival in Estonia was marked by a smooth border check and a realization of Tallinn's digital prowess. Known as a startup hub, it’s a city where even voting is done via a screen. It’s the cradle of Skype and Bolt—relics and tools that have defined my generation and my own chaotic travel stories. Entering through the **Viru Gate**, I felt the pulse of a city that managed to keep its 14th-century soul while embracing a high-tech future.
+前往愛沙尼亞塔林（Tallinn）的路上，第一次遇到警察臨檢，一些警察上車把大家護照翻了一遍，好在一切都很順利。塔林以其數位化和新創公司聞名，投票和各種生活日常流程都已經數位化，聽說整個塔林都有免費 Wi-Fi，一代人的時代眼淚 Skype 即是塔林新創文化的產物，在維爾紐斯騎的 Bolt 也是起源於塔林，想到當時極限下載 Bolt，騎電動腳踏車去追巴士的情節還是覺得很荒謬。
 
-## The Sonic Alchemist of Patkuli
+塔林相較於維爾紐斯和里加，看起來更熱鬧也更先進很多，而且散發著一種年輕活力的氣息。從車站前往青旅的路上，高樓和公園巧妙的共存在這座城市。我經過維魯門（Viru Gate）進到鵝卵石路為主的老城區，「還蠻多觀光客的嘛！」我內心微笑了一下。維魯門最著名的特徵是兩座圓柱形的紅磚塔樓，頂端覆蓋著陡峭的錐形屋頂。這兩座塔樓曾是十四世紀龐大防禦系統的一部分，如今則是老城與現代市區的交界。
 
-I stayed in a bohemian hostel-bar in the heart of the Old Town. As the long northern day began its slow fade, I walked up to the **Patkuli Viewing Platform**. I wasn't there for the crowds; I was there for the sky.
+## 觀景台上的詭異吉他手
 
-Nearby, a guitarist was carving out a world of sound. He was an eccentric figure, wrapped in a heavy scarf and earth-toned layers, looking like a nomad who had seen a thousand roads. I avoided direct eye contact, but my ears were locked onto his performance. His music was a fascinating hybrid: the groove of **Neo-soul**, the grit of **Blues**, and an ethereal layer of spatial effects.
+我住的青旅位於老城區中心，是一間充滿塗鴉風格的酒吧附設的青旅，或者說青旅附設酒吧？有點分不出來。接近台灣的日落時間，我一個人沿著石階，走上位於座堂山（Toompea）北側的帕特庫利觀景台（Patkuli Viewing Platform），這裡天完全還是亮的甚至不到夕陽時間，我在觀景台待了許久，趴在欄杆上靜靜感受日落的天空變化。
 
-When the other tourists drifted away, a conversation opened up. He showed me the architecture of his sound—how his pedals interacted and how a single man could become a full band through a looper. In that quiet space above the city, he wasn't just a street performer; he was a scientist of sound, finding joy in the combinations that no one else was listening to.
+有一位街頭藝人在觀景台旁邊演奏電吉他，他看起來很奇怪，一身落魄流浪感的波希米亞風格，散發著不羈的藝術氣息；厚實的圍巾搭配格子襯衫，大地色系的穿著，戴著格紋帽子，增添了街頭藝術感，然而並沒有人專注在看他表演。
 
-## Soul Echoes on the Viewing Platform: The Guitarist Who Broke the Mold
+因為他的氣場太詭異了讓我不敢直視，他偶爾會抬頭偷喵一下旁人，我假裝看著風景，實則非常認真在聆聽他的彈奏，因為他的音樂很特別很有氛圍。後來有一位大媽在他正在錄製 Loop 時候上去跟他攀談，如果是我在錄 Loop 時候被打擾我可能會很生氣哈哈，不過趁著這個機會，我也靠上去看他的效果器盤，我很好奇他怎麼組他的空間系效果。他的風格很難被定義，真要說應該是以（Neo-soul）為基底，結合藍調手法並加入很空間系效果，這是我一開始的分析。
 
-I was curious why he didn't play in the bustling city center, where more crowds would mean better tips. That’s when he told me his story. A Tallinn local, he was once a manager in the forestry industry. He had learned acoustic guitar in university but set it aside for his career. At 34, he bought his first electric guitar—the very Ibanez he was holding. For four years, he practiced obsessively, and a year ago, he resigned to embrace a life on the road. _“This is exactly the life I long for,”_ I thought. In that moment, our conversation struck a deep chord.
+有別於城區的熱鬧，整個觀景台一直都沒什麼人，大媽離開後只剩下我跟他和幾個看風景的人。我專心聽他彈奏，他跟我分析他每一顆效果器的作用，以及他怎麼用 Loop 一個人做出鼓、貝斯，他似乎很享受自己一個人玩這些效果和組合。
 
-Behind his current ideal life, however, lay the pain that pushed him toward it. He loathed the local political culture and the societal molds—the mundane, repetitive jobs, and the relentless pursuit of conventional success and fame. To him, such a life was insufferably boring. It’s a bold critique to make in Tallinn, a city world-renowned as a startup hub, the "Silicon Valley of Europe."
+## 觀景台上的靈魂共鳴：那位拒絕社會框架的吉他手
 
-He walked away from years of stability, slung his guitar over his shoulder, and began wandering the world. Because of his solitary nature, the road wasn't always kind. In Indonesia, he once found himself down to his last 40 euros. Yet, he kept playing. He traveled to Australia and beyond. Even now, he remains "unsuccessful" by worldly standards, with little to no savings, but he is truly free. He goes where he wants, plays what he feels, and refuses to chase the crowd. His initial courage to break the mold gave me, a stranger in a foreign land, a newfound confidence to pursue my own ideals.
+我很好奇為什麼他不去城區演奏，有更多的觀眾也會有更高的收入，他便開始說起他的故事。他是一位塔林人，之前在林業公司當管理者；大學時曾學過一段時間的木吉他，後來因為工作便放下了吉他。在他 34 歲時買了他人生的第一把電吉他 —— 也就是他正在用的這把 Ibanez，他彈了四年持續鑽研自己的音樂，近一年決定辭職，徹底投身流浪生活，「哇，這是我嚮往的人生啊！」我心裡想。那一刻，我們的對話開始有了深刻的共鳴。
 
-By 10:00 PM, the night finally settled in, leaving just the two of us on the platform. As he bent down to pack his heavy gear into bicycle panniers, I realized with surprise that he cycles an hour every day just to perform here. He talked while he packed, mentioning how he frequently loops post-rock bands like **Mogwai** and **Godspeed You! Black Emperor**. Hearing I was looking for a guitar, he recommended the **Thomann** online store and spoke highly of **Sire** guitars. Then, almost to himself, he mentioned the **Black Hole Symmetry** pedal—a glint of longing in his eyes for its cosmic, endless, and profound spatial tones.
+然而在他現在理想生活的背後，其實有著不斷將他推向理想的痛苦。他恨透了這個地方的政治文化和框架，每個人都日復一日地做著一如往常、一成不變的工作，大家追求世俗被定義的成功名利，對他來說這種生活非常無聊他也受夠了。能直接在塔林抱怨的也只有當地人了。但也不難想像，這裡是世界上數一數二的新創城市，說是歐洲的矽谷也不為過吧。
+
+所以後來他離開了做了好幾年的穩定工作，背起吉他，開始去世界各地表演流浪，但因為他孤僻的個性讓他的流浪之路並不順利。他曾經在印尼，最落魄的時候身上只剩下 40 歐元，但他依然繼續彈奏，去了澳洲去了世界各地，即便現在依然落魄，甚至存不到什麼錢，但他過著自己喜歡的生活，非常自由，想去哪演奏就去哪演奏，也不追隨人群和名利。他一開始決定跳脫框架的勇氣，讓我在異鄉彷彿找到了知己，或者說找到了追求理想生活的信心。
+
+不知不覺已是深夜十點，天色終於完全沉了下來，整個觀景台只剩下我們兩個人。他彎下腰，將那一包包沉重的器材熟練地塞進腳踏車鞍袋，我這才驚訝地發現，原來他每天都得騎上一小時的車來到這裡表演。他邊收邊聊，提起他耳機裡常循環著 Mogwai 與 Godspeed You! Black Emperor 的後搖滾音樂。聽說我在找吉他，他推薦我去 Thomann 網路商店逛逛，並給了 Sire 吉他極高的評價。隨後他像是自言自語般地提到了 Black Hole Symmetry 這顆效果器，帽檐下閃爍著對那種宇宙般、無盡而深沉空間系音色的嚮往。
+
+深夜的風有些涼了，他一邊收起器材，一邊用那種看透世俗的口吻鼓勵我：「如果有想做的事就去做吧，因為這世界上根本沒那麼多人在意你。」這句話從這位堅持辭職流浪、存不到錢卻異常自由的吉他手口中說出，顯得格外有份量。他也不確定明天會不會回來這裡表演，或許這就是擁有選擇的富有吧，和他隨性灑脫的外表和個性非常適配。他將腳踏車牽向另一條石板路，我問他有沒有社群媒體可以追蹤。他跨上車，用那憂鬱的眼神，淡淡地留下一句：「I am tired of social media.」便消失在塔林的黑夜裡，留下我在原地，反芻著那份從心底浮上來、追求理想生活的勇氣。

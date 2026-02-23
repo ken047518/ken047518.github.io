@@ -1,58 +1,53 @@
 ---
-title: "EP 1. Where the Adventure Begins: My Escape to Budapest"
+title: EP 1.《一場壯遊的開始：前往布達佩斯》
 date: 2024-08-23
-description: My exchange life began in Brno, a city where industrial grit meets classical elegance, but it quickly devolved into a survival challenge involving a messy dorm and a roommate’s thunderous snoring. Seeking nothing more than a night of peace, I staged a midnight "escape" from the Czech Republic to Budapest. There, amidst the majesty of the Danube and the energy of a city music festival, I finally found room to breathe. But the true turning point happened at a hostel reception. A girl from Hong Kong shared her travel tales with a burning passion in her eyes. Though our digital connection vanished, the mystery of the Baltics she described became my new compass, pushing me to rewrite my plans and continue my adventure into the North.
-summary: My exchange life began in Brno, a city where industrial grit meets classical elegance, but it quickly devolved into a survival challenge involving a messy dorm and a roommate’s thunderous snoring. Seeking nothing more than a night of peace, I staged a midnight "escape" from the Czech Republic to Budapest. There, amidst the majesty of the Danube and the energy of a city music festival, I finally found room to breathe. But the true turning point happened at a hostel reception. A girl from Hong Kong shared her travel tales with a burning passion in her eyes. Though our digital connection vanished, the mystery of the Baltics she described became my new compass, pushing me to rewrite my plans and continue my adventure into the North.
+description: 初抵捷克的交換生活，在布爾諾那充滿工業與古典融合的氣息中展開，卻也隨即陷入髒亂宿舍與室友如雷打呼聲的生存挑戰。為了尋求一夜好眠，我毅然決定從捷克深夜「逃亡」至匈牙利布達佩斯，在多瑙河畔的壯麗夜景與城市音樂節中，試圖找到喘息的空間。旅程的命運在青旅櫃檯發生了轉折，一位香港女生眼神帶著炙熱地分享了她的流浪故事，儘管最後遺失了聯繫方式，但她口中那片神祕的波羅的海，已成為我決定更改計畫、推動我繼續北行探險的動力。
+summary: 初抵捷克的交換生活，在布爾諾那充滿工業與古典融合的氣息中展開，卻也隨即陷入髒亂宿舍與室友如雷打呼聲的生存挑戰。為了尋求一夜好眠，我毅然決定從捷克深夜「逃亡」至匈牙利布達佩斯，在多瑙河畔的壯麗夜景與城市音樂節中，試圖找到喘息的空間。旅程的命運在青旅櫃檯發生了轉折，一位香港女生眼神帶著炙熱地分享了她的流浪故事，儘管最後遺失了聯繫方式，但她口中那片神祕的波羅的海，已成為我決定更改計畫、推動我繼續北行探險的動力。
 image: IMG_4427.jpg
 featured: true
-location: Budapest, Hungary
+draft: false
+location: 匈牙利 布達佩斯
 tags:
-  - central-europe
-  - hostel
-  - music
-  - solo-travel
-  - bus
+  - 中歐
+  - 獨旅
+  - 青旅
+  - 音樂
+  - 巴士
 categories:
-  - North-East solo travel
+  - 東北歐獨旅
 ---
-## First Steps in Europe
+## 初訪歐洲
 
-On my very first day in Europe, traveling solo, I boarded the famous FlixBus. Back then, I was naive enough to pay extra for two large checked bags—a fee I now look back on as a "tuition fee" for my arrival. And so, with a bit of a bumpy ride, I made my way to my exchange school in Brno, Czech Republic: **Mendel University**. The university was named in honor of Gregor Mendel, the father of genetics. It is said that right here in Brno, he conducted his famous pea plant experiments, turning the first page of modern genetics.
+獨自抵達歐洲的第一天，我搭上了久仰大名的 Flixbus。當時還傻傻地多付了兩件大行李的托運費，如今回想，那時多付的行李加價費，彷彿是初來乍到的一筆「學費」，就這樣有些顛頗的前往位於捷克布爾諾（Brno）的交換學校——孟德爾大學（Mendel University）。這所學校正是為了紀念遺傳學之父孟德爾，相傳他當初就是在布爾諾進行了著名的種子雜交實驗，開啟了現代遺傳學的扉頁。
 
-Stepping out in Brno, the first thing I saw was the chaotic central train station. It reminded me so much of **Zhongli Station in Taiwan**, but with a touch more elegance—a strange, beautiful blend of industrial grit and classical architecture.
+抵達布爾諾 (Brno) 後，映入眼簾的是雜亂的市中心火車站，像極了中壢火車站，不過一切景象都更典雅一些，是一種工業化和古典的融合。來捷克之前我什麼功課都沒做，心想總有公車前往宿舍吧？結果主幹道大概有五六個平行的站牌，在地圖上看不太出來，找了好一段時間，用生疏的英文到處問當地人加上比手畫腳才找到正確的車站，上車後也不知道怎麼買票或是付款，前後各揹一個包包兩手提著兩個行李箱最終還是抵達宿舍了，一到歐洲就逃票哈哈。
 
-I arrived in the Czech Republic having done zero homework. I figured there _must_ be a bus to the dorms, right? Wrong. The main road had five or six parallel platforms that all looked the same on Google Maps. It took me forever, wandering around with broken English and frantic hand gestures, to find the right stop. Even after boarding, I had no clue how to buy a ticket or pay. With a backpack on my front, another on my back, and a suitcase in each hand, I eventually made it to the dorms. My first day in Europe, and I accidentally became a fare evader!
+我的室友是一位年近三十的中國博士生，已經在那間宿舍住三年了，廁所門把、冰箱各種平常會摸到的地方都是油的，房間很常看的到蛀蟲，好在我對於髒亂的接受度還算高，至少捷克不會有蟑螂。來到歐洲的第一天看到什麼都覺得好貴，不過麵包意外的便宜，走去後山的超市花了十二元買了三個麵包當早午餐，晚餐吃室友冷藏的打拋豬飯，第一天有些克難，好在時差還沒調過來，其實也不太餓所以隨便亂吃也可以，畢竟現在應該是台灣的半夜。
 
-My roommate was a Chinese PhD student in his late twenties who had already lived in that dorm for three years. Everything you touched—the door handles, the fridge—felt greasy, and silverfish (or wood-boring insects) were a common sight in the room. Luckily, I have a fairly high tolerance for messiness; at least there are no cockroaches in the Czech Republic.
+## 共鳴箱的震撼：在打呼聲中決定的逃亡
 
-On my first day in Europe, everything seemed so expensive, though bread was surprisingly cheap. I walked to the supermarket behind the hill and spent 12 korunas on three buns for brunch. For dinner, I had some of my roommate’s leftover Thai basil pork (Gapao rice). It was a bit of a struggle on day one, but since my internal clock was still on Taiwan time, I wasn't particularly hungry. Eating whatever was available felt fine—after all, it was already the middle of the night back home.
+我對於髒亂的接受度很高，唯一受不了的就是室友會打呼。初次見到我室友便開始評估他打呼的可能性，很標準的肥宅樣，共鳴箱很大，但如果不打呼應該不影響。晚上九點我先睡了，他很有禮貌的關了大燈，而且完全不會發出噪音的做自己的事。直到十二點我聽到一聲轟雷巨響，他會打呼而且超級大聲！他正躺的睡姿，讓共鳴箱的潛力發會到最大，而且他的打呼類型不是穩定輸出型而是轟然巨響型。我們的床之間只隔了不到兩公尺啊。
 
-## The Resonance Chamber: A Great Escape Born from Snoring
+就這樣只睡了三個小時，從午夜一路醒著到了清晨，捷克夏天的夜晚也是很涼爽的啊，這輩子沒體驗過這種舒服的天氣。在打呼聲的伴隨下，腦中的思緒煩躁卻也被迫加速，毅然決然決定前往布達佩斯睡個兩晚。
 
-I have a high tolerance for mess, but my one deal-breaker is snoring. The moment I met my roommate, I began assessing the "snore potential." He had the classic look—a large build that seemed built for resonance. _If he doesn’t snore, we’re fine,_ I thought. He was polite enough to turn off the main lights at 9:00 PM and worked quietly, but at midnight, a thunderclap shattered the silence. He snored, and it was monumental. His back-sleeping posture allowed his "resonance chamber" to reach its full potential. It wasn't a "steady output" type of snore; it was the "explosive roar" kind. And our beds were less than two meters apart.
+因為我不知道怎麼搭電車買票，也很喜歡走路探索城市，於是從宿舍走了一個多小時到了中央車站，搭火車前往布達佩斯。一路上沒有很想睡的感覺，眼前的景象不斷刷新我的大腦記憶體，大片田野風光、擦身而過陌生的臉孔，各種不熟悉的感覺讓我的大腦一直處在活躍的狀態。
 
-After only three hours of sleep, I lay wide awake until dawn. The Czech summer nights were refreshingly cool—a level of comfort I’d never experienced before. Accompanied by the rhythmic thunder from across the room, my thoughts were agitated yet strangely accelerated. Right then and there, I made a snap decision: I was going to Budapest for two nights just to get some sleep.
+## 布達佩斯閒晃：多瑙河畔的生存法則
 
-Still clueless about how to buy tram tickets and loving the idea of exploring on foot, I walked over an hour from the dorm to the central station to catch a train to Budapest. I wasn't even tired; the sights were constantly refreshing my brain’s "RAM." Vast fields, passing faces of strangers—every unfamiliar sensation kept my mind in a state of high alert.
+布達佩斯火車站出來依舊是偏亂的市容，到處都是垃圾，還有隨時會被偷的氛圍。我來這裡的目的只有睡個好覺，隨便的住進了一間很便宜而且很乾淨的青旅，旁邊就是 Lidl 超市買了很便宜的綠葡萄和芒果冰淇淋，發現沒有餐具於是買了一把刀，不只能夠吃冰淇淋，還能夠防身。
 
-## Wandering Budapest: Survival Rules by the Danube
+在布達佩斯的第二晚依然不寧靜，半夜三點突然寢室燈亮了，一位白人男性開始對著看似印度裔的男子大吼，他認為他偷了他的充電器，我在上鋪甚至不敢往下看發生什麼事，吵了幾分鐘後，終於有人出聲請他們去找櫃台才結束這場鬧劇。男子略顯無辜，甚至沒有想要回擊。「這是歧視嗎？」我心裡浮出了這個疑問。
 
-Coming out of the Budapest train station, the city felt a bit gritty—trash everywhere and an underlying vibe that your pockets might get picked at any moment. My only goal here was a good night’s sleep. I checked into a cheap but clean hostel right next to a Lidl, where I stocked up on green grapes and mango ice cream. Realizing I had no utensils, I bought a knife—not just for the ice cream, but for a bit of "self-defense" peace of mind.
+隔天睡飽後存了幾個景點和餐廳，隨意地慢慢地往景點晃過去，偶然撞見了一個小小的城市音樂節 TE!Feszt 2024. - Terézvárosi Fesztival az Andrássy uton，規模不大，路的兩端分別是兩個舞台，小舞台會有小朋友在舞台前跳舞玩耍，大舞台更像台灣常見的音樂祭中舞台，我稍微查了一下音樂節的時間和樂團，兩天都來聽了一些很酷的當地樂團音樂。沒想到一來歐洲就有免費音樂節可以聽實在是太酷的體驗了。
 
-Even so, the second night wasn't entirely peaceful. At 3:00 AM, the lights flickered on. A white man was screaming at an Indian man, accusing him of stealing a charger. From my top bunk, I didn't even dare to peek. After a few tense minutes, someone finally told them to take it to the front desk. The Indian man looked genuinely innocent and didn't even try to fight back. _Was this discrimination?_ The question lingered in my mind.
+這幾天我只預定了多瑙河遊船，剩下就是去超市買牛奶和一些食物到處踩點，很多公園和椅子想休息隨時都能坐下來吃東西，我最常買的食物是麵包、綠葡萄和牛奶，可謂歐洲窮遊必備。其實就是買那些在台灣很貴，但在歐洲很便宜的食物。
 
-Once I caught up on sleep, I marked a few spots on my map and started wandering. I stumbled upon a local city music festival: **TE!Feszt 2024**. It was intimate—two stages at opposite ends of the street. Kids were dancing at the small stage, while the main stage felt like a proper music fest. I caught some incredibly cool local bands over two days. Scoring a free music festival right after arriving in Europe felt like a total win.
+夜晚國會大廈的壯麗、多瑙河的沿途風光，以及我最喜歡的布達城堡跳舞，奠定了我對於「中歐」的印象。聽說有維也納派、布拉格派、布達佩斯派，三個首都各有其支持者，我心想到底什麼樣的城市可以超過布達佩斯？在船上跟兩個菲律賓人閒聊，看起來兩個人是已經工作一段時間和接近退休的年紀，這次旅程走的是很經典的中歐三國路線，他們都認為比起布達佩斯，維也納更符合他們對於美的想像。
 
-My only "planned" activity was a Danube River cruise. The rest of the time, I lived on the "European budget starter pack": bread, green grapes, and milk—things that are expensive in Taiwan but incredibly cheap here. I’d just find a park bench and enjoy a meal whenever I felt like it.
+## 消失的 WhatsApp，與她眼底那座波羅的海
 
-The grandeur of the Parliament at night, the views along the Danube, and my personal favorite—watching people dance at Buda Castle—defined my image of Central Europe. People say you’re either a "Vienna person," a "Prague person," or a "Budapest person." At the time, I couldn't imagine a city topping Budapest. While on the cruise, I chatted with two Filipinos who were doing the classic three-country route. They told me that for them, Vienna fit their definition of "beauty" far better than Budapest did.
+我在櫃檯遇到一位剛來 check in 的香港女生，很突然的就聊起來了，我也忘記怎麼開始的。從一樓大廳聊到二樓花花草草的公共空間，我們從旅行聊到到政治文化和語言，他已經長途旅行了好一段時間，從波羅地海三國一路往南，明天早上即將前往克羅埃西亞，他把波蘭克拉克夫的集中營描繪的彷彿歷歷在目，更說道立陶宛、拉脫維亞和愛沙尼亞真的很值得去，好幾個她在旅途遇到的人又在某個城市相遇，他興奮的分享這些巧遇旅者的故事，還有他們的旅行故事：地理老師什麼的。細節我也不記得了。離開前他想要請我吃頓飯，我們互相加了 WhatsApp 便回各自房間了。
 
-## The Missing WhatsApp and the Baltic Sea in Her Eyes
+我原本預定明天就要回捷克了，聽他分享之後便開始規劃一路向北前行，後來決定多停留了一天，然後把巴士直接一路訂到愛沙尼亞，連同前往芬蘭的船、回歐洲大陸的飛機都訂好了。我想跟她分享我決定延續我的旅程，卻一直沒有等到他的訊息，看了一下手機發現沒有加到他的 WhatsApp，或是他沒有加我？其實我不知道 WhatsApp 怎麼運作的。
 
-I met a girl from Hong Kong at the reception while she was checking in. I honestly can’t remember how we started talking, but we clicked instantly. Our conversation flowed from the lobby to the leafy common area on the second floor, spanning everything from travel and politics to culture and language. She had been on the road for a long time, heading south from the Baltics, and was leaving for Croatia the next morning.
-
-She described the concentration camps in Kraków with such vividness it felt as if I were there, and insisted that Lithuania, Latvia, and Estonia were unmissable. She shared stories of "traveler serendipity"—how she’d run into the same people in different cities—and told me about the travelers she’d met, like a certain geography teacher. The details have faded, but her excitement remains. Before we parted, she offered to buy me a meal, we swapped WhatsApp info, and went back to our rooms.
-
-I was supposed to head back to the Czech Republic the next day, but her stories sparked something in me. I decided to stay one more day and then booked a bus all the way north to Estonia. I even sorted the ferry to Finland and my flight back to mainland Europe. I wanted to tell her that I had decided to extend my journey, but no message ever came. When I checked my phone, I realized I hadn't actually added her, or perhaps she hadn't added me? To be honest, I didn't even know how WhatsApp worked back then.
-
-By the time I woke up the next morning at 10 AM, she was likely gone. There’s a special kind of familiarity in hearing your own language abroad. Although the specifics of our talk are blurry, I still remember the burning passion in her eyes as she shared her stories. I realized I didn't fully understand her excitement yet—and that’s why I decided to keep going. I wanted to see for myself the Poland and the Baltics that lived within her words.
+隔天起床已經十點多，心想他應該已經離開了吧？在國外遇到講中文的都覺得特別熟悉，雖然聊天細節已經不記得了，卻依稀記得她跟我分享旅行故事時炙熱的眼神，我覺得我沒有完全理解他的興奮，所以我決定繼續旅行，去一探究竟他言辭之間的波蘭和波羅地海三國。

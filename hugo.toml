@@ -1,6 +1,6 @@
 baseURL = 'https://madeyourday.life/'
 title = "MadeYourDay.life"
-defaultContentLanguage = 'en'
+defaultContentLanguage = 'tw'
 defaultContentLanguageInSubdir = false
 enableRobotsTXT = true
 enableGitInfo = true
@@ -10,91 +10,91 @@ enableGitInfo = true
   author = 'KAI'
 
 [languages]
-  [languages.en]
-    languageCode = 'en-US'
-    languageName = 'English'
-    weight = 1
-    [languages.en.params]
-      description = 'Travel adventures and guides'
-    [[languages.en.menu.main]]
-      name = 'About'
-      url = '/about/'
-      weight = 1
-    [[languages.en.menu.main]]
-      name = 'Services'
-      url = '/services/'
-      weight = 2
-    [[languages.en.menu.main]]
-      name = 'Guides'
-      url = '/guides/'
-      weight = 3
-    [[languages.en.menu.main]]
-      name = 'Posts'
-      url = '/posts/'
-      weight = 4
-    [[languages.en.menu.main]]
-      name = 'Galleries'
-      url = '/galleries/'
-      weight = 5
-    [[languages.en.menu.footer]]
-      name = 'About'
-      url = '/about/'
-      weight = 1
-    [[languages.en.menu.footer]]
-      name = 'Services'
-      url = '/services/'
-      weight = 2
-    [[languages.en.menu.footer]]
-      name = 'Now'
-      url = '/now/'
-      weight = 3
-    [[languages.en.menu.footer]]
-      name = 'Links'
-      url = '/links/'
-      weight = 4
-
   [languages.tw]
     languageCode = 'zh-TW'
     languageName = '繁體中文'
-    weight = 2
+    weight = 1
     contentDir = 'content'
     [languages.tw.params]
       description = '旅遊冒險與攻略'
     [[languages.tw.menu.main]]
       name = '關於'
-      url = '/tw/about/'
+      url = '/about/'
       weight = 1
     [[languages.tw.menu.main]]
       name = '服務項目'
-      url = '/tw/services/'
+      url = '/services/'
       weight = 2
     [[languages.tw.menu.main]]
       name = '旅遊攻略'
-      url = '/tw/guides/'
+      url = '/guides/'
       weight = 3
     [[languages.tw.menu.main]]
       name = '文章'
-      url = '/tw/posts/'
+      url = '/posts/'
       weight = 4
     [[languages.tw.menu.main]]
       name = '相簿'
-      url = '/tw/galleries/'
+      url = '/galleries/'
       weight = 5
     [[languages.tw.menu.footer]]
       name = '關於'
-      url = '/tw/about/'
+      url = '/about/'
       weight = 1
     [[languages.tw.menu.footer]]
       name = '服務項目'
-      url = '/tw/services/'
+      url = '/services/'
       weight = 2
     [[languages.tw.menu.footer]]
       name = '近況'
-      url = '/tw/now/'
+      url = '/now/'
       weight = 3
     [[languages.tw.menu.footer]]
       name = '連結'
-      url = '/tw/links/'
+      url = '/links/'
+      weight = 4
+
+  [languages.en]
+    languageCode = 'en-US'
+    languageName = 'English'
+    weight = 2
+    [languages.en.params]
+      description = 'Travel adventures and guides'
+    [[languages.en.menu.main]]
+      name = 'About'
+      url = '/en/about/'
+      weight = 1
+    [[languages.en.menu.main]]
+      name = 'Services'
+      url = '/en/services/'
+      weight = 2
+    [[languages.en.menu.main]]
+      name = 'Guides'
+      url = '/en/guides/'
+      weight = 3
+    [[languages.en.menu.main]]
+      name = 'Posts'
+      url = '/en/posts/'
+      weight = 4
+    [[languages.en.menu.main]]
+      name = 'Galleries'
+      url = '/en/galleries/'
+      weight = 5
+    [[languages.en.menu.footer]]
+      name = 'About'
+      url = '/en/about/'
+      weight = 1
+    [[languages.en.menu.footer]]
+      name = 'Services'
+      url = '/en/services/'
+      weight = 2
+    [[languages.en.menu.footer]]
+      name = 'Now'
+      url = '/en/now/'
+      weight = 3
+    [[languages.en.menu.footer]]
+      name = 'Links'
+      url = '/en/links/'
       weight = 4
 
 [outputs]

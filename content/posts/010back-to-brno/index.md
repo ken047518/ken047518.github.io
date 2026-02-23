@@ -1,42 +1,54 @@
 ---
-title: "EP 7. Reunion at the Turning Point of Time: Unlocking the Baltic Mystery"
-date: 2024-09-05
-description: 'It began with a simple bowl of pasta and a deep conversation with a German sociology student. Together, we wandered past the Russian Embassy, etched with historical scars, and the desolate ruins used as filming locations for Tenet. Our walk became a classroom for debating war, sovereignty, and the stark contrasts between the German and Taiwanese education systems. Soon, the setting shifted to the beach, where I joined a group of Ukrainian men—living fiercely in the moment—for intense rounds of volleyball and table tennis. In their laughter, I witnessed true resilience and experienced a brand of language learning that no textbook could ever provide. Finally, through a small twist involving a WhatsApp contact, I released the regret that had lingered since Budapest. I realized that the meeting of travelers is like "time inversion": not every encounter is a prelude to a goodbye. Some people are simply waiting for their next predestined reunion.'
-summary: 'It began with a simple bowl of pasta and a deep conversation with a German sociology student. Together, we wandered past the Russian Embassy, etched with historical scars, and the desolate ruins used as filming locations for Tenet. Our walk became a classroom for debating war, sovereignty, and the stark contrasts between the German and Taiwanese education systems. Soon, the setting shifted to the beach, where I joined a group of Ukrainian men—living fiercely in the moment—for intense rounds of volleyball and table tennis. In their laughter, I witnessed true resilience and experienced a brand of language learning that no textbook could ever provide. Finally, through a small twist involving a WhatsApp contact, I released the regret that had lingered since Budapest. I realized that the meeting of travelers is like "time inversion": not every encounter is a prelude to a goodbye. Some people are simply waiting for their next predestined reunion.'
-image: Tallinn_ambassy.webp
+title: EP 10.《命定的返航：在 26 小時的長途巴士上與自己重逢》
+date: 2024-09-10
+description: 一場突如其來的航班取消，將旅程推向了計畫之外的航道。我在最後一刻登上渡輪，在塔林巧遇來自中國的旅人。坐在長達 26 小時的回程巴士上，我看著窗外流動的風景，咀嚼著《海鷗食堂》的對白。在腦袋整理整趟旅程的思緒和際遇，寫了一些給自己的話。
+summary: 一場突如其來的航班取消，將旅程推向了計畫之外的航道。我在最後一刻登上渡輪，在塔林巧遇來自中國的旅人。坐在長達 26 小時的回程巴士上，我看著窗外流動的風景，咀嚼著《海鷗食堂》的對白。在腦袋整理整趟旅程的思緒和際遇，寫了一些給自己的話。
+image: final.webp
 featured: true
-location: Tallinn, Estonia
+draft: false
+location: 芬蘭 赫爾辛基 / 愛沙尼亞 塔林
 tags:
-  - baltic
-  - hostel
-  - solo-travel
-  - table-tennis
-  - volleyball
-  - history
-  - ferry
+  - 獨旅
+  - 青旅
+  - 波羅地海三國
+  - 巴士
+  - 北歐
+  - 船
 categories:
-  - North-East solo travel
+  - 東北歐獨旅
 ---
-## The Pasta Prelude: Debating Education and Empires at Linnahall
+## 遺失的航道：意外被取消的航班
 
-It was a simple bowl of sausage pasta that opened the door to a profound afternoon. A German sociology student, intrigued (and perhaps a bit concerned) by my minimalist lunch of pasta, grapes, and milk tea, invited me to explore Tallinn with him.
+就在即將離開赫爾辛基的早晨，航班毫無預警地取消了。機場櫃檯的冷淡與台灣截然不同，沒有解釋，也沒有安撫。面對突如其來的空白，我決定搭船回塔林，再轉陸路回捷克。這將是我四天內第六次登船。由於距離渡輪離開還有一段時間，我帶著行李慢慢地往港口靠近，隨意地走進了一間樂器行，看看芬蘭樂器行跟台灣有什麼差別，順便彈琴消磨時間。
 
-Our walk took us through the medieval heart of the city, but the most striking stop was the Russian Embassy. The gates were a gallery of silent resistance: Ukrainian flags, blood-stained white linens, and the haunting faces of the missing. It was a visceral reminder of the shared Baltic history of occupation and their unwavering support for sovereignty.
+一走進去，不是熟悉的吉他品牌，沒有 Fender、Ibenez，很多我不太了解的品牌電吉他，我找到了 PRS 的展間，沒想到芬蘭的 PRS 換算下來竟然比台灣便宜。我還記得愛沙尼亞街頭藝人推薦的Sire，這裡也沒有找到。這間比例最高的是ESP和LTD，這時才知道芬蘭是重金屬大國，所以做金屬琴的品牌特別熱門。在這座看似冷靜、孤僻且悠閒的城市裡，最受歡迎的靈魂竟是喧囂的重金屬。我拿了一把順眼的 Telecaster ，彈了幾首每次試琴都會彈一下的歌，如果我在這裡彈槍與玫瑰應該會被踢出樂器行吧哈哈。
 
-We eventually made our way to the brutalist remains of **Linnahall**, the "Tenet" filming site. The concrete was cracked and reclaimed by weeds, a stark, desolate backdrop for our discussion on education. We compared the German commitment to linguistic purity in universities with Taiwan’s somewhat confused "internationalization" efforts. He observed that for Europeans, language isn't a subject to be mastered over decades—it’s a tool integrated into the rhythm of life.
+## 重回塔林相遇的緣分
 
-I realized then that my few days on the road had taught me more practical English than years in a classroom. As the smell of "weed"—a word far more common here than the "marijuana" of my textbooks—wafted through the summer air, I felt the gap between academic learning and real-world existence finally beginning to close.
+有鑒於在維爾紐斯的追車經驗，我現在都會提前二十至三十分鐘到站，這次我依然提前悠哉地抵達港口，沒想到我沒看到我的船班，一問之下才發現我竟然走錯港口了，我甚至不知道有兩個以上的港口，售票員跟我說你一定要「馬上」搭計程車去另一個港口，開車大概 20 分鐘，走路是一定來不及的，於是我道謝完後拔腿就跑。在路上看到一輛計程車，他跟我開價 25 歐元，我覺得太貴轉頭就跑，他跟我說 20 歐就好，但我還是決定去找嚕嚕車，結果跑了一小段都找不到才決定回頭搭計程車，還好他沒有跟我漲價。在市區塞車塞到我覺得我用跑的還比較快，還好最後還是趕上渡輪了，他說我再晚幾分鐘，船就開走了。
 
-## The Ukrainian Invitation and the Baltic Resolution
+回到塔林後，我入住了原本的青旅，它依然是塔林老城區最便宜的選擇。當我坐在沙發上休息時，有一位中國小哥很有禮貌的用英文問我哪裡人，後來我們就開始用中文對話，他約我去吃晚餐，我當然爽快的答應了，並跟他分享了我的荒謬經過。我們走進了一間高檔餐廳，一個人大概要 30 歐，發現吃不起就離開了。換了一間稍微平價的餐廳，我們主食個點了鴨肉和雞肉，並分對方一小塊，有人能一起分食真是太好了。
 
-The scent of "weed" drifting up from the steps became too pungent, so we headed back to the hostel for a quick break. Remembering the sand volleyball courts I’d spotted near **Linnahall**, I decided to return to the beach that evening. There, I unexpectedly joined a team of middle-aged Ukrainian men. I realized then how many Ukrainians are living across Europe; yet, the way they radiated a fierce "living in the moment" energy made it impossible to sense any heavy burden of worry. I couldn't help but wonder: what do they feel when they see their national flag draped over the gates of the Russian Embassy? If I saw the Taiwanese flag displayed in another country as a sign of support, I know I would be deeply moved.
+在路上又遇到一位講中文的女生跟我們搭話，我以為他是中國人，中國小哥以為他是台灣人，原來他是福建人，難怪我們都覺得他是「對岸」來的，後來發現我們都住同一間青旅，於是飯後我們就在公共空間聊了兩個小時相談甚歡。這位來自上海的小哥之前在日本讀大學，後來回上海工作，辭職後開始環遊世界，他給我看了他的超縝密計畫，密密麻麻的路線規劃在地圖上清清楚楚；反觀福建女生，則是超級大Ｐ人，他買了歐洲火車通票，然後就隨心所欲的想去哪就去哪。
 
-On the court, no one was particularly skilled, but the joy was infectious. One uncle even accidentally kicked sand into my eyes while diving for a ball. After losing the first set, they abruptly invited me to play table tennis—they even had their own paddles ready! It was all so sudden, but we ended up battling it out on stone tables right there on the beach. My German friend from earlier joined in, and this international match roared on until every single ping-pong ball had cracked. We ended the night in a chorus of laughter and satisfaction.
+我們聊了許多職涯規劃，給還在迷惘未來的我一番過來人的建議。他很推薦我可以去考中國頂尖大學，因為我可以用外國人的管道入學，少了很多競爭對手，更容易獲得頂大頭銜，不過我沒有去過中國，對中國也沒有太多好印象，甚至可以說完全沒有在我的考慮過。離開前他將耳塞、小米手錶送給我，希望把資源留給需要的人，我很珍惜這次的對話，我們交換了IG，希望日後還會在歐洲的某個地方相遇。
 
-## Unlocking the Baltic Enigma
+我本來打算從赫爾辛基飛往柏林，去德勒斯登、布拉格，再回到布爾諾。因為臨時被取消的班機，我失去了已經預定好的青旅和巴士錢，但也因此有了這次的緣分，每次的相遇，很有可能都是這輩子的最後一次，所以我都非常珍惜且享受當下的對話。
 
-The day felt like a series of scattered moments, but isn't that just how life moves forward? I woke up with no plans, eating my leftover sausage pasta, met the German guy in the kitchen, and ended up wandering the Old Town and the cinematic ruins of _Tenet_.
+## 回程 26 小時的巴士小記
 
-I’ve realized that as I move forward through time, those coming from the opposite direction are simply following their own timelines. These chance encounters between travelers are like the "time inversion" in _Tenet_—a fated convergence at a specific coordinate in the world. This was my final stop in the Baltics, and I finally understood why that Hong Kong girl loved this place so much. It was also while trying to exchange WhatsApp info with my German friend that I realized a small technical detail: saving a number doesn't always trigger an automatic "add." This tiny discovery suddenly released a long-held knot in my heart. You were heading south, and I was heading north; we crossed paths for a fleeting moment. The regret I left behind in Budapest was finally set free. I see now that not every meeting is a prelude to a goodbye. Some people are just waiting for the next "inverted" reunion.
+當天的晚上，我先跟室友道歉明天會早起吵到他們，他們都笑笑的不太在意。隔天清晨，即便已經是非常早的巴士，我依然提前抵達車站，等待回布爾諾的巴士，這是一趟 26 小時的長途直達巴士。離開塔林的那天清晨，下起了整趟旅程的第一場雨，看了一下德勒斯登和布拉格的天氣預報，也都是下雨天，心裡感到一絲慶幸——現在正好能在車內靜靜躲雨。
 
----
+「如果我現在回頭，下次出來的成本就會更高。」我在距離開學前，盡可能地愈走愈遠，就算我永遠是窮遊裡面最窮的那個，雖然很痛苦，但真的會愛上這種自由的感覺。除了相遇的人，也學會了很多知識和技能，學會善用青旅的剩食，為自己犯的錯付出代價，這些相遇的人、發生的事都是回憶裡的無價之寶。
+
+相比台灣的擁擠和壓抑，這裡怪人怪事多到不要太怪或影響別人，實際上根本沒人在意，就如那位塔林吉他手說的。很喜歡這裡的人的自信，在某種程度上的做自己，讓我到哪都很融入。以下出自海鷗食堂的台詞：
+
+「能做自己喜歡的事很好。」
+「其實只是不想做自己不想做的事。」
+「孤獨的人到哪裡都是孤獨的，傷心的人到哪裡都是傷心的。」
+
+海鷗食堂完全就是我的寫照。我不是在逃避，也不是在追求，我只是想換個地方呼吸。我也不知道為什麼，就單純很享受移動的感覺。回去的路途很漫長，我寫下了這些心得，很喜歡大家一起下車呼吸的時候，大家都在往同一個方向前進的感覺。
+
+音樂、幾何、光，好幾次被這些瞬間感動。曾經深植於心的虛無主義，讓我對世事不再執著對錯。但有趣的是，當你認清了世界的無意義，反而更能開始跟現實「唱反調」，去追求心中的推崇的價值，
+或許這就是虛無主義的目的吧。
+

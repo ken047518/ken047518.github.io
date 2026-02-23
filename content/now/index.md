@@ -1,37 +1,27 @@
 ---
-title: Now
+title: 我現在在做什麼
 date: 2026-01-03
-description: What I'm up to right now
+description: 我現在正在做的事
 ---
 
-## Current Location
+## 目前位置
 
-Currently based in [Your Location], planning the next adventure.
+目前被囚禁在中央大學，持續更新旅行故事。
 
-## Recent Adventures
+## 最近的冒險
 
-Just returned from an incredible journey through [Destination]. The experience exceeded all expectations!
+寒假去了泰國寮國越南，超喜歡寮國大推，可以等故事更新和攻略~
 
-## Upcoming Trips
+## 目前專案
 
-- **February 2026**: Planning a trip to Southeast Asia
-- **Spring 2026**: Exploring European cities
-- **Summer 2026**: Mountain hiking adventures
+- 更新旅行故事
+- 剪影片
+- 寫攻略
 
-## Current Projects
+## 未來計畫
 
-- Writing comprehensive travel guides for recent destinations
-- Editing photos and videos from the last trip
-- Planning itineraries for upcoming adventures
-- Building this travel blog and community
-
-## Focus Areas
-
-- Sustainable and responsible travel
-- Off-the-beaten-path destinations
-- Budget travel tips
-- Travel photography
+- 旅拍計畫on the way
 
 ---
 
-*This is a "now page" inspired by [Derek Sivers](https://nownownow.com/about). It's a snapshot of what I'm currently focused on.*
+*這是一個「近況頁面」，靈感來自 [Derek Sivers](https://nownownow.com/about)。這是我目前專注事項的快照。*

@@ -1,48 +1,49 @@
 ---
-title: "EP 8. Wandering Across the Sea Under a Purple Afterglow: When Regret Becomes a Destined Tenderness"
+title: EP 8.《紫色餘暉下的跨海流浪：當遺憾成為命中註定的溫柔》
 date: 2024-09-07
-description: Beginning with the regret of a missed ferry, I unexpectedly stumbled into the decadent purple tenderness of Helsinki. In the hostel's bustling kitchen, a surprise African meal warmed my long-parched Asian stomach, while the raw monologues of travelers revealed the realities of survival in the North. As I stood atop the cold cannons of Suomenlinna, watching crowds picnic peacefully beside war ruins, I truly felt the weight of shifting eras. It turns out that every regret on the road is merely a guide, leading us toward a destined, beautiful memory.
-summary: Beginning with the regret of a missed ferry, I unexpectedly stumbled into the decadent purple tenderness of Helsinki. In the hostel's bustling kitchen, a surprise African meal warmed my long-parched Asian stomach, while the raw monologues of travelers revealed the realities of survival in the North. As I stood atop the cold cannons of Suomenlinna, watching crowds picnic peacefully beside war ruins, I truly felt the weight of shifting eras. It turns out that every regret on the road is merely a guide, leading us toward a destined, beautiful memory.
+description: 從一場錯過船班的懊悔出發，我意外撞進了赫爾辛基那片奢侈的紫色溫柔。在青旅沸騰的廚房裡，一頓意外的非洲料理溫暖了我乾涸已久的亞洲胃，也聽見了各方旅人在北歐掙扎與生存的真實獨白。當我踏上芬蘭堡冰冷的砲台，看著坦克遺蹟旁悠然野餐的人群，才發覺時代更迭的重量。原來，旅途中的每一個遺憾，都是為了引領我們走向那場命中註定的美好回憶。
+summary: 從一場錯過船班的懊悔出發，我意外撞進了赫爾辛基那片奢侈的紫色溫柔。在青旅沸騰的廚房裡，一頓意外的非洲料理溫暖了我乾涸已久的亞洲胃，也聽見了各方旅人在北歐掙扎與生存的真實獨白。當我踏上芬蘭堡冰冷的砲台，看著坦克遺蹟旁悠然野餐的人群，才發覺時代更迭的重量。原來，旅途中的每一個遺憾，都是為了引領我們走向那場命中註定的美好回憶。
 image: Helsinki-sky2.webp
 featured: true
-location: Helsinki, Finland
+draft: false
+location: 芬蘭 赫爾辛基
 tags:
-  - hostel
-  - solo-travel
-  - ferry
-  - nordic
-  - history
+  - 獨旅
+  - 青旅
+  - 歷史
+  - 北歐
+  - 船
 categories:
-  - North-East solo travel
+  - 東北歐獨旅
 ---
-## Nordic-Exclusive Purple Tenderness: Island Hopping from Tallinn to Helsinki
+## 北歐限定的紫色溫柔：從塔林到赫爾辛基的跳島航線
 
-After a fulfilling day at the beach, the unique purple afterglow of a Nordic summer felt incredibly decadent. Following a brief rest, I prepared to board the ferry and formally cross the Gulf of Finland toward Helsinki.
+在沙灘結束了滿足的一天，北歐夏日獨有的紫色餘暉顯得如此奢侈。短暫歇息後，我準備搭上渡輪，正式跨越芬蘭灣前往赫爾辛基（Helsinki）。
 
-I was packing my bags at a leisurely pace, only to realize I had actually confused the ferry schedule with a flight time, causing me to miss the morning departure. Due to fluctuating ticket prices, I quickly booked a 5:30 PM slot and spent the rest of the day "rotting" at the hostel until it was finally time to stroll toward the harbor. It had been a long time since my last seafaring experience; I expected something like the passenger boats from Taiwan to Penghu, but the vessels here are cruise-ship grade—grand five-story hulls where the decks and seating areas were packed nearly to capacity. This three-hour voyage is a daily routine for locals; I heard many Finns make the trip to Tallinn specifically to stock up on cheap alcohol, a unique spectacle born from the price disparity between the two regions.
+我悠悠哉哉地收拾行李，結果我竟然把渡輪與飛機的時間搞混，就這麼錯過了早上的渡輪。因票價浮動，我趕緊補訂了下午五點半的班次，在青旅「廢」到出發前，才慢悠悠地晃向港口。這是我久違的航海體驗，原以為會像台灣前往澎湖的那種客船，沒想到這裡的船艦竟是郵輪等級——五層樓高的宏偉船體，甲板與座位區滿是人潮，幾乎座無虛席。這三小時的航程是兩國人民的日常，聽說不少芬蘭人會專程來塔林大肆採購廉價酒類帶回國，這也是兩地物價差異下的獨特奇觀。
 
-I found a prime spot on the third-floor deck, braving the sea breeze while snacking on my prepared bread, green grapes, and milk. Despite the bright sun, the Baltic sunlight is intense yet lacks warmth; the wind chill was so biting I had to layer a down jacket under a windbreaker to stay warm. Later, I moved to the forward deck, propped my hiking pack against the hull as a pillow, and drifted off to sleep to the rhythm of the waves.
+我挑了一個三樓甲板區的風水寶地，吹著海風，吃著備妥的麵包、綠葡萄和牛奶。雖是大晴天，但波羅的海的陽光強烈卻不溫暖，體感冷得讓我得穿上羽絨衣加風衣禦寒。隨後我移至前方的甲板，將登山包當成靠枕墊在船體，就這麼枕著海浪聲睡了一覺。
 
-Just before arrival, the silhouettes of islands began to emerge on the horizon. The golden sunset burst across the water like a flashbang, carving a path of shimmering light. Watching seagulls circle and geese drift on the water, it felt as though the entire North Sea was welcoming me to Helsinki. One particularly grand archipelago (Suomenlinna) caught my eye, and I made a mental note to explore it in the coming days.
+抵達前夕，群島輪廓在海平面浮現，金黃色的夕陽如閃光彈般在海面上炸開，留下一道粼粼波光。看著海鷗盤旋、鵝群戲水，彷彿整片北海都在歡迎我的到來。其中一座壯觀的群島（芬蘭堡）抓住了我的目光，心裡暗自決定後幾天定要登島一探。
 
-As I continued north, accommodation prices climbed steadily; even the most basic 16-bed dorm in Helsinki cost 20 Euros and required an hour's walk from the port. Fortunately, the purple sunset unique to high latitudes diluted that sense of loneliness. The city is quiet to the point of feeling empty; there is traffic, but one would never describe the atmosphere as "bustling". That pastel-purple sky, which in Taiwan only appears before a typhoon, is a daily occurrence here—perhaps the most extravagant gift high latitudes offer a traveler.
+隨著航向愈北，房價也隨之攀升，赫爾辛基最簡陋的 16 人房也要 20 歐元，且距離港口需步行一小時。所幸，高緯度特有的紫色日落稀釋了這份孤單。這座城市寂靜得有些空曠，雖有車流，卻稱不上熱鬧。那片如颱風天前的粉紫色天空，在北歐竟是日常，這或許就是高緯度給旅人最奢侈的贈禮。
 
-## African Cuisine in Helsinki and Survival Tips from a Chinese Peer
+## 在赫爾辛基吃到非洲料理和中國小哥的求生秘訣
 
-After arriving at the hostel, I first stopped by the supermarket next door for some green grapes and tried to find a spot in the massive common area. Contrary to the silent facade of Helsinki's streets, the hostel kitchen was bustling to the point of boiling over. A long table seating dozens was mostly occupied by African travelers who were simmering a large pot of sauce and cooking fragrant jollof-style rice with drumsticks; in comparison, the yogurt and grapes in my hands felt a bit humble.
+抵達青旅後，我先去隔壁超市買了綠葡萄，試圖在巨大的公共區域找個落腳處。有別於赫爾辛基街道那種寂靜的表象，這間青旅的廚房熱鬧得近乎沸騰。幾十人坐的大長桌被非洲旅人們佔據了大半，他們正燉著一大鍋醬料、煮著噴香的大鍋飯配雞腿；相比之下，我手中只有優格與葡萄，顯得有些寒酸。
 
-On the other side, where a group of Japanese travelers had settled, it was so crowded I couldn't find any space, so I chose to sit near the African group instead. These men came from various countries like Nigeria and Kenya. Though their native tongues differed, "African English" served as their lingua franca. One Nigerian master's student had been living in the hostel long-term because he simply couldn't find an apartment to rent. Soon, a friendly young man struck up a conversation and naturally joined us. He was a Chinese student in his final year of nursing school in Finland; he had moved to Helsinki to write his thesis and seemed to be on very familiar terms with the African residents.
+在日本人盤踞的另一側，我找不到空間，索性選擇坐在非洲大叔們附近。這群人分別來自奈及利亞、肯亞等地，雖然母語各異，但「非洲英文」是他們在此交會的共同語言。其中一位讀碩士的奈及利亞學生，因為找不到租屋處，長期以青旅為家。隨後，一位熱情的小哥自然地切入話題，他是一位來芬蘭讀護理的大四中國學生，為了寫論文搬到赫爾辛基，看來早已跟這群非洲朋友混得極熟。
 
-When the rice was ready, they generously shared a bowl with me and the Chinese guy, topped with their traditional sauce and even a chicken drumstick. It suddenly hit me that I hadn't eaten "rice" for ages since arriving in Europe—without a rice cooker, I honestly had no clue how to prepare it. I never expected my first taste of African cuisine would be in Helsinki, Finland; that warm bowl of "African flavor" was exactly what my parched "Asian stomach" needed. During the meal, a guy from Kenya proudly showed off his Irish passport—the piece of paper that allows him to travel freely across Europe and reside in Finland long-term. Because Finland is relatively open and foreigner-friendly, many African immigrants make a living here driving taxis or doing food delivery.
+當大鍋飯煮好，他們慷慨地分給我和中國小哥一碗飯，澆上傳統醬汁，還附上一根雞腿。我這才驚覺，來到歐洲後我竟然許久沒吃過「飯」了，畢竟沒有了飯鍋，我根本不知該如何煮飯。沒想到人生第一口非洲料理，竟是在北歐的赫爾辛基，這一碗溫暖的「非洲味」補足了我乾涸已久的「亞洲胃」。席間，一位肯亞小哥略顯得意地展示他的愛爾蘭護照，那張紙是他能自由穿梭歐洲各國、在芬蘭長住的通行證。由於芬蘭相對開放且環境友善，許多非洲移民在此靠著開計程車或跑外送，努力撐起一份生活。
 
-Once the meal ended, it was just me and the Chinese student chatting in Mandarin. He shared that while Finnish tuition isn't as expensive as one might imagine, the high cost of living and the severe housing shortage are the true survival challenges. Yet, for many, this level of freedom is worth the struggle. When I asked why there are always so many Japanese tourists in the Baltic states and Finland, he recommended the movie _Kamome Diner_ (_Seagull Diner_) and told me that was his reason for coming to Finland. Before we parted ways, he shared a wealth of survival strategies, from local transport apps to the food-saving app "Too Good To Go." However, for an "ultimate budget traveler" like me, even those discounted meals and transport options still felt like a bit of a luxury.
+飯局結束後，剩下我與中國小哥的中文對話。他分享道，芬蘭學費雖不若想像中昂貴，但昂貴的食宿與極度短缺的房源才是生存的挑戰；即便如此，對許多人而言，這份自由依然珍貴。當我問起為何在波羅的海與芬蘭總能遇見成群的日本遊客時，他推薦了我一部電影——《海鷗食堂》，並告我這就是他來芬蘭的理由。臨別前，他還傾囊相授許多求生攻略，從當地的交通 APP 到剩食救星 「Too Good To Go」，雖然對我這種「究極窮遊派」而言，這些食物和交通方式都還是奢侈了些。
 
-## Suomenlinna: A Sunny Picnic Atop War Ruins
+## 芬蘭堡：在戰爭遺蹟上的日光野餐
 
-The next day, I walked an hour across the city, capturing the streetscapes of Helsinki along the way. Yet, my mind was fixated on that mysterious island I had glimpsed from the ferry the day before—Suomenlinna. Knowing very little about what to expect on the island, I used "Too Good To Go" to snag a burger and stopped by a supermarket for donuts and milk, ensuring I wouldn't go hungry on that military outpost. I then bought a ticket and boarded a smaller ferry; this time, the experience felt much more like the boat trips to Taiwan’s Penghu islands.
+隔天，我步行一小時橫跨市區，沿途收錄了赫爾辛基的街景，但心裡最惦記的，仍是前一天在渡輪上遙望的那座神祕島嶼——「芬蘭堡」。對於島上的一切我非常陌生，於是我先用 「Too Good To Go」 買了一個漢堡備著，再到超市補給甜甜圈與牛奶，確保自己在這座軍事孤島不會「斷糧」。隨後，我買了船票登上一艘規模較小的渡輪，這次的體感確實比較像前往澎湖的航程了。
 
-**Suomenlinna** is a sea fortress situated off the coast of Helsinki. During the Swedish era, it was known as _Sveaborg_(meaning "Swedish Castle"), originally built to defend against the expansion of the Russian Empire. In the early 19th century, during the Finnish War, the fortress surrendered to Russian forces, marking the beginning of over a century of Russian rule. It wasn't until Finland gained independence in 1918 that it was renamed _Suomenlinna_ ("Castle of Finland"), symbolizing the return of sovereignty and national resilience.
+**芬蘭堡（Suomenlinna）** 坐落於赫爾辛基外海，這座海防要塞在瑞典統治時期被稱為 Sveaborg（瑞典堡），最初是為了抵禦俄羅斯帝國的擴張而建。 19 世紀初，要塞在芬蘭戰爭中向俄軍投降，開啟了長達百年的俄國統治時期。 直到 1918 年芬蘭獨立，這裡才正式更名為 Suomenlinna，象徵主權的回歸與民族韌性。
 
-The fortress is comprised of several small islands, the main ones connected by bridges and easily accessible on foot. Starting from **Iso Mustasaari**, where the port is located, I walked halfway around before crossing into **Susisaari**, which houses most of the historic sites, cannons, and museums. Walking along the trail, I felt as though I were hovering on the edge of centuries-old warfare—bound by the boundless sea on my left and cold, iron cannons on my right. It was a striking contrast: the once-grim battlements are now filled with people lounging in the sun and enjoying leisurely picnics. Seeing such tranquility today, I felt deeply fortunate to stand in a place once defined by such turmoil, but now as a mere traveler.
+芬蘭堡由數座小島組成，主要的島嶼皆有橋樑相連，徒步即可跨越。 我從港口所在的 **Iso Mustasaari** 出發，繞行半圈後進入 **Susisaari**，這裡匯集了島上大部分的古蹟、砲台與博物館。沿著徒步路線行走，彷彿隻身走在幾個世紀前的戰爭邊緣；左手邊是無垠的海，右手邊則是冰冷的砲台。 曾經肅殺的陣地，如今已被悠閒野餐、曬太陽的人群填滿，形成極大的反差。 時代更迭得如此迅速，看著眼前這份平靜，我很慶幸自己能以旅人的身分，出現在這個曾經寫滿動盪的地方。
 
-In the decadent light of a Nordic summer night, I spent a peaceful hour walking back to the hostel, savoring the unique tenderness of the North alone. From the initial regret of missing my ferry on day one to the profound contentment of watching the sunset tonight, it felt as though every "destined regret" was simply leading me toward a better path ahead.
+在北歐夏日的奢侈夜晚，我悠哉悠哉地走了一小時回青旅，一個人享受北歐獨有的溫柔。從第一天還在錯過船班的懊悔，到晚上看見夕陽的滿足，彷彿一切像是命中註定的遺憾，總會引領我走向更好的前途。

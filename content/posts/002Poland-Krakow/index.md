@@ -1,41 +1,45 @@
 ---
-title: "EP 2.  From Surviving to Living : The Souls That Are Saved"
+title: EP 2.《從生存到生活：那些被拯救的靈魂》
 date: 2024-08-26
-description: 'Leaving Budapest behind in the middle of the night, I boarded a night train to Poland. In Kraków, the way I measured my journey quietly shifted—from the anxiety of saving money to the richness of living experiences. I found myself in heated foosball matches with a Finnish couple and receiving a clumsy yet heartwarming "Goodnight" in Chinese from a Kazakh traveler. Although I missed the heavy silence of the concentration camps, I witnessed a different kind of power in the Old Town Square: a crowd singing "Zombie," a moment where the force of life transcended borders. This was no longer just a trip; it was a lesson in letting my guard down and reconnecting with the world.'
-summary: 'Leaving Budapest behind in the middle of the night, I boarded a night train to Poland. In Kraków, the way I measured my journey quietly shifted—from the anxiety of saving money to the richness of living experiences. I found myself in heated foosball matches with a Finnish couple and receiving a clumsy yet heartwarming "Goodnight" in Chinese from a Kazakh traveler. Although I missed the heavy silence of the concentration camps, I witnessed a different kind of power in the Old Town Square: a crowd singing "Zombie," a moment where the force of life transcended borders. This was no longer just a trip; it was a lesson in letting my guard down and reconnecting with the world.'
+description: 告別了深夜的布達佩斯，我搭上前往波蘭的夜車。在克拉克夫，旅行的度量衡悄悄改變——從省錢的焦慮轉向生活的體驗。我在青旅與芬蘭情侶激戰手足球，收下哈薩克人笨拙卻溫暖的中文晚安；雖然錯過了沈默的集中營，卻在老城廣場的《Zombie》歌聲中，見證了跨越國界的生命力量。這是一場關於放下戒心、與世界重新連結的流浪。
+summary: 告別了深夜的布達佩斯，我搭上前往波蘭的夜車。在克拉克夫，旅行的度量衡悄悄改變——從省錢的焦慮轉向生活的體驗。我在青旅與芬蘭情侶激戰手足球，收下哈薩克人笨拙卻溫暖的中文晚安；雖然錯過了沈默的集中營，卻在老城廣場的《Zombie》歌聲中，見證了跨越國界的生命力量。這是一場關於放下戒心、與世界重新連結的流浪。
 image: krakow.webp
 featured: true
-location: Kraków, Poland
+draft: false
+location: 波蘭 克拉克夫
 tags:
-  - central-europe
-  - hostel
-  - music
-  - solo-travel
-  - history
-  - bus
+  - 中歐
+  - 獨旅
+  - 青旅
+  - 音樂
+  - 歷史
+  - 巴士
 categories:
-  - North-East solo travel
+  - 東北歐獨旅
 ---
-## Riding into the Night: Farewell to Budapest
 
-With an extra day to spare, I decided to wander up to Fisherman's Bastion. Being there solo made me feel a sudden pang of loneliness amidst the crowds. If Buda Castle is the definition of grandeur, Fisherman's Bastion is its elegant, delicate counterpart. After watching the ballroom dancing at the castle the night before, tonight was for the city lights.
+## 嚕嚕車初體驗：告別布達佩斯
 
-Over these four days, I only took the metro once—walking was my primary mode of transport. I kept seeing electric scooters everywhere (I fondly call them "Lulu cars"), so I finally set up a Lime account. I grabbed a scooter by the Danube and zoomed straight from District V all the way to Heroes' Square. Afterward, I headed toward the bus station on foot—though "station" is a generous term for what was really just a desolate, eerie roadside far from the city center.
+由於多了一天的時間，我決定去漁人堡走走看看，獨自一人出現在景點區顯得特別孤單。有別於布達城堡的壯麗雄偉，漁人堡更像是精緻典雅的代名詞；昨晚在布達城堡看大家跳交際舞，今天在漁人堡看夜景。這四天只搭了一次地鐵，其餘都用走路的，在路上很常看到 scooter（我喜歡稱他為嚕嚕車），於是辦了一個Lime帳號，在多瑙河岸邊租了一台嚕嚕車，從布達佩斯第五區一路直線衝到英雄廣場，再步行前往車站，雖說是車站，但其實是在一個遠離市區很陰森的交通道路。
 
-Walking through those deserted streets at midnight, a standalone McDonald’s felt like a lighthouse in the dark. Even though they were close to closing, I stayed inside until the last possible minute before trekking to the station. There were actually quite a few people there; I wasn't the only backpacker choosing the budget-friendly night bus. Everyone found a spot to lounge and scroll through their phones. But having just arrived in Europe, I hadn't yet let my guard down. My distrust of the city and my wariness toward strangers only felt amplified in the dead of night.
+半夜走在人煙稀少的交通道路，路邊獨立的麥當勞顯得特別可靠，即使他已經快打烊了，我還是選擇去裡面坐到他關門再走去車站。半夜車站其實還有不少人，選擇省錢搭夜車的背包客不是只有我，大家各自找個舒服的地方躺了就滑手機。剛來到歐洲還沒放下我對於這個地方的不信任感，對於城市、旁人的敵意，在夜黑時被放得更大 。
 
-## A Shift in Values: From 12-Dollar Bread to a 300-Dollar Yogurt Bowl
+## 價值觀的轉變：從 12 元麵包到 300 元優格
 
-I arrived in Kraków at 6:00 AM and found a brunch spot on the map that opened at eight. There, I spent about 300 TWD on a fruit yogurt bowl—a small price to pay for the luxury of resting on their sofa until noon before heading to my hostel. Everything in Poland is relatively affordable, but it’s still funny to think back to my first day in Europe, when I’d only shell out 12 TWD for bread. Now, a 300-dollar yogurt bowl feels like a total bargain.
+在清晨六點來到克拉克夫，在地圖上找了一間八點開始營業的早午餐，點了台幣 300 元左右的水果優格，然後在沙發上休息到中午，再前往青旅。波蘭的一切都相對便宜，不敢想像剛來歐洲的第一天只願意花 12 元吃麵包，現在 300 元的水果優格都覺得划算。
 
-Compared to the "professional" vibe of the hostel in Budapest, this place in Kraków was much more laid-back—just a few bunk beds thrown together, a bar, and a foosball table. It was the quintessential European hostel. I spent the day wandering around the Main Market Square and the Old Town, listening to the rhythmic _clack-clack_ of horse hooves. I couldn't help but wonder why the Hong Kong girl from Budapest never added me on WhatsApp. Here I was in the Kraków she loved so much, while she had likely already made it to Croatia or somewhere even further south.
+相比布達佩斯青旅的「專業感」，克拉克夫這間相對很隨興。隨便擺幾張上下舖，還有 bar 跟手足球檯，算是很典型的歐洲青旅。白天時去了市政廳廣場和老城閒晃，聽著噠噠的馬蹄，還在思考布達佩斯的香港女生為什麼沒有加我的 WhatsApp，我來到了他很喜歡的克拉克夫，他應該也已經抵達克羅埃西亞或是更往南去了吧？
 
-## Kraków Connections: The Souls That Saved Me
+## 克拉克夫之緣：那些被拯救的靈魂
 
-Back at the hostel that evening, I grabbed a cider and settled in at the bar. Soon, a guy approached me for a game of foosball—he and his girlfriend were from Finland. My first thought was: _Why would Finns stay in such a budget hostel?_One night here probably costs them the price of a single burrito back home. But as we chatted over drinks, I realized they chose hostels not for the price, but for the connection—the joy of meeting people from every corner of the globe. I lost miserably that night, 10-3, but we promised a rematch the next evening.
+晚上回到青旅後，點了一杯蘋果酒就在吧檯區喝酒滑手機，後來有一位男子找我一起玩手足球，他們是一對芬蘭情侶。當時我冒出的第一個想法是：芬蘭人為什麼要住這麼廉價的青旅？對他們來說這裡一晚價格大概就是他們的一個捲餅。經過一番酒後閒聊，才理解他們喜歡住青旅不是因為沒錢，而是因為可以跟來自世界各地的人交流，這就是他們旅行的樂趣。我今天手足球輸了，10：3 輸慘了，我跟他約好明天晚上再來玩，便回去房間休息了。
 
-In my dorm, there was a man who seemed to have spent the entire day in bed. Eventually, he struck up a conversation. He was from Kazakhstan, studying in Poland, and was just in Kraków to lounge for a few days. Before we slept, he surprised me by saying "Goodnight" in Chinese—he had actually used Google Translate to learn it while I was in the shower.
+宿舍房裡有一位一直躺在床上的男子，從我白天抵達到晚上回去他都躺在床上，後來他主動跟我搭話聊天，他是來波蘭讀書的哈薩克人，放假來克拉克夫混個幾天，他說他已經來這裡幾年了但只去過德國。晚上睡覺時還用中文跟我說晚安，原來是他趁我去洗澡時用 google 翻譯學的
 
-The next day, I had planned to visit Auschwitz, but since I hadn't booked in advance, I headed to Schindler’s Factory instead. It’s the enamel factory known for saving over a thousand Jewish lives. But standing outside, I hesitated. Even under the bright sun, my mind was filled with oppressive, snow-covered imagery. After pacing for a while, I decided I wasn't ready and walked away. I spent the day eating Polish dumplings (the fruit-filled kind) and roasted chicken, wandering the city until I realized I’d completely forgotten my foosball rematch.
+隔天原本想去奧斯威辛集中營，但由於沒有提前預訂，只好改去河另一端的辛德勒工廠，聽說是一座拯救 1000 多名猶太人的的瓷器工廠。我一到工廠外面就有些卻步，即使是晴天，我腦裡卻是大雪紛飛極度壓抑的景象，在外面徘徊了一陣子便離開了。吃了波蘭餃子(裡面包水果)、烤雞，晚上回到城區閒晃，忘記了我應該要回去再戰手足球的。
 
-Even without the concentration camps, the spirit of history was everywhere. In the Old Town Square, a rally for Ukraine was in full swing. Seeing the flags waving and hearing the crowd sing "Zombie" was powerful. It was the strength of a nation that had known persecution, now standing in solidarity with its neighbor. It was the raw power of life. I realized then that my spontaneous way of living had allowed me to lower my guard. I was finally ready to talk to the world. I might still be "surviving" on a budget, but mentally, I had finally started "living."
+雖然沒有去到集中營，不過在老城廣場，能聽見聲援烏俄戰爭的活動，揮舞烏克蘭的國旗、唱著 Zombie，這就是曾經經歷戰爭迫害民族，如今身為鄰居，能夠共感並用行動支援烏克蘭的民族力量，這就是生命的力量啊。也意識到自己因為生活的隨興感，而慢慢放下戒心，願意跟不同地區的人交流聊天，即使在物質層面仍然處在生存模式，但心境上已經進入一種生活模式了。
+
+
+
+

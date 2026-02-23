@@ -1,45 +1,48 @@
 ---
-title: "EP 5. At the Heart of the Baltics: Rediscovering the Simplicity of Life"
+title: EP 5.《在波羅地海的心臟，找回生活的單純》
 date: 2024-09-02
-description: Crossing the border into Riga, I found a city that once rivaled Stockholm as a great trading hub, now radiating a secluded, timeless elegance. In a hostel brimming with the pulse of daily life, I swapped melodies with Henry, a BBC photographer. It was here that my identity began to shift—from a guitarist and an athlete to a traveling adventurer, sowing the seeds of my passion for photography. From cooking a 30-TWD bell pepper and chicken pasta to lowering my guard during a game of beach volleyball by the Daugava River, I realized that as the veneer of prosperity fades, a refined sense of "living" becomes even more precious. As the sun dipped into the river, I finally found my own rhythm in the long Nordic nights.
-summary: Crossing the border into Riga, I found a city that once rivaled Stockholm as a great trading hub, now radiating a secluded, timeless elegance. In a hostel brimming with the pulse of daily life, I swapped melodies with Henry, a BBC photographer. It was here that my identity began to shift—from a guitarist and an athlete to a traveling adventurer, sowing the seeds of my passion for photography. From cooking a 30-TWD bell pepper and chicken pasta to lowering my guard during a game of beach volleyball by the Daugava River, I realized that as the veneer of prosperity fades, a refined sense of "living" becomes even more precious. As the sun dipped into the river, I finally found my own rhythm in the long Nordic nights.
+description: 越過邊境來到里加，這座曾超越斯德哥爾摩的貿易大城，如今散發著一種遺世獨立的優雅。我在充滿生活感的青旅與 BBC 攝影師 Henry 交換旋律，從吉他手、運動員，默默地變成了旅行冒險家，也埋下攝影愛好的種子。從三十元台幣的甜椒雞腿義大利麵，到道加瓦河畔卸下心防的沙灘排球，讓我發現即便繁榮褪去，精煉後的生活感反而更加珍貴。在夕陽沉入河水的瞬間，我在北歐的漫漫長夜找到了舒適的生活節奏。
+summary: 越過邊境來到里加，這座曾超越斯德哥爾摩的貿易大城，如今散發著一種遺世獨立的優雅。我在充滿生活感的青旅與 BBC 攝影師 Henry 交換旋律，從吉他手、運動員，默默地變成了旅行冒險家，也埋下攝影愛好的種子。從三十元台幣的甜椒雞腿義大利麵，到道加瓦河畔卸下心防的沙灘排球，讓我發現即便繁榮褪去，精煉後的生活感反而更加珍貴。在夕陽沉入河水的瞬間，我在北歐的漫漫長夜找到了舒適的生活節奏。
 image: Riga.webp
 featured: true
-location: Riga, Lativa.
+draft: false
+location: 拉脫維亞 里加
 tags:
-  - baltic
-  - hostel
-  - music
-  - solo-travel
-  - photography
-  - volleyball
-  - bus
+  - 獨旅
+  - 青旅
+  - 波羅地海三國
+  - 排球
+  - 吉他
+  - 攝影
+  - 歷史
+  - 博物館
+  - 巴士
 categories:
-  - North-East solo travel
+  - 東北歐獨旅
 ---
-## Arriving in Riga: A Hidden Sanctuary Behind a Faded Facade
+## 抵達里加：隱匿在街區裡的溫馨破舊
 
-The daytime journey to Riga was a continuous stretch of breathtaking countryside. For once, I didn't have to take a night bus, allowing me to finally soak in the scenery—I found myself quite envious of the horses enjoying those vast, endless meadows. The Riga bus station is just a short walk from the Old Town. After a quick bite of donuts and bread, I spent some time searching for my hostel.
+白天前往里加的路上，依然是美不勝收的田野風光，終於不用搭夜車，可以欣賞沿途風光了，很羨慕這些馬可以享受一大片的草原。里加巴士站距離老城非常接近，步行十分鐘左右就進入到老城區了，買了甜甜圈和麵包充飢，花了一些時間尋找訂好的青旅。
 
-Since it was a budget hostel, it was tucked away in an alley with no sign and no staff in sight. Following my usual "tactic," I slipped inside when I saw someone leaving the building. The elevator was a relic—manual doors that clattered loudly as it ascended. On the fourth floor, a friendly Indian man helped me get my keys and showed me to my room. As we walked through the common areas, the atmosphere was incredibly cozy: some were cooking, some were reading, and someone was strumming a guitar. It looked worn out on the outside, but inside, it felt like a home.
+由於是便宜的青旅，隱蔽在街區裡面，沒有招牌也沒人管理。後來又趁著有人從建築物裡出來，偷偷溜進去，電梯依然是手動開門的而且上升時會發出巨響。抵達四樓後有一位熱心印度人協助我拿鑰匙還帶我到我的房間，沿途經過大廳、廚房等公共空間，有的煮飯，有的看書用電腦，還有人在彈吉他。雖然外表很破舊，不過內部氛圍非常溫馨。
 
-## Inspiration from a BBC Photographer
+## 來自BBC攝影師的啟發
 
-This was the first time I’d stayed in a hostel with a guitar, and it marked the longest I’d gone without playing since high school. Back in the lounge, I met a man named Henry from England. With his effortless, artistic beard, he looked every bit the creative. Henry had studied politics and history and was now a photographer for the BBC, specializing in human-interest stories. Talking to him ignited a longing in me for photography as both a passion and a profession. I’ve always been an observer; perhaps, I thought, I too could become a nomadic photographer.
+這是我第一次住到有吉他的青旅，也是我高中以來最久沒碰吉他的一段時間。當我回到大廳時，有一位男子正彈著吉他，他叫 Henry 來自英格蘭，留著隨興又帶有藝術氣息的絡腮鬍，他之前讀政治、歷史，目前是一位幫 BBC 拍照的攝影師，以拍人文題材為主，更讓我對於攝影師這個職業和興趣有了嚮往，我很喜歡也善於觀察，或許我也能成為一位流浪攝影師？
 
-Henry had studied classical guitar since childhood and played beautifully; I was surprised to learn he was only twenty-five. He mentioned that traveling had softened his English accent. He handed me the guitar before heading off to cook his dinner. As I played through old songs and improvised new melodies, I realized the calluses on my fingertips were gone. It hit me then: I was no longer a guitarist in a band, but a wanderer who had shed his cocoon, embracing a life without a fixed address.
+他從小時候就開始學古典吉他，彈得一手好琴，聊了一下才知道原來他才二十五歲。他說由於旅行的緣故，他沒有很重的英格蘭腔。他把琴給我後就去煮他的義大利麵了，我彈了很多之前練過的音樂也即興一些旋律，彈著彈著發現手指上的繭已經都不見了。突然意識到我已經不再是樂團裡的吉他手，而是一位破繭而出居無定所的流浪者。
 
-## Immersion in the Powder Tower: Life Refined by History
+我看到他的義大利麵看起來很好吃，於是決定自己煮煮看，我去超市買了雞腿和牛奶，沒想到里加的雞腿三支只要台幣五十元，搭配前人留在青旅的免費食物，螺旋義大利麵、義大利麵醬，還有整餐的精華甜椒，拯救了我原本單調的義大利麵，最後再搭配青旅提供的紅茶包自己配牛奶做成奶茶，一餐不到三十元台幣就完成了，我從來沒有想過可以用這麼低的成本吃到這麼美味的料理。
 
-Riga is a city of profound historical and strategic significance. In the Middle Ages, it served as a vital trade hub connecting East and West, earned its title as the "Heart of the Baltics," and later became the midpoint of the legendary "Baltic Way." From the 13th to the 15th century, during the glory days of the Hanseatic League, architectural gems like the Riga Cathedral, the Three Brothers, St. Peter’s Church, and the Powder Tower were born. By the 17th century, Riga had grown to be the largest city in the Swedish Empire, even surpassing Stockholm. Later, under Russian rule, it flourished as an industrial and foreign trade port. This economic prosperity paved the way for the Art Nouveau movement in the early 20th century, leaving behind the ornate facades that define the Old Town today. Having endured Nazi and Soviet occupations, the city finally regained independence in 1991—a dark yet unforgettable chapter commemorated by the Museum of the Occupation of Latvia.
+## 沉浸在火藥塔：經過淬煉後留下的生活感
 
-The Powder Tower, once a storage for gunpowder, has been thoughtfully repurposed into a museum. I was struck by the European approach to design; the interactive and immersive exhibits are incredibly human-centric. Housing everything from cannonballs to tanks, it tells the story of the Latvian War of Independence through triggered mechanisms that create a truly visceral experience.
+里加是一座非常具有歷史及戰略意義的城市，在中世紀時是連接東西方的貿易樞紐，被稱作波羅地海的心臟，同時也是波羅地海之路「人鏈」的中間點。里加在十三至十五世紀經歷漢薩同盟的貿易榮光，里加主座教堂、里加三兄弟、聖彼得教堂、火藥塔，都屬於這個時期的產物。里加在十七世紀時曾經是瑞典王國最大的城市，超越斯德哥爾摩，後來被俄羅斯併入後積極發展成工業與對外貿易港口。在經濟發展良好的餘裕之下，二十世紀初新藝術運動爆發，將歐洲流行的新藝術風格帶入里加，留下現今老城區華麗的建築物。後來經歷了納粹、蘇聯統治，直到 1991 年蘇聯解體才恢復獨立，拉脫維亞被佔領時期博物館，正是用來紀念這段不能被遺忘的歷史。
 
-Leaving the museum, I arrived at the Town Hall Square. The melancholic strains of a street violinist’s cello seemed to echo Riga’s current solitude. Once a trade giant that overshadowed Stockholm, the city—having weathered the storms of Nazism and Soviet rule—no longer possesses its former bustling crowds. What remains is a small population and numerous museums mourning the past. Yet, this is exactly what shapes Riga’s unique, secluded character: by losing its overwhelming prosperity, it has gained a pure, unadorned sense of "living."
+火藥塔在漢薩同盟時期被用於儲存火藥，如今已被改建為博物館。有時候不得不佩服歐洲人在「設計」的理解，在互動式和沉浸式設計方面都非常人性化。火藥塔裡頭存放著砲彈、戰車，也講述拉脫維亞獨立戰爭的經過，有許多觸發式的機關能夠體驗身歷其境。
 
-## Beach Volleyball in Riga: The Moment I Unbuckled My Waist Bag
+走訪完博物館後，我來到里加市政廳廣場，聽著街頭藝人演奏的提琴聲，相應著里加現今的淒涼，曾經是超越斯德哥爾摩的貿易大城，經歷了納粹和蘇聯的統治後，也無力回到當時的香火鼎盛，留下了少少的居民，和許多的博物館緬懷過往，卻也塑造出里加遺世獨立的城市特色 –– 因為失去了過往的繁榮，反而留下了單純的生活感。
+## 在里加打沙灘排球：卸下腰包的時候
 
-Since Riga sits on low-lying land near the river mouth, there aren't many viewpoints for a traditional night cityscape. I crossed the Daugava River toward a part of the city that seemed more bustling. A sudden, urgent need for a restroom led me to a public facility at a beach volleyball court. It hit me then—how long had it been since I last played? Volleyball and the guitar used to be the two pillars of my life, but both had drifted away since I started traveling.
+里加由於位於出海口地勢相對低平，也沒有所謂的夜景點或觀景台。我跨越了道加瓦河，河的另一頭看起來更加繁華，突然的尿急讓我不得不尋找廁所，在地圖上找到一間公共廁所，原來是沙灘排球場地的公共廁所。突然想到我也好久沒打排球了啊！彈吉他和打排球曾經是我生活的兩大重心，在開始旅行後便漸行漸遠，我走向了沙排場，被當地人邀請加入，我卸下了一直綁在身上的腰包，這裡的生活感也讓我卸下了心防，他們都是素昧平生的過客，很多人都是第一次來這裡打球，卻能夠感受到他們的凝聚力，打到夕陽落下時已經八點多快九點了，打完球直接跳到河裡游泳，橘紅色的夕陽流入沙灘、藍紫色的天空不疾不徐的覆蓋整座城市，北歐的夏天夜晚就是如此的漫長。走了一段路回到青旅後，煮了招牌甜椒雞腿義大利麵，結束了完美的一天。
 
-I walked toward the court and was unexpectedly invited by locals to join their game. In that moment, I unbuckled the waist bag I’d kept strapped to me for security. The sheer "living" atmosphere here allowed me to finally lower my guard. We were all strangers, many playing there for the first time, yet there was a powerful sense of cohesion. We played until the sun began to set around 8:00 or 9:00 PM. Afterward, we dove straight into the river for a swim. The orange-red sunset bled into the sand while a blue-violet sky slowly, unhurriedly draped itself over the city. This is the beauty of the endless Nordic summer nights. Back at the hostel, I cooked my signature bell pepper and chicken pasta, the perfect end to a perfect day.
 
