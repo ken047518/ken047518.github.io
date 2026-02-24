@@ -21,11 +21,9 @@
           {{- $image := $gallery.Resources.Get . -}}
           {{- if $image -}}
             {{- $thumb := $image.Fill "480x480 Center" -}}
-            {{- $thumb2x := $image.Fill "960x960 Center" -}}
         <div class="aspect-square overflow-hidden rounded-lg">
-          <img 
-            src="{{ $thumb.Permalink }}" 
-            srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
+          <img
+            src="{{ $thumb.Permalink }}"
             alt="{{ with $gallery.Params.image_alt }}{{ . }}{{ else }}{{ $gallery.Title }}{{ end }}"
             loading="lazy"
             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
@@ -33,7 +31,7 @@
         </div>
           {{- end -}}
         {{- end -}}
-        
+
         {{- /* Hover overlay */ -}}
         <div class="absolute inset-0 bg-black bg-opacity-0 group-hover:bg-opacity-50 transition-opacity rounded-lg flex items-center justify-center">
           <div class="opacity-0 group-hover:opacity-100 transition-opacity text-white text-center p-4">
