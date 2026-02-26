@@ -14,7 +14,7 @@ tags:
   - hostel
 categories:
   - North-East solo travel
-draft: true
+draft: false
 ---
 ### Kamome Diner: Searching for a "Reason" in a Foreign Land
 
