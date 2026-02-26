@@ -1,8 +1,8 @@
 ---
 title: "EP 10. The Destined Return: Reconnecting with Myself on a 26-Hour Bus Journey"
 date: 2024-09-10
-description: '"A sudden flight cancellation pushed my journey onto an unplanned course. After a last-minute dash onto the ferry, I had a chance encounter with travelers from China back in Tallinn. Now, seated on a 26-hour bus ride home, I watch the landscapes flow past the window, chewing over the dialogues from Kamome Diner. As I sort through the thoughts and encounters of this entire trip, I’ve written down a few words for myself."'
-summary: '"A sudden flight cancellation pushed my journey onto an unplanned course. After a last-minute dash onto the ferry, I had a chance encounter with travelers from China back in Tallinn. Now, seated on a 26-hour bus ride home, I watch the landscapes flow past the window, chewing over the dialogues from Kamome Diner. As I sort through the thoughts and encounters of this entire trip, I’ve written down a few words for myself."'
+description: A sudden flight cancellation pushed my journey onto an unplanned course. After a last-minute dash onto the ferry, I had a chance encounter with travelers from China back in Tallinn. Now, seated on a 26-hour bus ride home, I watch the landscapes flow past the window, chewing over the dialogues from Kamome Diner. As I sort through the thoughts and encounters of this entire trip, I’ve written down a few words for myself.
+summary: A sudden flight cancellation pushed my journey onto an unplanned course. After a last-minute dash onto the ferry, I had a chance encounter with travelers from China back in Tallinn. Now, seated on a 26-hour bus ride home, I watch the landscapes flow past the window, chewing over the dialogues from Kamome Diner. As I sort through the thoughts and encounters of this entire trip, I’ve written down a few words for myself.
 image: final.webp
 featured: true
 location: Helsinki, Finland and Tallinn, Estonia
