@@ -1,6 +1,6 @@
 ---
 title: MadeYourDay.Life
-hero_image: warm.webp
+hero_image: iceland-plane-2.webp
 hero_image_dark: motor1.4.webp
 bio_image: bio.jpg
 tagline: 一場意外的獨旅開啟的冒險故事

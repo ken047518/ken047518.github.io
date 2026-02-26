@@ -1,12 +1,9 @@
 ---
-title: KAI's Wanderlust
-hero_image: warm.webp
+title: MadeYourDay.Life
+hero_image: iceland-plane-2.webp
 hero_image_dark: motor1.4.webp
 bio_image: bio.jpg
-tagline: TRAVEL UNTIL THE ENDS OF THE WORLD.
+tagline: AN ADVENTURE STARTS FROM AN ACCIDENT
 draft: false
 ---
-
-*"I embarked on  hundreds of kilometers on the Camino de Santiago and the Kungsleden alone. In the slow rhythm of my steps, I learned to converse with myself; in the profound silence of the Arctic, I found the simplicity of life; and amidst the air raid sirens of Jerusalem, I witnessed the fragility and resilience of existence. I capture beautiful landscapes and  warmth, documenting stories of authentic adventure. I am Kai, and this is my wanderer’s story.*<br><br>
-
-To me, wandering is the purest practice of travel, and the most direct way to explore the world and enrich the senses. I capture fleeting moments through photography, reconstruct the essence of a scene through sound, and untangle the soul through the written word. I founded **MadeYourDay.Life** to share a simple truth: "Travel is simply a form of living, and everyone has the ability to embrace it.'"
+Hello, I am **Kai**, a 22-year-old traveler who has explored nearly 40 countries. My path began as a football player and guitarist, but a life-changing exchange in the Czech Republic turned my world into a permanent expedition. From trekking the Swedish Arctic and Camino de Santiago, to surviving air raids in Jerusalem, my journey is a search for life’s rawest truths. I photograph the world's warmth and document the stories that make us feel alive.
