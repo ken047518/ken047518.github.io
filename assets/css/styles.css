@@ -51,6 +51,14 @@
   .prose-invert pre {
     @apply bg-gray-800;
   }
+
+  .prose table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    width: max-content;
+    max-width: 100%;
+  }
 }
 
 @layer utilities {
