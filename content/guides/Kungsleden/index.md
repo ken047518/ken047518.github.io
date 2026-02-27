@@ -2,7 +2,7 @@
 title: 瑞典國王小徑攻略
 date: 2025-07-20
 modified:
-description: 獨旅指數：⭐⭐⭐/ 窮遊指數：⭐⭐⭐
+description: 獨旅指數：⭐⭐⭐/ 窮遊指數：⭐⭐
 summary: 瑞典的**國王小徑 (Kungsleden)** 是北歐最著名的長距離徒步路線，被譽為「世界上最美麗的徒步路線之一」。它位於瑞典北部的拉普蘭（Lapland）地區，深入北極圈，橫跨廣袤的荒原、冰川山谷與壯麗的高山。我這次走的是最知名的北段，約110公里，加上攀登瑞典最高峰，歡迎參考我的旅行攻略。
 location: 瑞典 阿比斯庫國家公園
 image:
@@ -16,7 +16,7 @@ draft: true
 
 ## 窮遊指數：⭐⭐
 
-主要花費取決於搭帳篷或是住小木屋，小木屋一碗大約台幣 1000，位於起點和終點的住宿一碗要差不多 3000 元。加上抵達位於北極圈的阿比斯庫本身就不便宜，一條蛋白巧克力棒要100多，泡麵也大概50，整體來說都不便宜。
+主要花費取決於搭帳篷或是住小木屋，小木屋一碗大約台幣 1000，位於起點和終點的住宿一碗要差不多 3000 元。加上抵達位於北極圈的阿比斯庫本身就不便宜，因為地處偏遠，食物也都蠻貴的，整體來說都不便宜。
 
 ## 基本概況
 
@@ -63,32 +63,44 @@ draft: true
 
 ## 行前實用資訊
 
-- **最佳季節：** * **夏季健行：** 6 月下旬至 9 月中旬（7 月蚊子較多，8 月底氣候最穩且色調最美）。
+- **最佳季節：** 
+	- **夏季健行：** 6 月下旬至 9 月中旬（7 月蚊子較多，8 月底氣候最穩且色調最美）。
     
     - **冬季滑雪：** 3 月至 5 月，適合遠足滑雪（Ski Touring）。
         
 - **難度：** 中等。步道標識非常清晰（紅色標記），地勢起伏雖有，但大多數路段坡度平緩，適合有一定體能基礎的戶外愛好者。
     
-- **裝備建議：** 即使是夏天，北極圈天氣也瞬息萬變，**防風防水的外殼衣**、保暖底層以及舒適的登山鞋是必備的。
+- **裝備建議：** 即使是夏天，北極圈天氣也瞬息萬變，防風防水的外殼衣、保暖底層以及舒適的登山鞋是必備的。打算住小木屋的話，爐具可以不用帶。完整配備見文章最後。
 
 
 ## 前往Abisko交通方式
 
-
+- 飛機
+	- 挪威航空、斯堪地納維亞航空
+		- 時長：1小時35分鐘
+		- 價格：不固定，約2500~6000台幣
+- 火車
+	- 瑞典國營鐵路 SJ
+		- 時長：24小時
+		- 價格：早買通常便宜很多，約1500～5000台幣
 ## 我的行程參考
 
-| 天數   | 路線                              | 距離   | 住宿地點                     | 桑拿  | 商店補給 | 備註               |
-| ---- | ------------------------------- | ---- | ------------------------ | --- | ---- | ---------------- |
-| Day0 | 抵達 Abisko Turiststation         | -    | STF Abisko Turiststation | ✅   | ✅    | 可暖身步行，周圍有許多一日遊路線 |
-| Day1 | Abisko → Abiskojaure            | 15km | STF Abiskojaure          | ✅   | ✅    | 湖邊小屋，可望高山景色宜人    |
-| Day2 | Abiskojaure → Alesjauree        | 20km | STF Alesjaure            | ✅   | ✅    |                  |
-| Day3 | Alesjaure → Tjäktja             | 13km | STF Tjäktja              | ❌   | ❌    |                  |
-| Day4 | Tjäktja → Sälka                 | 12km | STF Sälka                | ✅   | ✅    |                  |
-| Day5 | Sälka → Singi                   | 12km | STF Singi                | ❌   | ❌    |                  |
-| Day6 | Singi → Kebnekaise Fjällstation | 14km | STF Kebnekaise           | ✅   | ✅    |                  |
-| Day7 | 攻頂 Kebnekaise（單攻來回）             | 16km | STF Kebnekaise           | ✅   | ✅    |                  |
-| Day8 | Kebnekaise → Nikkaluokta        | 19km | 可回 Kiruna 或當地住宿          | ❌   | ✅    |                  |
-| Day9 | Nikkaluokta → Kiruna／返回         | -    |                          |     |      |                  |
+| 天數   | 路線                              | 距離   | 住宿地點                     | 桑拿  | 商店補給 | 備註                  |
+| ---- | ------------------------------- | ---- | ------------------------ | --- | ---- | ------------------- |
+| Day0 | 抵達 Abisko Turiststation         | -    | STF Abisko Turiststation | ✅   | ✅    | 可暖身步行，周圍有許多一日遊路線    |
+| Day1 | Abisko → Abiskojaure            | 15km | STF Abiskojaure          | ✅   | ✅    | 湖邊小屋，可望高山景色宜人       |
+| Day2 | Abiskojaure → Alesjauree        | 20km | STF Alesjaure            | ✅   | ✅    | 補給站，有河邊桑拿           |
+| Day3 | Alesjaure → Tjäktja             | 13km | STF Tjäktja              | ❌   | ❌    | 小型原始山屋，地點壯麗         |
+| Day4 | Tjäktja → Sälka                 | 12km | STF Sälka                | ✅   | ✅    | 穿越最高點 Tjäktja Pass  |
+| Day5 | Sälka → Singi                   | 12km | STF Singi                | ❌   | ❌    | 景色壯闊、輕鬆行程           |
+| Day6 | Singi → Kebnekaise Fjällstation | 14km | STF Kebnekaise           | ✅   | ✅    | 補裝備、預備登頂行程          |
+| Day7 | 攻頂 Kebnekaise（單攻來回）             | 16km | STF Kebnekaise           | ✅   | ✅    | 來回大約 10～12小時        |
+| Day8 | Kebnekaise → Nikkaluokta        | 19km | 可回 Kiruna 或當地住宿          | ❌   | ✅    | 中途有住宿但非常貴而且很少床位，可搭船 |
+| Day9 | Nikkaluokta → Kiruna／返回         | -    |                          |     |      |                     |
 
+理論上 8 天就可以完成整個北段加上攀登最高峰，但我有預留buffer day，回程車票時間已經先訂好了，所以留在野外混了兩晚哈哈。建議回程買可更改時間的車票，可以保有彈性！
 
 ## 商店賣什麼？
+
+
+## 裝備準備
