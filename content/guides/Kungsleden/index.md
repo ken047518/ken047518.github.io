@@ -6,7 +6,7 @@ description:
 location: 瑞典 阿比斯庫國家公園
 image:
 featured: false
-draft: true
+draft: false
 ---
 瑞典的**國王小徑 (Kungsleden)** 是北歐最著名的長距離徒步路線，被譽為「世界上最美麗的徒步路線之一」。它位於瑞典北部的拉普蘭（Lapland）地區，深入北極圈，橫跨廣袤的荒原、冰川山谷與壯麗的高山。
 
@@ -40,7 +40,7 @@ draft: true
 
 ---
 
-### ## 推薦路段：北段 (Abisko to Nikkaluokta)
+### ## 熱門路段：北段 (Abisko to Nikkaluokta)
 
 如果你時間有限，大部分健行者會選擇最經典的**北段**（約 105 公里），通常需要 5 到 7 天：
 
