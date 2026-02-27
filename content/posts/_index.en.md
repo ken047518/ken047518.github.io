@@ -7,7 +7,7 @@ summary:
 location:
 image:
 featured: false
-draft: true
+draft: false
 tags:
 categories:
 ---
