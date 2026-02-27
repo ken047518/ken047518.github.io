@@ -1,13 +1,6 @@
 ---
-title: Posts
-description: Travel stories and adventures from around the world
-date:
-modified:
-summary:
-location:
+title: Post
+description: Real stories
 image:
-featured: false
-draft: false
-tags:
-categories:
 ---
+
