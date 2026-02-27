@@ -15,6 +15,7 @@ tags:
   - guitar
   - music
   - history
+  - exchange
 categories:
   - Life
 ---
