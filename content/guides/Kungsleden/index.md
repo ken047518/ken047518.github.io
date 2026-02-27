@@ -96,7 +96,7 @@ draft: true
 | Day6 | Singi → Kebnekaise Fjällstation | 14km | STF Kebnekaise           | ✅   | ✅    | 補裝備、預備登頂行程          |
 | Day7 | 攻頂 Kebnekaise（單攻來回）             | 16km | STF Kebnekaise           | ✅   | ✅    | 來回大約 10～12小時        |
 | Day8 | Kebnekaise → Nikkaluokta        | 19km | 可回 Kiruna 或當地住宿          | ❌   | ✅    | 中途有住宿但非常貴而且很少床位，可搭船 |
-| Day9 | Nikkaluokta → Kiruna／返回         | -    |                          |     |      |                     |
+| Day9 | Nikkaluokta → Kiruna／返回         | -    | -                        | -   | -    | -                   |
 
 理論上 8 天就可以完成整個北段加上攀登最高峰，但我有預留buffer day，回程車票時間已經先訂好了，所以留在野外混了兩晚哈哈。建議回程買可更改時間的車票，可以保有彈性！詳細行程見文末。
 
