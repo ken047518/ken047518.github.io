@@ -7,7 +7,7 @@ summary:
 location: 布爾諾 捷克
 image:
 featured: false
-draft: false
+draft: true
 tags:
 categories:
 ---
