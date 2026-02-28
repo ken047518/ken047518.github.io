@@ -1,6 +1,6 @@
 ---
 title: "EP 12.《Learning in Nature: Real Documentary of My Exchange Life》"
-date: 2025-11-01
+date: 2025-11-20
 modified:
 description: Upon arriving at a university immersed in cross-cultural exchange, I befriended people from all corners of the globe. I met a cool, nature-loving professor who drove us on excursions, hosted lessons with tea at his home, and led us in foraging for forest mushrooms—experiences that helped me gradually find a sense of belonging in a foreign land. Walking home at midnight after countless parties, I observed the plight of the homeless in the city's shadows. Is Europe truly dangerous? I am trying to seek the answer to this question.
 summary: Upon arriving at a university immersed in cross-cultural exchange, I befriended people from all corners of the globe. I met a cool, nature-loving professor who drove us on excursions, hosted lessons with tea at his home, and led us in foraging for forest mushrooms—experiences that helped me gradually find a sense of belonging in a foreign land. Walking home at midnight after countless parties, I observed the plight of the homeless in the city's shadows. Is Europe truly dangerous? I am trying to seek the answer to this question.
