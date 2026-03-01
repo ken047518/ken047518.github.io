@@ -1,102 +1,48 @@
 ---
-title: Chasing the Northern Lights in Iceland
-date: 2025-11-28
-description: An unforgettable journey through Iceland's winter wonderland in search of the magical Aurora Borealis.
-summary: Our epic road trip through Iceland during winter, complete with glacier hikes, hot springs, and the spectacular Northern Lights.
-image: iceland.jpg
+title: EP 5.《在波羅地海的心臟，找回生活的單純》
+date: 2024-09-02
+description: 越過邊境來到里加，這座曾超越斯德哥爾摩的貿易大城，如今散發著一種遺世獨立的優雅。我在充滿生活感的青旅與 BBC 攝影師 Henry 交換旋律，從吉他手、運動員，默默地變成了旅行冒險家，也埋下攝影愛好的種子。從三十元台幣的甜椒雞腿義大利麵，到道加瓦河畔卸下心防的沙灘排球，讓我發現即便繁榮褪去，精煉後的生活感反而更加珍貴。在夕陽沉入河水的瞬間，我在北歐的漫漫長夜找到了舒適的生活節奏。
+summary: 越過邊境來到里加，這座曾超越斯德哥爾摩的貿易大城，如今散發著一種遺世獨立的優雅。我在充滿生活感的青旅與 BBC 攝影師 Henry 交換旋律，從吉他手、運動員，默默地變成了旅行冒險家，也埋下攝影愛好的種子。從三十元台幣的甜椒雞腿義大利麵，到道加瓦河畔卸下心防的沙灘排球，讓我發現即便繁榮褪去，精煉後的生活感反而更加珍貴。在夕陽沉入河水的瞬間，我在北歐的漫漫長夜找到了舒適的生活節奏。
+image: Riga.webp
 featured: true
-location: Iceland
+draft: false
+location: 拉脫維亞 里加
 tags:
-  - Iceland
-  - northern-lights
-  - winter-travel
-  - adventure
+  - 獨旅
+  - 青旅
+  - 波羅地海三國
+  - 排球
+  - 吉他
+  - 攝影
+  - 歷史
+  - 博物館
+  - 巴士
 categories:
-  - travel
+  - 東北歐獨旅
 ---
+## 抵達里加：隱匿在街區裡的溫馨破舊
 
-Iceland in winter is a different world - a land of ice, fire, and one of nature's most spectacular light shows. After years of dreaming about seeing the Northern Lights, I finally made the journey to this Nordic island nation, and it exceeded every expectation.
+白天前往里加的路上，依然是美不勝收的田野風光，終於不用搭夜車，可以欣賞沿途風光了，很羨慕這些馬可以享受一大片的草原。里加巴士站距離老城非常接近，步行十分鐘左右就進入到老城區了，買了甜甜圈和麵包充飢，花了一些時間尋找訂好的青旅。
 
-## The Quest Begins
+由於是便宜的青旅，隱蔽在街區裡面，沒有招牌也沒人管理。後來又趁著有人從建築物裡出來，偷偷溜進去，電梯依然是手動開門的而且上升時會發出巨響。抵達四樓後有一位熱心印度人協助我拿鑰匙還帶我到我的房間，沿途經過大廳、廚房等公共空間，有的煮飯，有的看書用電腦，還有人在彈吉他。雖然外表很破舊，不過內部氛圍非常溫馨。
 
-Seeing the Northern Lights isn't guaranteed. It requires clear skies, solar activity, and a good dose of patience. We spent a week in Iceland during late November, giving ourselves the best chance to witness the Aurora Borealis.
+## 來自BBC攝影師的啟發
 
-### Night One: Patience
+這是我第一次住到有吉他的青旅，也是我高中以來最久沒碰吉他的一段時間。當我回到大廳時，有一位男子正彈著吉他，他叫 Henry 來自英格蘭，留著隨興又帶有藝術氣息的絡腮鬍，他之前讀政治、歷史，目前是一位幫 BBC 拍照的攝影師，以拍人文題材為主，更讓我對於攝影師這個職業和興趣有了嚮往，我很喜歡也善於觀察，或許我也能成為一位流浪攝影師？
 
-Our first night was cloudy. We drove out of Reykjavik, away from light pollution, and waited. And waited. Nothing. The forecast app showed potential activity, but the clouds didn't cooperate. This is part of the adventure - nature operates on its own schedule.
+他從小時候就開始學古典吉他，彈得一手好琴，聊了一下才知道原來他才二十五歲。他說由於旅行的緣故，他沒有很重的英格蘭腔。他把琴給我後就去煮他的義大利麵了，我彈了很多之前練過的音樂也即興一些旋律，彈著彈著發現手指上的繭已經都不見了。突然意識到我已經不再是樂團裡的吉他手，而是一位破繭而出居無定所的流浪者。
 
-### Night Three: The Moment
+我看到他的義大利麵看起來很好吃，於是決定自己煮煮看，我去超市買了雞腿和牛奶，沒想到里加的雞腿三支只要台幣五十元，搭配前人留在青旅的免費食物，螺旋義大利麵、義大利麵醬，還有整餐的精華甜椒，拯救了我原本單調的義大利麵，最後再搭配青旅提供的紅茶包自己配牛奶做成奶茶，一餐不到三十元台幣就完成了，我從來沒有想過可以用這麼低的成本吃到這麼美味的料理。
 
-On our third night, after a day exploring the Golden Circle, we checked the aurora forecast. Strong activity predicted! We drove to Thingvellir National Park and set up our cameras around 11 PM.
+## 沉浸在火藥塔：經過淬煉後留下的生活感
 
-At 11:47 PM, it started.
+里加是一座非常具有歷史及戰略意義的城市，在中世紀時是連接東西方的貿易樞紐，被稱作波羅地海的心臟，同時也是波羅地海之路「人鏈」的中間點。里加在十三至十五世紀經歷漢薩同盟的貿易榮光，里加主座教堂、里加三兄弟、聖彼得教堂、火藥塔，都屬於這個時期的產物。里加在十七世紀時曾經是瑞典王國最大的城市，超越斯德哥爾摩，後來被俄羅斯併入後積極發展成工業與對外貿易港口。在經濟發展良好的餘裕之下，二十世紀初新藝術運動爆發，將歐洲流行的新藝術風格帶入里加，留下現今老城區華麗的建築物。後來經歷了納粹、蘇聯統治，直到 1991 年蘇聯解體才恢復獨立，拉脫維亞被佔領時期博物館，正是用來紀念這段不能被遺忘的歷史。
 
-A faint green glow appeared on the horizon. Within minutes, it intensified, dancing across the sky in waves of green, white, and occasional purple. No photo can capture the feeling of watching the Northern Lights dance above you. It's ethereal, almost spiritual.
+火藥塔在漢薩同盟時期被用於儲存火藥，如今已被改建為博物館。有時候不得不佩服歐洲人在「設計」的理解，在互動式和沉浸式設計方面都非常人性化。火藥塔裡頭存放著砲彈、戰車，也講述拉脫維亞獨立戰爭的經過，有許多觸發式的機關能夠體驗身歷其境。
 
-We stayed until 2 AM, watching the lights pulse and swirl. By the time we drove back to our hotel, we were exhausted but elated.
+走訪完博物館後，我來到里加市政廳廣場，聽著街頭藝人演奏的提琴聲，相應著里加現今的淒涼，曾經是超越斯德哥爾摩的貿易大城，經歷了納粹和蘇聯的統治後，也無力回到當時的香火鼎盛，留下了少少的居民，和許多的博物館緬懷過往，卻也塑造出里加遺世獨立的城市特色 –– 因為失去了過往的繁榮，反而留下了單純的生活感。
+## 在里加打沙灘排球：卸下腰包的時候
 
-## Beyond the Lights
+里加由於位於出海口地勢相對低平，也沒有所謂的夜景點或觀景台。我跨越了道加瓦河，河的另一頭看起來更加繁華，突然的尿急讓我不得不尋找廁所，在地圖上找到一間公共廁所，原來是沙灘排球場地的公共廁所。突然想到我也好久沒打排球了啊！彈吉他和打排球曾經是我生活的兩大重心，在開始旅行後便漸行漸遠，我走向了沙排場，被當地人邀請加入，我卸下了一直綁在身上的腰包，這裡的生活感也讓我卸下了心防，他們都是素昧平生的過客，很多人都是第一次來這裡打球，卻能夠感受到他們的凝聚力，打到夕陽落下時已經八點多快九點了，打完球直接跳到河裡游泳，橘紅色的夕陽流入沙灘、藍紫色的天空不疾不徐的覆蓋整座城市，北歐的夏天夜晚就是如此的漫長。走了一段路回到青旅後，煮了招牌甜椒雞腿義大利麵，結束了完美的一天。
 
-While the Northern Lights were the main goal, Iceland's winter landscape offered countless other wonders:
 
-### The Golden Circle
-
-The classic tourist route, but spectacular in winter:
-- **Thingvellir National Park**: Where the North American and Eurasian tectonic plates meet
-- **Geysir**: Watching Strokkur erupt every 5-10 minutes never gets old
-- **Gullfoss**: The "Golden Falls" partially frozen - absolutely stunning
-
-### Glacier Hiking
-
-We joined a glacier hiking tour on Sólheimajökull. Strapping on crampons and walking across ancient ice, peering into deep blue crevasses - it's humbling and exhilarating.
-
-### The Blue Lagoon
-
-Yes, it's touristy. Yes, it's expensive. Yes, it's absolutely worth it. Soaking in the milky blue geothermal water while snow falls around you is magical.
-
-### Black Sand Beach
-
-Reynisfjara beach with its basalt columns and powerful waves is otherworldly. The winter storms make it even more dramatic (but respect the warning signs - those waves are dangerous).
-
-## Practical Tips
-
-### Clothing
-- Layer, layer, layer
-- Waterproof outer shell is essential
-- Good boots with grip
-- Warm gloves and hat
-- Thermal underwear
-
-### Photography
-- Tripod is a must for Northern Lights
-- Extra batteries (cold drains them fast)
-- Manual camera settings
-- Learn long exposure techniques before you go
-
-### Driving
-- Rent a 4WD vehicle
-- Check weather and road conditions daily
-- Winter tires are mandatory
-- Drive slowly - roads can be icy
-- Fill up gas whenever you can
-
-### Northern Lights Apps
-- "My Aurora Forecast" for activity predictions
-- Check cloud cover forecasts
-- Be prepared to stay up late or wake up in the middle of the night
-
-## The Cost
-
-Iceland isn't cheap, but it's manageable with planning:
-- **Flights**: $400-800 depending on season
-- **Car rental**: $70-120/day for 4WD
-- **Accommodation**: $100-200/night
-- **Food**: $50-80/day
-- **Activities**: $50-150 per activity
-- **Weekly budget**: $2,500-3,500 for two people
-
-## Final Thoughts
-
-Iceland in winter is challenging - short days, cold weather, unpredictable conditions. But it's also incredibly rewarding. The landscapes are otherworldly, the experiences are unforgettable, and if you're lucky enough to see the Northern Lights dancing across the sky, it's a moment you'll carry with you forever.
-
-Would I go back? In a heartbeat. There's so much more to explore, and part of me will always be chasing those lights.

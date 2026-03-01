@@ -1,33 +1,26 @@
 ---
-title: About
+title: 關於 MadeYourDay.Life
 date: 2026-01-01
-description: Learn more about MadeYourDay.Life and our travel adventures
+description: 了解更多關於 MadeYourDay.Life 和我們的旅行相關服務
+image: 2026-01-29_11-21-03.jpeg
 ---
-# MadeYourDay.Life
+「Made Your Day」是我在一次次旅行中的體悟。它代表著一句：「能在這裡遇到你真是太幸運了」。不論是你我之間的相遇，或是一抹壯麗風景、一件日常小事，都能讓旅程變得深刻且難忘。於是我將個人的流浪故事和旅行秘訣，轉化成品牌的養分，協助大家將旅行融入生活的一部分，去完成屬於自己的旅行故事。這裡分享旅行相關的產品和服務，也有能夠讓你下定決心去探索世界的故事。「我們不只分享地圖，我們分享一種活著的姿態。」歡迎和我們一起重塑旅行的模樣。
 
-"Made Your Day" is a realization born from my countless journeys. It represents a simple yet profound sentiment: **"It is a true blessing to have met you here."** Whether it is an encounter between souls, a breathtaking landscape, or a small joy in daily life—each has the power to make a journey profound and unforgettable.
+## 我們的使命
 
-I have transformed my personal stories of wandering and travel secrets into the lifeblood of this brand, helping everyone integrate travel into the very fabric of their lives. Here, we share travel-related products and services, alongside stories that empower you to take that first step into the unknown. **"We don't just share maps; we share a way of being."** Join us as we reshape the very meaning of travel.
-## Our Mission
+**「旅行只是生活的一種形式，每個人都有能力去實現。」**
 
-#### _"Travel is simply a form of living, and everyone has the ability to embrace it."_
+我們相信旅行能夠改變生命、拓展視野，創造永恆無價的回憶。我們鼓勵大眾去實踐一場深刻的旅程——為了喜歡的音樂而停下腳步，為了偶然發現的質感餐廳而改變計畫，甚至是和因緣際會認識的旅者，成為一輩子的朋友。縱使每個人對於「旅行的意義」不盡相同，有人受美食所牽動，有人因美景而停留，也有人因相遇而滿足。不論何者，我們始終追求「活過」的旅程——去感知這個世界每一絲的美好和悲傷，感受自己每一次旅程後的蛻變。願你在生活和旅行的路上，都能夠真切地體會到：這一生值得了。
 
-We believe travel has the power to transform lives, broaden horizons, and create timeless, priceless memories. Our mission isn't just to help you say you've "been there," but to ensure you’ve "lived there." We encourage everyone to embark on a soulful journey—to stop in your tracks for the music you love, to change your plans for a hidden gem of a restaurant, or to become lifelong friends with a fellow traveler met by pure chance. Sense every thread of beauty and sorrow this world has to offer, feel your own evolution after every journey, and let travel become an inseparable part of your life.
+## 我們提供什麼
 
-## What We Offer
+- 旅行故事：來自旅程的真實經驗，點燃你早已在潛意識萌芽的旅行魂。
+- **實用攻略**：瞭解地方特色並理性分析，戰勝源自過往生活經驗的恐懼。
+- **攝影服務**：捕捉世界各個角落的感受和模樣，記錄你獨一無二的故事。
+- **旅行服務**：個人化行程規劃與諮詢，帶你瞭解專業旅行者的旅行秘訣。
+- **品牌合作**：提供我們認可的產品和服務，幫助你完整旅程的最後一筆。
 
-- **Travel Stories**: Authentic experiences from the road, igniting the wanderlust that has been dormant in your subconscious.
+## 聯絡我們
 
-- **Practical Guides**: Local insights paired with rational analysis to help you conquer fears rooted in past experiences.
-
-- **Photography**: Capturing the essence and textures of every corner of the world, helping you find where your heart belongs.
-
-- **Travel Services**: Personalized itinerary planning and consulting, sharing the secrets of professional wanderers.
-
-- **Brand Collaboration**: Curating products and services we truly believe in, adding the final, perfect touch to your journey.
-
-
-## Contact Us
-
-Have an idea or a potential collaboration? We are always eager to hear dreams about a life lived through travel.
+有任何想法或合作意願？我們樂於傾聽那些關於旅行生活的夢想。
 kai.hsiao@proton.me

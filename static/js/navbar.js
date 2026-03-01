@@ -5,6 +5,7 @@
   const mobileMenu = document.getElementById("mobile-menu");
   const mobileMenuClose = document.getElementById("mobile-menu-close");
   let lastScroll = 0;
+  let isOpen = false;
 
   // Handle navbar background on scroll
   function handleScroll() {
@@ -37,11 +38,21 @@
   function openMobileMenu() {
     mobileMenu.classList.remove("hidden");
     document.body.style.overflow = "hidden";
+    isOpen = true;
   }
 
   function closeMobileMenu() {
     mobileMenu.classList.add("hidden");
     document.body.style.overflow = "";
+    isOpen = false;
+  }
+
+  function clickMobileMenu() {
+    if (isOpen) {
+      closeMobileMenu();
+    } else {
+      openMobileMenu();
+    }
   }
 
   // Event listeners
@@ -49,11 +60,7 @@
   // handleScroll(); // Initial call
 
   if (mobileMenuButton) {
-    mobileMenuButton.addEventListener("click", openMobileMenu);
-  }
-
-  if (mobileMenuClose) {
-    mobileMenuClose.addEventListener("click", closeMobileMenu);
+    mobileMenuButton.addEventListener("click", clickMobileMenu);
   }
 
   // Close mobile menu when clicking links

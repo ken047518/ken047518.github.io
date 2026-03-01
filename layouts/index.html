@@ -99,6 +99,12 @@
         {{- end -}}
       </div>
     </div>
+
+    <div class="text-center mt-8">
+      <a href="{{ "posts" | relLangURL }}" class="inline-block bg-primary hover:bg-primary-dark text-white font-bold py-3 px-8 rounded-lg transition-colors">
+        {{ if eq .Language.Lang "zh-tw" }}所有文章{{ else }}All Posts{{ end }}
+      </a>
+    </div>
   </div>
 </section>
 {{- end -}}

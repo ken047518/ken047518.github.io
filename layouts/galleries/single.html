@@ -30,17 +30,14 @@
   {{- range $.Resources.ByType "image" -}}
     {{- $image := . -}}
     {{- if $image -}}
-      {{- $thumb := $image.Resize "480x" -}}
-      {{- $thumb2x := $image.Resize "960x" -}}
-      {{- $full := $image.Resize "1920x" -}}
-  <a href="{{ $full.Permalink }}"
-     data-pswp-width="{{ $full.Width }}"
-     data-pswp-height="{{ $full.Height }}"
+      {{- $thumb := $image.Resize "960x" -}}
+  <a href="{{ $image.RelPermalink }}"
+     data-pswp-width="{{ $image.Width }}"
+     data-pswp-height="{{ $image.Height }}"
      target="_blank"
      class="block rounded-lg group break-inside mb-4">
     <img
-      src="{{ $thumb.Permalink }}"
-      srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
+      src="{{ $thumb.RelPermalink }}"
       alt="{{ $.Title }}"
       loading="lazy"
       class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"

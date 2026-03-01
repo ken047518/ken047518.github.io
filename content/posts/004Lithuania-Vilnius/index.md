@@ -1,102 +1,61 @@
 ---
-title: Chasing the Northern Lights in Iceland
-date: 2025-11-28
-description: An unforgettable journey through Iceland's winter wonderland in search of the magical Aurora Borealis.
-summary: Our epic road trip through Iceland during winter, complete with glacier hikes, hot springs, and the spectacular Northern Lights.
-image: iceland.jpg
+title: EP 4.《一路向北：在森林系首都，聽一場直擊內心的後搖滾》
+date: 2024-08-31
+description: 醒在清晨藍調時光的維爾紐斯，這座被森林包圍的首都，比想像中更加自由且神祕。從闖進充滿塗鴉的廢墟旅舍開始，我在老城區遇見了洗滌心靈的靈魂音樂，在格迪米納斯山上拎著珍奶俯瞰城市。上城杜卡宮的殘磚破瓦，我明白這裡選擇帶著傷痕共存，那是時間與自由最溫柔的妥協。當城市的孩子迎來開學，我卻換上一雙新鞋，決定愈走愈遠。
+summary: 醒在清晨藍調時光的維爾紐斯，這座被森林包圍的首都，比想像中更加自由且神祕。從闖進充滿塗鴉的廢墟旅舍開始，我在老城區遇見了洗滌心靈的靈魂音樂，在格迪米納斯山上拎著珍奶俯瞰城市。上城杜卡宮的殘磚破瓦，我明白這裡選擇帶著傷痕共存，那是時間與自由最溫柔的妥協。當城市的孩子迎來開學，我卻換上一雙新鞋，決定愈走愈遠。
+image: Vilnius.webp
 featured: true
-location: Iceland
+draft: false
+location: 立陶宛 維爾紐斯
 tags:
-  - Iceland
-  - northern-lights
-  - winter-travel
-  - adventure
+  - 獨旅
+  - 青旅
+  - 波羅地海三國
+  - 音樂
+  - 巴士
 categories:
-  - travel
+  - 東北歐獨旅
 ---
+## 闖進 Jamaika：在廢墟塗鴉中睡去的清晨
 
-Iceland in winter is a different world - a land of ice, fire, and one of nature's most spectacular light shows. After years of dreaming about seeing the Northern Lights, I finally made the journey to this Nordic island nation, and it exceeded every expectation.
+又是一班夜車，在巴士上睡了一覺，醒來看見車窗起了大霧，稍微能夠看見窗外的田野，以及微微亮起的天空呈現清晨的藍調時光。「好美啊...」我用睡眼惺忪加上大霧的朦朧濾鏡看著窗外，電線桿靜靜地佇立在田野旁邊好久好久，樹影不斷畫過眼前，一分鐘比一分鐘還要清晰。
 
-## The Quest Begins
+維爾紐斯是立陶宛首都，如果說布達佩斯是壯麗的，華沙是重生的韌性，維爾紐斯則給人一種「森林系」首都的感覺，他是遠離塵囂的世外桃源。
 
-Seeing the Northern Lights isn't guaranteed. It requires clear skies, solar activity, and a good dose of patience. We spent a week in Iceland during late November, giving ourselves the best chance to witness the Aurora Borealis.
+在清晨抵達維爾紐斯，我在網路上看到一間牙買加旅社，決定清晨直接去探個究竟。我循著地圖的路徑，他似乎是隱蔽在一個街區裡頭，照著 Google map 的路徑看到一個由鐵門圍起來的入口就進去了。一片停車場，還有看起來有些雜草雜物閒置在塗鴉的牆壁旁邊，連個招牌都沒有，看到了一扇門我猜是入口吧，不過清晨沒有人管理所以鎖住了。清晨十幾度的維爾紐斯還是很冷的。
 
-### Night One: Patience
+過了不久有一位男子從那個門走出來抽菸，我沒有想太多就直接進去了，直覺告訴我這裡就是旅社。我在廚房趴著就睡了幾個小時。醒來後管理員來了，他不會講英文，所以用翻譯跟我溝通。後來住到一間五人房，但這兩天整個房間都只有我一個人。
 
-Our first night was cloudy. We drove out of Reykjavik, away from light pollution, and waited. And waited. Nothing. The forecast app showed potential activity, but the clouds didn't cooperate. This is part of the adventure - nature operates on its own schedule.
+## 維爾紐斯首都日：城市的森林浴
 
-### Night Three: The Moment
+補眠起來後，在地圖標記了一些景點，決定去城區走走。去了旅社附近的麵包店 Pleassurie Uptown 買了一個奶酥藍莓麵包，我直接把店名寫出來因為真的太好吃了。
 
-On our third night, after a day exploring the Golden Circle, we checked the aurora forecast. Strong activity predicted! We drove to Thingvellir National Park and set up our cameras around 11 PM.
+從諸聖堂出發，繞過防禦牆堡壘，穿過市政廳廣場走向立陶宛的最高學府 — 維爾紐斯大學。維爾紐斯大學可以說是立陶宛的台大，甚至總統府就在旁邊。途經的維爾尼亞河增添了維爾紐斯的趣味性，當地人在小橋掛了一個木椅製的彩繪盪鞦韆，河流周圍還有圖畫和雕像，紅花點綴在綠意盎然的城區，這種童話故事裡面才會有的畫面竟然存在於維爾紐斯。
 
-At 11:47 PM, it started.
+在前往維爾紐斯主座教堂的路上，我模糊地聽到了音樂的聲音，隨著我慢慢靠近逐漸清晰，原來是一場城市音樂節。原本還有安排一些景點，但我一到廣場就聽到我最喜歡的後搖滾音樂 (Post-rock)，我直接奔向舞台，讓後搖滾建構出的層層音牆，推向我內心的悸動。後搖滾總是可以穿越我心中的表象，直擊內心最深處，進而達到壓力的釋放和平靜。
 
-A faint green glow appeared on the horizon. Within minutes, it intensified, dancing across the sky in waves of green, white, and occasional purple. No photo can capture the feeling of watching the Northern Lights dance above you. It's ethereal, almost spiritual.
+維爾紐斯人口大約 70 萬人，當天晚上感覺整個城市的人都在這裡了，一路聽到壓軸，很期待他們音樂節的壓軸會是什麼類型的音樂，壓軸是他們最有名的女歌手之一，不是那種很嗨的音樂，而是比較舞動、放鬆的，用一些接近自然聲音的樂器讓全場沉浸在這場森林浴。
 
-We stayed until 2 AM, watching the lights pulse and swirl. By the time we drove back to our hotel, we were exhausted but elated.
+## 立陶宛美食體驗：粉紅冷湯與齊柏林飛船
 
-## Beyond the Lights
+洗完音樂森林浴後，直接十小時睡到自然醒。早上去附近的二手衣店買了一件換洗用的褲子，畢竟我一開始只打算出來玩三天，根本沒帶幾件換洗衣物。一切打理好後，當然還要去嘗嘗當地特色料理 –– 粉色冷湯 (Šaltibarščiai) 以及立陶宛肉圓 (Cepelinai)。
 
-While the Northern Lights were the main goal, Iceland's winter landscape offered countless other wonders:
+Šaltibarščiai 呈現出一種極度不自然的螢光粉紅色，這顏色來自於甜菜根與立陶宛傳統發酵乳 (Kefir)，裡面還會加入小黃瓜、蒔蘿和切碎的水煮蛋，並附上馬鈴薯配著吃，一開始會覺得很詭異但其實還不錯喝，很清爽自然的感覺，同時也很像在喝水彩顏料。
 
-### The Golden Circle
+Cepelinai 又稱齊柏林飛船，因為它的外型就像一顆巨大的飛艇，由磨碎的生馬鈴薯與煮熟的馬鈴薯混合製成外皮，內層包豬肉餡和乳酪，淋上酸奶油和炸豬油渣製成的靈魂醬汁，整體味道非常重而且很油膩，這些厚重的澱粉感覺足夠我撐上一整天，出來旅行後常常省吃儉用就會變成小鳥胃求生模式。
 
-The classic tourist route, but spectacular in winter:
-- **Thingvellir National Park**: Where the North American and Eurasian tectonic plates meet
-- **Geysir**: Watching Strokkur erupt every 5-10 minutes never gets old
-- **Gullfoss**: The "Golden Falls" partially frozen - absolutely stunning
+## 格迪米納斯山：時間與自由最溫柔的妥協
 
-### Glacier Hiking
+去城市聽了幾個小時的音樂，真的很喜歡立陶宛的音樂氛圍啊，整體自然輕盈的氛圍與城市風格毫無違和，果然一個地方的音樂風格和其環境絕對脫離不了關係。
 
-We joined a glacier hiking tour on Sólheimajökull. Strapping on crampons and walking across ancient ice, peering into deep blue crevasses - it's humbling and exhilarating.
+夕陽時分買了一杯福爾摩沙珍珠奶茶爬上了格迪米納斯山 (Gediminas Hill)，格迪米納斯塔 (Gediminas Tower)和上城杜卡宮 (Ducal Palace of the Upper Castle) 是山丘上不可分割的共同體。格迪米納斯塔是八角型的紅磚塔，城堡上可以見到立陶宛國旗，這裡是 20 世紀末立陶宛民族主義高揚時的據點，更是 1989 年波羅地海之路大規模和平示威的起點，大約 200 萬人手牽手組成「人鏈」一路延伸到愛沙尼亞的首都塔林，總長度超過 675 公里，奠定了波羅的海的民族意識及往後獨立運動的發展。
 
-### The Blue Lagoon
+山坡上相隔不遠處的上城杜卡宮，有別於下城大公宮的金碧輝煌，殘磚破瓦正是其特色。古時候下城宮殿以社交功能為主，上城則是防禦功能和主權象徵。在 17 世紀俄波戰爭時遭到摧毀，往後便保留廢墟狀態至此。有別於華沙的老城重建，維爾紐斯選擇帶著傷痕共存，其殘缺之美反而更讓人欣賞。它見證了無數個世紀的火藥，到波羅地海之路和平示威的震撼，再到蘇聯時期的沉默，上城的廢墟是時間與自由最溫柔的妥協。
 
-Yes, it's touristy. Yes, it's expensive. Yes, it's absolutely worth it. Soaking in the milky blue geothermal water while snow falls around you is magical.
+我拎著一杯珍奶，雙腳懸空坐在格迪米納斯塔旁邊的石牆，從太陽的西下感受時間的流逝，感受自由的氣息，這幾小時曾經是其他人的幾十年啊。
 
-### Black Sand Beach
+太陽落下後，山下不斷敲響的爵士鼓沒有停過，天黑後我決定下山去找廁所，碰巧進到了那間戶外的音樂酒吧，花了五歐元進去上廁所，便留下來聽了在地樂團的音樂，在音樂洞窟裡，大家跳舞、躁動，這就是屬於維爾紐斯的夜晚吧。
 
-Reynisfjara beach with its basalt columns and powerful waves is otherworldly. The winter storms make it even more dramatic (but respect the warning signs - those waves are dangerous).
+在維爾紐斯的最後一天，我去買了一雙很好看很舒服的白鞋替換已經被我走到爛掉的白鞋， 然後去吃了當地人推薦的壽司，最後的幾小時我決定爬上三十字架山，一路上看到一些小朋友和家長在河邊草皮進行一些活動，才意識到已經開學了，而我卻沒有打算停下來，一路向北愈走愈遠。
 
-## Practical Tips
-
-### Clothing
-- Layer, layer, layer
-- Waterproof outer shell is essential
-- Good boots with grip
-- Warm gloves and hat
-- Thermal underwear
-
-### Photography
-- Tripod is a must for Northern Lights
-- Extra batteries (cold drains them fast)
-- Manual camera settings
-- Learn long exposure techniques before you go
-
-### Driving
-- Rent a 4WD vehicle
-- Check weather and road conditions daily
-- Winter tires are mandatory
-- Drive slowly - roads can be icy
-- Fill up gas whenever you can
-
-### Northern Lights Apps
-- "My Aurora Forecast" for activity predictions
-- Check cloud cover forecasts
-- Be prepared to stay up late or wake up in the middle of the night
-
-## The Cost
-
-Iceland isn't cheap, but it's manageable with planning:
-- **Flights**: $400-800 depending on season
-- **Car rental**: $70-120/day for 4WD
-- **Accommodation**: $100-200/night
-- **Food**: $50-80/day
-- **Activities**: $50-150 per activity
-- **Weekly budget**: $2,500-3,500 for two people
-
-## Final Thoughts
-
-Iceland in winter is challenging - short days, cold weather, unpredictable conditions. But it's also incredibly rewarding. The landscapes are otherworldly, the experiences are unforgettable, and if you're lucky enough to see the Northern Lights dancing across the sky, it's a moment you'll carry with you forever.
-
-Would I go back? In a heartbeat. There's so much more to explore, and part of me will always be chasing those lights.
+更好笑的是，我的巴士票竟然買錯車站，最後極限租了一台 Bolt 電動腳踏車衝去另一個車站，結果連電動腳踏車都有速限每小時 25 公里，好在最後還是有趕上巴士，不想遇到這種窘境可以去看我的維爾紐斯旅行攻略~

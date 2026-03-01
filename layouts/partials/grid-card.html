@@ -4,12 +4,10 @@
     {{- with .Params.image -}}
       {{- $image := $.Resources.Get . -}}
       {{- if $image -}}
-        {{- $thumb := $image.Fill "480x360 Center" -}}
-        {{- $thumb2x := $image.Fill "960x720 Center" -}}
+        {{- $thumb := $image.Fill "960x720 Center" -}}
     <div class="aspect-[4/3] overflow-hidden rounded-lg mb-4">
       <img
-        src="{{ $thumb.Permalink }}"
-        srcset="{{ $thumb.Permalink }} 1x, {{ $thumb2x.Permalink }} 2x"
+        src="{{ $thumb.RelPermalink }}"
         alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
         loading="lazy"
         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
@@ -35,9 +33,9 @@
         </time>
       </p>
 
-      {{- with .Summary -}}
+      {{- with .Description -}}
       <p class="text-gray-600 dark:text-gray-400 line-clamp-2">
-        {{ . | plainify }}
+        {{ . }}
       </p>
       {{- end -}}
     </div>
