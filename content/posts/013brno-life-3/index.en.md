@@ -5,7 +5,7 @@ modified:
 description: In Czechia, traditional markers like the Moon Festival and National Day became non-existent symbols. I struggled to adjust my internal "jet lag", constantly pushing myself out of my comfort zone—joining the ESN student organization, diving into boat and tram parties, and competing in sports. From refereeing football matches to photographing the Tram Party, I slowly carved out a place for myself in Brno. I even joined a local Czech volleyball class and made many local friends. I once believed that language was the only bridge for communication, but in those classrooms where I understood no Czech, I rediscovered the pure joy of simply observing the world.
 summary: In Czechia, traditional markers like the Moon Festival and National Day became non-existent symbols. I struggled to adjust my internal "jet lag", constantly pushing myself out of my comfort zone—joining the ESN student organization, diving into boat and tram parties, and competing in sports. From refereeing football matches to photographing the Tram Party, I slowly carved out a place for myself in Brno. I even joined a local Czech volleyball class and made many local friends. I once believed that language was the only bridge for communication, but in those classrooms where I understood no Czech, I rediscovered the pure joy of simply observing the world.
 location: Brno, Czechia
-image: brno-boat.webp
+image: volleyball.webp
 featured: true
 draft: false
 tags:
