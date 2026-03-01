@@ -15,7 +15,7 @@ tags:
 categories:
   - North-East solo travel
 ---
-## Nordic-Exclusive Purple Tenderness: Island Hopping from Tallinn to Helsinki
+### Nordic-Exclusive Purple Tenderness: Island Hopping from Tallinn to Helsinki
 
 After a fulfilling day at the beach, the unique purple afterglow of a Nordic summer felt incredibly decadent. Following a brief rest, I prepared to board the ferry and formally cross the Gulf of Finland toward Helsinki.
 
@@ -27,7 +27,7 @@ Just before arrival, the silhouettes of islands began to emerge on the horizon. 
 
 As I continued north, accommodation prices climbed steadily; even the most basic 16-bed dorm in Helsinki cost 20 Euros and required an hour's walk from the port. Fortunately, the purple sunset unique to high latitudes diluted that sense of loneliness. The city is quiet to the point of feeling empty; there is traffic, but one would never describe the atmosphere as "bustling". That pastel-purple sky, which in Taiwan only appears before a typhoon, is a daily occurrence here—perhaps the most extravagant gift high latitudes offer a traveler.
 
-## African Cuisine in Helsinki and Survival Tips from a Chinese Peer
+### African Cuisine in Helsinki and Survival Tips from a Chinese Peer
 
 After arriving at the hostel, I first stopped by the supermarket next door for some green grapes and tried to find a spot in the massive common area. Contrary to the silent facade of Helsinki's streets, the hostel kitchen was bustling to the point of boiling over. A long table seating dozens was mostly occupied by African travelers who were simmering a large pot of sauce and cooking fragrant jollof-style rice with drumsticks; in comparison, the yogurt and grapes in my hands felt a bit humble.
 
@@ -37,7 +37,7 @@ When the rice was ready, they generously shared a bowl with me and the Chinese g
 
 Once the meal ended, it was just me and the Chinese student chatting in Mandarin. He shared that while Finnish tuition isn't as expensive as one might imagine, the high cost of living and the severe housing shortage are the true survival challenges. Yet, for many, this level of freedom is worth the struggle. When I asked why there are always so many Japanese tourists in the Baltic states and Finland, he recommended the movie _Kamome Diner_ (_Seagull Diner_) and told me that was his reason for coming to Finland. Before we parted ways, he shared a wealth of survival strategies, from local transport apps to the food-saving app "Too Good To Go." However, for an "ultimate budget traveler" like me, even those discounted meals and transport options still felt like a bit of a luxury.
 
-## Suomenlinna: A Sunny Picnic Atop War Ruins
+### Suomenlinna: A Sunny Picnic Atop War Ruins
 
 The next day, I walked an hour across the city, capturing the streetscapes of Helsinki along the way. Yet, my mind was fixated on that mysterious island I had glimpsed from the ferry the day before—Suomenlinna. Knowing very little about what to expect on the island, I used "Too Good To Go" to snag a burger and stopped by a supermarket for donuts and milk, ensuring I wouldn't go hungry on that military outpost. I then bought a ticket and boarded a smaller ferry; this time, the experience felt much more like the boat trips to Taiwan’s Penghu islands.
 

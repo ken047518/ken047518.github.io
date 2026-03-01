@@ -15,7 +15,7 @@ tags:
 categories:
   - North-East solo travel
 ---
-## Dawn in Vilnius: The Mystery of Hostel Jamaika
+### Dawn in Vilnius: The Mystery of Hostel Jamaika
 
 I woke up on the bus to a landscape draped in thick fog. The sky was shifting into a deep morning blue, casting a dreamy filter over the passing fields. The utility poles and silhouettes of trees emerged slowly from the mist as the day began to break. It was a breathtakingly quiet start to the journey.
 
@@ -23,7 +23,7 @@ Vilnius offers a different vibe from its neighbors. While Budapest is grand and 
 
 Determined to find **Hostel Jamaika**, I navigated through a secluded alleyway and entered a gated lot. The scene was raw: graffiti-strewn walls, overgrown weeds, and no signage in sight. I found a door, but it was locked. Shivering in the 10°C morning air, I waited. Eventually, someone came out for a smoke, and I seized the chance to slip in. I spent my first few hours in the city face-down on a kitchen table. Later, the non-English speaking manager checked me in via a translator app. I had a five-bed dorm all to myself for the rest of my stay.
 
-## Vilnius Capital Days: A City-Wide Forest Bath
+### Vilnius Capital Days: A City-Wide Forest Bath
 
 After catching up on sleep, I marked a few spots on the map and headed out. I stopped by a bakery near the hostel called **Pleassurie Uptown** for a blueberry crumble bun—I’m mentioning the name because it was honestly legendary.
 
@@ -33,7 +33,7 @@ On my way to the **Vilnius Cathedral**, I heard the faint pulse of music. As I 
 
 Vilnius has a population of about 700,000, and that night, it felt like every single one of them was there. I stayed until the headliner—one of Lithuania’s most famous female singers. Her set wasn't high-energy hype; instead, it was rhythmic and relaxing, using organic, nature-like instruments to immerse the entire crowd in a collective "forest bath."
 
-## Lithuanian Flavors: Neon Pink Soup and Zeppelin Dumplings
+### Lithuanian Flavors: Neon Pink Soup and Zeppelin Dumplings
 
 After my musical "forest bath," I slept for ten straight hours. The next morning, I hit up a second-hand shop for a pair of pants—since I’d originally planned for a three-day trip, I was seriously running low on clean clothes. With my wardrobe sorted, it was time to dive into the local specialties: **Šaltibarščiai** (Pink Cold Soup) and **Cepelinai** (Lithuanian Meat Dumplings).
 
@@ -41,7 +41,7 @@ After my musical "forest bath," I slept for ten straight hours. The next mornin
 
 Then there’s **Cepelinai**, nicknamed "Zeppelins" because they look exactly like giant airships. The casing is a mix of raw and cooked grated potatoes, stuffed with pork and cheese. The "soul" of the dish is the heavy topping of sour cream and crispy bacon bits (spirgučiai). It’s incredibly dense and greasy—one of these starchy giants is enough to fuel me for an entire day. Since I’ve been in "survival mode" and skimping on meals, my stomach has shrunk, so this felt like a massive feat to finish.
 
-## Gediminas Hill: A Gentle Compromise Between Time and Freedom
+### Gediminas Hill: A Gentle Compromise Between Time and Freedom
 
 After soaking in the city’s music for hours, I’ve fallen in love with the Lithuanian sound—airy, organic, and perfectly in sync with the city’s spirit. Music here is inseparable from its environment.
 

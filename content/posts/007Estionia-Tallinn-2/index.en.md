@@ -17,7 +17,7 @@ tags:
 categories:
   - North-East solo travel
 ---
-## The Pasta Prelude: Debating Education and Empires at Linnahall
+### The Pasta Prelude: Debating Education and Empires at Linnahall
 
 It was a simple bowl of sausage pasta that opened the door to a profound afternoon. A German sociology student, intrigued (and perhaps a bit concerned) by my minimalist lunch of pasta, grapes, and milk tea, invited me to explore Tallinn with him.
 
@@ -27,13 +27,13 @@ We eventually made our way to the brutalist remains of **Linnahall**, the "Tene
 
 I realized then that my few days on the road had taught me more practical English than years in a classroom. As the smell of "weed"—a word far more common here than the "marijuana" of my textbooks—wafted through the summer air, I felt the gap between academic learning and real-world existence finally beginning to close.
 
-## The Ukrainian Invitation and the Baltic Resolution
+### The Ukrainian Invitation and the Baltic Resolution
 
 The scent of "weed" drifting up from the steps became too pungent, so we headed back to the hostel for a quick break. Remembering the sand volleyball courts I’d spotted near **Linnahall**, I decided to return to the beach that evening. There, I unexpectedly joined a team of middle-aged Ukrainian men. I realized then how many Ukrainians are living across Europe; yet, the way they radiated a fierce "living in the moment" energy made it impossible to sense any heavy burden of worry. I couldn't help but wonder: what do they feel when they see their national flag draped over the gates of the Russian Embassy? If I saw the Taiwanese flag displayed in another country as a sign of support, I know I would be deeply moved.
 
 On the court, no one was particularly skilled, but the joy was infectious. One uncle even accidentally kicked sand into my eyes while diving for a ball. After losing the first set, they abruptly invited me to play table tennis—they even had their own paddles ready! It was all so sudden, but we ended up battling it out on stone tables right there on the beach. My German friend from earlier joined in, and this international match roared on until every single ping-pong ball had cracked. We ended the night in a chorus of laughter and satisfaction.
 
-## Unlocking the Baltic Enigma
+### Unlocking the Baltic Enigma
 
 The day felt like a series of scattered moments, but isn't that just how life moves forward? I woke up with no plans, eating my leftover sausage pasta, met the German guy in the kitchen, and ended up wandering the Old Town and the cinematic ruins of _Tenet_.
 

@@ -17,19 +17,19 @@ tags:
 categories:
   - North-East solo travel
 ---
-## Arriving in Riga: A Hidden Sanctuary Behind a Faded Facade
+### Arriving in Riga: A Hidden Sanctuary Behind a Faded Facade
 
 The daytime journey to Riga was a continuous stretch of breathtaking countryside. For once, I didn't have to take a night bus, allowing me to finally soak in the scenery—I found myself quite envious of the horses enjoying those vast, endless meadows. The Riga bus station is just a short walk from the Old Town. After a quick bite of donuts and bread, I spent some time searching for my hostel.
 
 Since it was a budget hostel, it was tucked away in an alley with no sign and no staff in sight. Following my usual "tactic," I slipped inside when I saw someone leaving the building. The elevator was a relic—manual doors that clattered loudly as it ascended. On the fourth floor, a friendly Indian man helped me get my keys and showed me to my room. As we walked through the common areas, the atmosphere was incredibly cozy: some were cooking, some were reading, and someone was strumming a guitar. It looked worn out on the outside, but inside, it felt like a home.
 
-## Inspiration from a BBC Photographer
+### Inspiration from a BBC Photographer
 
 This was the first time I’d stayed in a hostel with a guitar, and it marked the longest I’d gone without playing since high school. Back in the lounge, I met a man named Henry from England. With his effortless, artistic beard, he looked every bit the creative. Henry had studied politics and history and was now a photographer for the BBC, specializing in human-interest stories. Talking to him ignited a longing in me for photography as both a passion and a profession. I’ve always been an observer; perhaps, I thought, I too could become a nomadic photographer.
 
 Henry had studied classical guitar since childhood and played beautifully; I was surprised to learn he was only twenty-five. He mentioned that traveling had softened his English accent. He handed me the guitar before heading off to cook his dinner. As I played through old songs and improvised new melodies, I realized the calluses on my fingertips were gone. It hit me then: I was no longer a guitarist in a band, but a wanderer who had shed his cocoon, embracing a life without a fixed address.
 
-## Immersion in the Powder Tower: Life Refined by History
+### Immersion in the Powder Tower: Life Refined by History
 
 Riga is a city of profound historical and strategic significance. In the Middle Ages, it served as a vital trade hub connecting East and West, earned its title as the "Heart of the Baltics," and later became the midpoint of the legendary "Baltic Way." From the 13th to the 15th century, during the glory days of the Hanseatic League, architectural gems like the Riga Cathedral, the Three Brothers, St. Peter’s Church, and the Powder Tower were born. By the 17th century, Riga had grown to be the largest city in the Swedish Empire, even surpassing Stockholm. Later, under Russian rule, it flourished as an industrial and foreign trade port. This economic prosperity paved the way for the Art Nouveau movement in the early 20th century, leaving behind the ornate facades that define the Old Town today. Having endured Nazi and Soviet occupations, the city finally regained independence in 1991—a dark yet unforgettable chapter commemorated by the Museum of the Occupation of Latvia.
 
@@ -37,7 +37,7 @@ The Powder Tower, once a storage for gunpowder, has been thoughtfully repurposed
 
 Leaving the museum, I arrived at the Town Hall Square. The melancholic strains of a street violinist’s cello seemed to echo Riga’s current solitude. Once a trade giant that overshadowed Stockholm, the city—having weathered the storms of Nazism and Soviet rule—no longer possesses its former bustling crowds. What remains is a small population and numerous museums mourning the past. Yet, this is exactly what shapes Riga’s unique, secluded character: by losing its overwhelming prosperity, it has gained a pure, unadorned sense of "living."
 
-## Beach Volleyball in Riga: The Moment I Unbuckled My Waist Bag
+### Beach Volleyball in Riga: The Moment I Unbuckled My Waist Bag
 
 Since Riga sits on low-lying land near the river mouth, there aren't many viewpoints for a traditional night cityscape. I crossed the Daugava River toward a part of the city that seemed more bustling. A sudden, urgent need for a restroom led me to a public facility at a beach volleyball court. It hit me then—how long had it been since I last played? Volleyball and the guitar used to be the two pillars of my life, but both had drifted away since I started traveling.
 

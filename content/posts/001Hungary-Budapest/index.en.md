@@ -15,7 +15,7 @@ tags:
 categories:
   - North-East solo travel
 ---
-## First Steps in Europe
+### First Steps in Europe
 
 On my very first day in Europe, traveling solo, I boarded the famous FlixBus. Back then, I was naive enough to pay extra for two large checked bags—a fee I now look back on as a "tuition fee" for my arrival. And so, with a bit of a bumpy ride, I made my way to my exchange school in Brno, Czech Republic: **Mendel University**. The university was named in honor of Gregor Mendel, the father of genetics. It is said that right here in Brno, he conducted his famous pea plant experiments, turning the first page of modern genetics.
 
@@ -27,7 +27,7 @@ My roommate was a Chinese PhD student in his late twenties who had already lived
 
 On my first day in Europe, everything seemed so expensive, though bread was surprisingly cheap. I walked to the supermarket behind the hill and spent 12 korunas on three buns for brunch. For dinner, I had some of my roommate’s leftover Thai basil pork (Gapao rice). It was a bit of a struggle on day one, but since my internal clock was still on Taiwan time, I wasn't particularly hungry. Eating whatever was available felt fine—after all, it was already the middle of the night back home.
 
-## The Resonance Chamber: A Great Escape Born from Snoring
+### The Resonance Chamber: A Great Escape Born from Snoring
 
 I have a high tolerance for mess, but my one deal-breaker is snoring. The moment I met my roommate, I began assessing the "snore potential." He had the classic look—a large build that seemed built for resonance. _If he doesn’t snore, we’re fine,_ I thought. He was polite enough to turn off the main lights at 9:00 PM and worked quietly, but at midnight, a thunderclap shattered the silence. He snored, and it was monumental. His back-sleeping posture allowed his "resonance chamber" to reach its full potential. It wasn't a "steady output" type of snore; it was the "explosive roar" kind. And our beds were less than two meters apart.
 
@@ -35,7 +35,7 @@ After only three hours of sleep, I lay wide awake until dawn. The Czech summer n
 
 Still clueless about how to buy tram tickets and loving the idea of exploring on foot, I walked over an hour from the dorm to the central station to catch a train to Budapest. I wasn't even tired; the sights were constantly refreshing my brain’s "RAM." Vast fields, passing faces of strangers—every unfamiliar sensation kept my mind in a state of high alert.
 
-## Wandering Budapest: Survival Rules by the Danube
+### Wandering Budapest: Survival Rules by the Danube
 
 Coming out of the Budapest train station, the city felt a bit gritty—trash everywhere and an underlying vibe that your pockets might get picked at any moment. My only goal here was a good night’s sleep. I checked into a cheap but clean hostel right next to a Lidl, where I stocked up on green grapes and mango ice cream. Realizing I had no utensils, I bought a knife—not just for the ice cream, but for a bit of "self-defense" peace of mind.
 
@@ -47,7 +47,7 @@ My only "planned" activity was a Danube River cruise. The rest of the time, I li
 
 The grandeur of the Parliament at night, the views along the Danube, and my personal favorite—watching people dance at Buda Castle—defined my image of Central Europe. People say you’re either a "Vienna person," a "Prague person," or a "Budapest person." At the time, I couldn't imagine a city topping Budapest. While on the cruise, I chatted with two Filipinos who were doing the classic three-country route. They told me that for them, Vienna fit their definition of "beauty" far better than Budapest did.
 
-## The Missing WhatsApp and the Baltic Sea in Her Eyes
+### The Missing WhatsApp and the Baltic Sea in Her Eyes
 
 I met a girl from Hong Kong at the reception while she was checking in. I honestly can’t remember how we started talking, but we clicked instantly. Our conversation flowed from the lobby to the leafy common area on the second floor, spanning everything from travel and politics to culture and language. She had been on the road for a long time, heading south from the Baltics, and was leaving for Croatia the next morning.
 

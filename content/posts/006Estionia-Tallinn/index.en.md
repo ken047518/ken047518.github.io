@@ -14,11 +14,11 @@ tags:
 categories:
   - North-East solo travel
 ---
-## Tallinn: Where Silicon Valley Meets the Midnight Sun
+### Tallinn: Where Silicon Valley Meets the Midnight Sun
 
 My arrival in Estonia was marked by a smooth border check and a realization of Tallinn's digital prowess. Known as a startup hub, it’s a city where even voting is done via a screen. It’s the cradle of Skype and Bolt—relics and tools that have defined my generation and my own chaotic travel stories. Entering through the **Viru Gate**, I felt the pulse of a city that managed to keep its 14th-century soul while embracing a high-tech future.
 
-## The Sonic Alchemist of Patkuli
+### The Sonic Alchemist of Patkuli
 
 I stayed in a bohemian hostel-bar in the heart of the Old Town. As the long northern day began its slow fade, I walked up to the **Patkuli Viewing Platform**. I wasn't there for the crowds; I was there for the sky.
 
@@ -26,7 +26,7 @@ Nearby, a guitarist was carving out a world of sound. He was an eccentric figure
 
 When the other tourists drifted away, a conversation opened up. He showed me the architecture of his sound—how his pedals interacted and how a single man could become a full band through a looper. In that quiet space above the city, he wasn't just a street performer; he was a scientist of sound, finding joy in the combinations that no one else was listening to.
 
-## Soul Echoes on the Viewing Platform: The Guitarist Who Broke the Mold
+### Soul Echoes on the Viewing Platform: The Guitarist Who Broke the Mold
 
 I was curious why he didn't play in the bustling city center, where more crowds would mean better tips. That’s when he told me his story. A Tallinn local, he was once a manager in the forestry industry. He had learned acoustic guitar in university but set it aside for his career. At 34, he bought his first electric guitar—the very Ibanez he was holding. For four years, he practiced obsessively, and a year ago, he resigned to embrace a life on the road. _“This is exactly the life I long for,”_ I thought. In that moment, our conversation struck a deep chord.
 

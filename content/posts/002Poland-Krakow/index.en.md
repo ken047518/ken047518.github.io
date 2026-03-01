@@ -16,7 +16,7 @@ tags:
 categories:
   - North-East solo travel
 ---
-## Riding into the Night: Farewell to Budapest
+### Riding into the Night: Farewell to Budapest
 
 With an extra day to spare, I decided to wander up to Fisherman's Bastion. Being there solo made me feel a sudden pang of loneliness amidst the crowds. If Buda Castle is the definition of grandeur, Fisherman's Bastion is its elegant, delicate counterpart. After watching the ballroom dancing at the castle the night before, tonight was for the city lights.
 
@@ -24,13 +24,13 @@ Over these four days, I only took the metro once—walking was my primary mode o
 
 Walking through those deserted streets at midnight, a standalone McDonald’s felt like a lighthouse in the dark. Even though they were close to closing, I stayed inside until the last possible minute before trekking to the station. There were actually quite a few people there; I wasn't the only backpacker choosing the budget-friendly night bus. Everyone found a spot to lounge and scroll through their phones. But having just arrived in Europe, I hadn't yet let my guard down. My distrust of the city and my wariness toward strangers only felt amplified in the dead of night.
 
-## A Shift in Values: From 12-Dollar Bread to a 300-Dollar Yogurt Bowl
+### A Shift in Values: From 12-Dollar Bread to a 300-Dollar Yogurt Bowl
 
 I arrived in Kraków at 6:00 AM and found a brunch spot on the map that opened at eight. There, I spent about 300 TWD on a fruit yogurt bowl—a small price to pay for the luxury of resting on their sofa until noon before heading to my hostel. Everything in Poland is relatively affordable, but it’s still funny to think back to my first day in Europe, when I’d only shell out 12 TWD for bread. Now, a 300-dollar yogurt bowl feels like a total bargain.
 
 Compared to the "professional" vibe of the hostel in Budapest, this place in Kraków was much more laid-back—just a few bunk beds thrown together, a bar, and a foosball table. It was the quintessential European hostel. I spent the day wandering around the Main Market Square and the Old Town, listening to the rhythmic _clack-clack_ of horse hooves. I couldn't help but wonder why the Hong Kong girl from Budapest never added me on WhatsApp. Here I was in the Kraków she loved so much, while she had likely already made it to Croatia or somewhere even further south.
 
-## Kraków Connections: The Souls That Saved Me
+### Kraków Connections: The Souls That Saved Me
 
 Back at the hostel that evening, I grabbed a cider and settled in at the bar. Soon, a guy approached me for a game of foosball—he and his girlfriend were from Finland. My first thought was: _Why would Finns stay in such a budget hostel?_One night here probably costs them the price of a single burrito back home. But as we chatted over drinks, I realized they chose hostels not for the price, but for the connection—the joy of meeting people from every corner of the globe. I lost miserably that night, 10-3, but we promised a rematch the next evening.
 
