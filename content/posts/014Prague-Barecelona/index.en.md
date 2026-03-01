@@ -1,40 +1,47 @@
 ---
-title: "EP 13.  《Exchange Diary: Integrating into Local Life》"
-date: 2025-11-25
+title: EP 14. 《In Prague, Renting a Boat for a Moment of Quietude》
+date: 2025-11-29
 modified:
-description: In Czechia, traditional markers like the Moon Festival and National Day became non-existent symbols. I struggled to adjust my internal "jet lag", constantly pushing myself out of my comfort zone—joining the ESN student organization, diving into boat and tram parties, and competing in sports. From refereeing football matches to photographing the Tram Party, I slowly carved out a place for myself in Brno. I even joined a local Czech volleyball class and made many local friends. I once believed that language was the only bridge for communication, but in those classrooms where I understood no Czech, I rediscovered the pure joy of simply observing the world.
-summary: In Czechia, traditional markers like the Moon Festival and National Day became non-existent symbols. I struggled to adjust my internal "jet lag", constantly pushing myself out of my comfort zone—joining the ESN student organization, diving into boat and tram parties, and competing in sports. From refereeing football matches to photographing the Tram Party, I slowly carved out a place for myself in Brno. I even joined a local Czech volleyball class and made many local friends. I once believed that language was the only bridge for communication, but in those classrooms where I understood no Czech, I rediscovered the pure joy of simply observing the world.
-location: Brno, Czechia
-image: brno-boat.webp
+description: In Prague, we steered clear of the tourists vying for space like pigeons fighting for crumbs, and instead rented a seemingly 'frivolous' little boat to enjoy a moment of quiet freedom amidst the chaos. I reunited with my Chinese friend there, savoring the kind of conversation that only happens when travelers’ paths cross again. After our farewells, my search for a vantage point at the lookout tower fell short, only for me to stumble upon a breathtaking, hidden night view at the end of an eerie forest—a spot unmentioned by any online guide.
+summary: In Prague, we steered clear of the tourists vying for space like pigeons fighting for crumbs, and instead rented a seemingly 'frivolous' little boat to enjoy a moment of quiet freedom amidst the chaos. I reunited with my Chinese friend there, savoring the kind of conversation that only happens when travelers’ paths cross again. After our farewells, my search for a vantage point at the lookout tower fell short, only for me to stumble upon a breathtaking, hidden night view at the end of an eerie forest—a spot unmentioned by any online guide.
+location: Prague, Czechia
+image:
 featured: true
 draft: false
 tags:
-  - brno
   - exchange
   - central-europe
-  - volleyball
 categories:
   - Life
 ---
+### First Glimpse of Prague: A Reunion with the Traveler from China
 
-### **Social Trials: Forcing My Way Out of the Comfort Zone**
+The traveler I had met by chance in an Estonian hostel arrived in Prague exactly as planned. Thus, I decided to spend my weekend break unlocking the second capital of the Central European trio: Prague. To many, Prague is a place of longing, often hailed as the most beautiful city in the world. Yet, as I arrived in the Old Town in the early morning light, my heart remained still, without so much as a ripple of excitement.
 
-Arriving in the new environment of Brno, everything felt so vivid that I felt compelled to experience it all, even if it pushed against my natural inclinations. To break out of my comfort zone, I joined **ESN (Erasmus Student Network)**. Rooftop BBQs, bar socials, and tipsy Boat Parties in sub-zero temperatures—these bustling social scenes were once "forbidden zones" for me. Now, I found myself breaking through these barriers time and again. While the experiences were fresh and exciting, each one systematically drained my social battery.
+I sat alone on a bench near the Old Town Square, watching the crowds surge toward the Astronomical Clock, all holding their breath for the rhythmic performance of the mechanical figures. Prague’s urban structure is strikingly similar to Budapest’s: the Vltava River bisects the city, with the high grounds of the west bank hosting castles and overlooks, while the east bank is adorned with grand museums and opera houses. If the names were scrubbed from the map, I might have succumbed to a sense of displacement. Only the fairy-tale red roofs and ochre walls served as a reminder that I was standing in a different medieval world.
 
-As time and space shifted, my "jet lag" seemed to persist. While I stayed in touch with my circles in Taiwan, back in Czechia, traditional holidays like Moon Festival and National Day simply ceased to exist. On my birthday, I had the opportunity to referee an exchange student football match. Standing in the freezing rain, watching the players sprint across the pitch, I felt a quiet sense of relief to be there as a referee. Had I been playing in such low temperatures, I likely would have reverted to the "battle-scarred" version of myself from Taiwan. Later, I served as the captain of our exchange student volleyball team. Our squad was a mosaic of souls from Australia, Serbia, India, France, and beyond. Though most had no formal training, their natural intuition and chemistry led us to eventually claim the championship in the tri-university league.
+### The Illusion of Prague
 
-### **Hezky Beyond Language: Joining a Czech Volleyball Class**
+Neither of us are the type to cram an itinerary; for us, the "reunion" in this city was meaningful enough in itself. We carefully navigated the swarms of tourists—vying for space like pigeons fighting for crumbs—passed the Dancing House, and arrived at my only true objective: the Charles Bridge. However, the gloomy skies coupled with the suffocating crowds shattered the ethereal, quiet imagery I had held in my memory.
 
-Compared to the grand scale of international social events, I found a purer joy in my university volleyball class. With the instructor and students being almost entirely Czech, the room full of a foreign language acted as a sort of protective layer for me. In that class, I met **Teraza**, a powerful and composed player with exceptional skills. We crossed paths thanks to the local "door-holding culture." Teraza is a first-year Landscape Architecture student from Krnov, a small town in northern Czechia. Having worked in hotel restaurants since she was fifteen, her English was remarkably fluent.
+Seeking a moment of peace, we decided to rent a pedal boat. I rarely spend my budget on these seemingly "frivolous" and non-representative tourist experiences, but the moment we drifted away from the masses, I discovered that this sense of "quiet amidst the chaos" was profoundly captivating. We had no destination. We simply pedaled slowly around a river island, sipping freshly bought chocolate milk, watching flocks of ducks glide alongside our small boat. Much like the idle seagulls of Helsinki or the plump pigeons of Krakow, the interaction between these animals and travelers quietly shapes the soul of a city. Perhaps those experiences that seem like a "waste of money" are exactly where meaning is found.
 
-She taught me two essential Czech words: **“Hezky”** (Nice shot) and **“Mám”** (Mine). On the court, these were the only two words I could speak in Czech, yet I was accustomed to communicating through body language and eye contact. In that space, the "ball" became our shared language. On our commutes home, we’d catch the same Line 12 tram and talk about our origins. A traveler from distant Taiwan and a local girl from a Czech small town found common ground, deconstructing our past experiences and rebuilding them through dialogue. Those moments became the highlight of my week. Though she couldn't always make it to the Thursday afternoon class due to her work back home, it remained one of my most cherished memories of the semester.
+### Destiny on a Long Journey
 
-In that classroom where I understood nothing of the spoken language, I learned to understand the world by observing expressions and movements, which gave me an unprecedented sense of ease. I used to think that without a shared language, deep conversation was impossible, but my Norwegian roommate **Solvei** and Teraza shattered that notion. When I stopped relying on words and instead used gestures, expressions, and shared life experiences, I began to find conversations that truly resonated on a deeper, more intuitive level.
+The fair weather was fleeting. As the rain began to fall, we ducked into a KFC for shelter. He spoke of his former well-paying job in Shanghai, and how, after enduring the pandemic and a personal heartbreak, he resolutely resigned to wander the world. To outsiders, travel is romanticized, but a long-term journey on a limited budget is, in reality, an exhausting marathon. He moved between hotels and hostels; I was a through-and-through budget traveler—after all, before coming to Europe, I never anticipated having the luxury to cross borders so frequently.
 
-### **The Perfect Margin: A Viewfinder in the Tram Party**
+When the conversation turned to education, he still recommended that I study in mainland China using my status as a compatriot. On cross-strait issues, we could always joke about these serious topics. Because we lacked strong political biases and possessed a mutual understanding, we maintained a clear and transparent dialogue. Before parting, he mentioned wanting to get rid of his 65-liter hiking pack to avoid the exorbitant baggage fees for his upcoming flight to New York. He told me that if I could look after his pack, we could meet again in Barcelona.
 
-Toward the middle and end of the semester, I looked forward to the most anticipated event: the **Tram Party**. Hundreds of students from three universities packed into three trams, winding through the streets of Brno. People danced, sang, and drank, hopping between cars at every stop. When the trams paused, everyone would spill out to find a spot to "let loose"—an absurdly hilarious sight. I couldn't help but wonder what the local pedestrians and drivers thought of this chaotic, roaming spectacle.
+In the rainy evening, we went our separate ways. To meet twice in this vast world is already destiny; I do not know if there will be a third.
 
-Interestingly, this time I wasn't just a participant; I was the **photographer**. It was my first time taking on this role. From the preparation stage of hand-cutting decorations and hauling equipment to the party itself, where I navigated the swaying carriages to capture fleeting moments, I discovered that this "marginal" role made me incredibly comfortable. I still loved that feeling of constant motion.
+### Salvation at Strahov: Reclaiming Prague’s Honor
 
-The viewfinder became my **buffer** against the world, allowing me to blend into the thrill of the movement as a chronicler. Before that night, I only had a basic grasp of photography, but as I moved along the edges of the crowd, I realized that at the moment the shutter clicked, I had found my own place—the most comfortable "spot of drifting" for a traveler like me.
+To reclaim Prague’s honor in my mind, I walked back toward the Charles Bridge, determined to find that "night view" from a higher vantage point on my own. I first attempted the Petřín Lookout Tower, but it was closed for the holiday and the view was obscured by foliage. Afterward, I stepped into a dark, eerie forest path leading toward the castle.
+
+In the darkness, every distant bark and rustle of footsteps toyed with my fear. I quickened my pace through the woods until the lights finally flickered back into view. By chance, I arrived at the **Strahov Monastery (Strahovský klášter)**. There, I found a vantage point rarely mentioned online—a perfect view, silent and void of people. It was exactly the "hidden gem" I had hoped for. In that moment, I felt a newfound confidence in my "night view intuition."
+
+While crossing the road on the way down, still immersed in the visual shock of the scenery, I was cursed at by an aggressive driver simply because I crossed in front of him—though he hadn't slowed down in the slightest. The jolt brought me back to reality. I hurried to the station and caught the student bus back to Brno, a journey that cost a mere two euros.
+
+Returning to a rainy Brno at midnight, I walked briskly past the homeless figures still lingering around the central station. Even after resting for a while, my perceptions and intuitions continue to evolve. I trust that they can help me avoid danger, just as they can help me find the most beautiful views.
+
+I suddenly thought of the girl from Hong Kong I met in the Budapest hostel. I think I finally understand why reuniting on the road is such a beautiful and exhilarating thing.
