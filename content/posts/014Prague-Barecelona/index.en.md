@@ -1,5 +1,5 @@
 ---
-title: EP 14. 《In Prague, Renting a Boat for a Moment of Quietude》
+title: EP 14. 《Meeting world-traveler in Prague》
 date: 2025-11-29
 modified:
 description: In Prague, we steered clear of the tourists vying for space like pigeons fighting for crumbs, and instead rented a seemingly 'frivolous' little boat to enjoy a moment of quiet freedom amidst the chaos. I reunited with my Chinese friend there, savoring the kind of conversation that only happens when travelers’ paths cross again. After our farewells, my search for a vantage point at the lookout tower fell short, only for me to stumble upon a breathtaking, hidden night view at the end of an eerie forest—a spot unmentioned by any online guide.
