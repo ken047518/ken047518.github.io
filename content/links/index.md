@@ -2,7 +2,7 @@
 title: 連結
 date: 2026-01-01
 description: 在社群媒體和其他平台上與我們聯繫
-background: bg.jpg
+background: Israel-bg.webp
 links:
   - title: YouTube
     url: https://www.youtube.com/@madeyourdaylife
