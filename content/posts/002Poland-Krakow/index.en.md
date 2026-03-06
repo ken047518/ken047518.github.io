@@ -32,7 +32,7 @@ Compared to the "professional" vibe of the hostel in Budapest, this place in Kra
 
 ### Kraków Connections: The Souls That Saved Me
 
-Back at the hostel that evening, I grabbed a cider and settled in at the bar. Soon, a guy approached me for a game of foosball—he and his girlfriend were from Finland. My first thought was: _Why would Finns stay in such a budget hostel?_One night here probably costs them the price of a single burrito back home. But as we chatted over drinks, I realized they chose hostels not for the price, but for the connection—the joy of meeting people from every corner of the globe. I lost miserably that night, 10-3, but we promised a rematch the next evening.
+Back at the hostel that evening, I grabbed a cider and settled in at the bar. Soon, a guy approached me for a game of foosball—he and his girlfriend were from Finland. My first thought was: _Why would Finns stay in such a budget hostel?_ One night here probably costs them the price of a single burrito back home. But as we chatted over drinks, I realized they chose hostels not for the price, but for the connection—the joy of meeting people from every corner of the globe. I lost miserably that night, 10-3, but we promised a rematch the next evening.
 
 In my dorm, there was a man who seemed to have spent the entire day in bed. Eventually, he struck up a conversation. He was from Kazakhstan, studying in Poland, and was just in Kraków to lounge for a few days. Before we slept, he surprised me by saying "Goodnight" in Chinese—he had actually used Google Translate to learn it while I was in the shower.
 
