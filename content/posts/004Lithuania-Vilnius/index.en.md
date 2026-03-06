@@ -27,11 +27,11 @@ Determined to find **Hostel Jamaika**, I navigated through a secluded alleyway 
 
 After catching up on sleep, I marked a few spots on the map and headed out. I stopped by a bakery near the hostel called **Pleassurie Uptown** for a blueberry crumble bun—I’m mentioning the name because it was honestly legendary.
 
-I started from **All Saints Church**, passed the **Bastion of the Defensive Wall**, and walked through the **Town Hall Square**toward Lithuania’s top institution: **Vilnius University**. It’s the "National Taiwan University" of Lithuania, with the Presidential Palace right next door. The **Vilnia River** adds a playful charm to the city; locals have hung a painted wooden swing from a bridge, and the riverbanks are dotted with artwork and sculptures. With red flowers accenting the lush greenery, it felt like a scene straight out of a fairy tale.
+I started from **All Saints Church**, passed the **Bastion of the Defensive Wall**, and walked through the **Town Hall Square** toward Lithuania’s top institution: **Vilnius University**. It’s the "National Taiwan University" of Lithuania, with the Presidential Palace right next door. The **Vilnia River** adds a playful charm to the city; locals have hung a painted wooden swing from a bridge, and the riverbanks are dotted with artwork and sculptures. With red flowers accenting the lush greenery, it felt like a scene straight out of a fairy tale.
 
 On my way to the **Vilnius Cathedral**, I heard the faint pulse of music. As I drew closer, it became clear: a city music festival was in full swing. I had other sights planned, but the moment I reached the square and heard my favorite **Post-rock** melodies, I ran toward the stage. I let the soaring "wall of sound" built by the guitars wash over me, stirring something deep inside. Post-rock has this way of piercing through the surface, striking the core of my heart to bring a sense of release and peace.
 
-Vilnius has a population of about 700,000, and that night, it felt like every single one of them was there. I stayed until the headliner—one of Lithuania’s most famous female singers. Her set wasn't high-energy hype; instead, it was rhythmic and relaxing, using organic, nature-like instruments to immerse the entire crowd in a collective "forest bath."
+Vilnius has a population of about 700,000, and that night, it felt like every single one of them was here. I stayed until the headliner—one of Lithuania’s most famous female singers. Her set wasn't high-energy hype; instead, it was rhythmic and relaxing, using organic, nature-like instruments to immerse the entire crowd in a collective "forest bath."
 
 ### Lithuanian Flavors: Neon Pink Soup and Zeppelin Dumplings
 
@@ -55,4 +55,4 @@ As darkness fell, the pulse of jazz drums from below grew louder. I headed down 
 
 On my final day, I replaced my worn-out sneakers with a fresh, comfortable pair of white shoes and treated myself to some locally recommended sushi. For my final hours, I climbed the **Hill of Three Crosses**. Seeing parents and children gathered by the river, I realized school had started—yet here I was, refusing to stop, heading further and further North.
 
-The irony? I realized at the last minute I’d booked my bus from the wrong station. I ended up racing through the streets on a **Bolt e-bike**, cursing the 25km/h speed limit. Miraculously, I made it. If you want to avoid my clumsy mistakes, check out my Vilnius Travel Guide!
+The irony? I realized at the last minute I’d booked my bus from the wrong station. I ended up racing through the streets on a **Bolt e-bike**, cursing the 25km/h speed limit. Miraculously, I made it. If you want to avoid my clumsy mistakes, check out my [Vilnius Travel Guide!](/guides/Vilnius-guide)
