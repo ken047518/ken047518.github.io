@@ -15,7 +15,7 @@ tags:
 categories:
   - North-East solo travel
 ---
-### Nordic-Exclusive Purple Tenderness: Island Hopping from Tallinn to Helsinki
+### Nordic-Exclusive Purple Tenderness: Enjoying the Soft Sky in Helsinki
 
 After a fulfilling day at the beach, the unique purple afterglow of a Nordic summer felt incredibly decadent. Following a brief rest, I prepared to board the ferry and formally cross the Gulf of Finland toward Helsinki.
 
@@ -23,7 +23,7 @@ I was packing my bags at a leisurely pace, only to realize I had actually confus
 
 I found a prime spot on the third-floor deck, braving the sea breeze while snacking on my prepared bread, green grapes, and milk. Despite the bright sun, the Baltic sunlight is intense yet lacks warmth; the wind chill was so biting I had to layer a down jacket under a windbreaker to stay warm. Later, I moved to the forward deck, propped my hiking pack against the hull as a pillow, and drifted off to sleep to the rhythm of the waves.
 
-Just before arrival, the silhouettes of islands began to emerge on the horizon. The golden sunset burst across the water like a flashbang, carving a path of shimmering light. Watching seagulls circle and geese drift on the water, it felt as though the entire North Sea was welcoming me to Helsinki. One particularly grand archipelago (Suomenlinna) caught my eye, and I made a mental note to explore it in the coming days.
+Just before arrival, the silhouettes of islands began to emerge on the horizon. The golden sunset burst across the water like a flash bang, carving a path of shimmering light. Watching seagulls circle and geese drift on the water, it felt as though the entire North Sea was welcoming me to Helsinki. One particularly grand archipelago (Suomenlinna) caught my eye, and I made a mental note to explore it in the coming days.
 
 As I continued north, accommodation prices climbed steadily; even the most basic 16-bed dorm in Helsinki cost 20 Euros and required an hour's walk from the port. Fortunately, the purple sunset unique to high latitudes diluted that sense of loneliness. The city is quiet to the point of feeling empty; there is traffic, but one would never describe the atmosphere as "bustling". That pastel-purple sky, which in Taiwan only appears before a typhoon, is a daily occurrence here—perhaps the most extravagant gift high latitudes offer a traveler.
 
