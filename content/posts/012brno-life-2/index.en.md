@@ -16,7 +16,7 @@ tags:
 categories:
   - Life
 ---
-## Cross-Cultural Exchange: Finding a Lifeline in Exchange Life
+### Cross-Cultural Exchange: Finding a Lifeline in Exchange Life
 
 After a series of turbulent wanderings, the new semester was finally about to begin. I joined the university’s Welcome Week with my roommates, where groups were divided by nationality and region. My group was almost entirely Asian, with a South Korean majority; I was the only Taiwanese person. Initially, being in such an international, cross-cultural environment felt a bit unsettling. A guy from Australia in our group, Chap, took the initiative to chat with me. Having lived in China before, he could speak some basic Mandarin. He was the only Australian among the exchange students and, having left his Norwegian friends, he had found in me another "lifeline" to hold onto. We were in the same faculty and would occasionally grab a drink after class. He even gave me his extra fabric softener—he was definitely one of my best friends during that first semester.
 

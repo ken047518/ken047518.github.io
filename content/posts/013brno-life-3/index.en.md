@@ -16,7 +16,6 @@ tags:
 categories:
   - Life
 ---
-
 ### **Social Trials: Forcing My Way Out of the Comfort Zone**
 
 Arriving in the new environment of Brno, everything felt so vivid that I felt compelled to experience it all, even if it pushed against my natural inclinations. To break out of my comfort zone, I joined **ESN (Erasmus Student Network)**. Rooftop BBQs, bar socials, and tipsy Boat Parties in sub-zero temperatures—these bustling social scenes were once "forbidden zones" for me. Now, I found myself breaking through these barriers time and again. While the experiences were fresh and exciting, each one systematically drained my social battery.

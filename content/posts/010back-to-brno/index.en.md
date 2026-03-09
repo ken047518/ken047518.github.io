@@ -16,13 +16,13 @@ tags:
 categories:
   - North-East solo travel
 ---
-## The Lost Flight Path: An Unexpected Cancellation
+### The Lost Flight Path: An Unexpected Cancellation
 
 On the very morning I was set to leave Helsinki, my flight was cancelled without warning. The cold indifference at the airport counter was a world away from the hospitality of Taiwan—no explanations, no comforting words. Faced with this sudden void, I decided to take a ferry back to Tallinn and then navigate my way back to the Czech Republic by land. This would be my sixth time boarding a ship in just four days. With time to kill before the ferry’s departure, I slowly drifted toward the harbor with my luggage and wandered into a music store, curious to see how a Finnish shop differed from those in Taiwan while passing the time on a piano.
 
 Inside, the familiar brands like Fender or Ibanez were absent, replaced by electric guitars from brands I hardly recognized. I found a PRS showroom and was surprised to find that, after conversion, they were actually cheaper than in Taiwan. I looked for "Sire," the brand recommended by the street performer in Estonia, but couldn't find it here either. Instead, the walls were dominated by ESP and LTD—a reminder that Finland is a heavy metal powerhouse, making high-gain guitar brands particularly popular. In this seemingly calm, reclusive, and leisurely city, the most beloved soul turns out to be the roar of heavy metal. I picked up a handsome Telecaster and played a few songs I always use to test gear. I thought to myself: _if I played Guns N' Roses in here, they’d probably kick me out,_ haha.
 
-## Destiny in the Detour: Reconnecting in Tallinn
+### Destiny in the Detour: Reconnecting in Tallinn
 
 After my experience chasing a bus in Vilnius, I now make it a point to arrive 20 to 30 minutes early. Despite my relaxed early arrival at the port, I couldn't find my ferry on the schedule. To my horror, I discovered I was at the wrong harbor—I hadn't even realized there were multiple ports. The ticket agent told me I had to take a taxi "immediately" to the other side; it was a 20-minute drive, and walking was out of the question. I thanked her and bolted. On the street, a taxi driver quoted me 25 Euros. Thinking it was too expensive, I turned and ran to look for a Bolt, but after a short sprint with no luck, I doubled back to the taxi. Luckily, he didn't raise the price. Stuck in city traffic, I felt like I could have run faster, but I made it just in time. The crew told me that if I had been a few minutes later, the ship would have sailed.
 
@@ -34,7 +34,7 @@ We discussed career paths, and they offered me, someone still lost about the fut
 
 I had originally planned to fly from Helsinki to Berlin, then visit Dresden and Prague before returning to Brno. Because of the cancellation, I lost my prepaid hostel and bus money, but in exchange, I gained this connection. Every encounter might very well be the last one in this lifetime, so I cherish and enjoy the dialogue of the moment.
 
-## Notes from a 26-Hour Bus Journey Home
+### Notes from a 26-Hour Bus Journey Home
 
 That night, I apologized to my roommates for the early wake-up call I’d inevitably cause; they just smiled and didn't mind. The next morning, despite the incredibly early hour, I arrived at the station ahead of time for the 26-hour direct bus back to Brno. As I left Tallinn, it started to rain—the first rain of the entire trip. Checking the forecast for Dresden and Prague, I saw rain there too, and felt a slight sense of relief: at least now I had a reason to hide from the weather inside the bus.
 

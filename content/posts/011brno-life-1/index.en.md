@@ -19,7 +19,7 @@ tags:
 categories:
   - Life
 ---
-## Kitchen Survival
+### Kitchen Survival
 
 Back in Brno, a light drizzle was still falling, and I secretly felt relieved that my plans had been canceled. Trudging back to the dormitory on the No. 9 tram, I knew I still had to face my housing crisis.
 
@@ -33,7 +33,7 @@ I met my prospective roommates for brunch at Kafec—perhaps a trial to see if I
 
 That night, they gave me the green light. After a few more nights in the kitchen waiting for the contract to be updated, I boarded the No. 9 tram with all my worldly possessions. It was raining again. Luck finally ran out when a ticket inspector caught me, resulting in a 1,000 CZK (approx. 1,400 TWD) fine.
 
-## Arriving at "Norwegian Forest"
+### Arriving at "Norwegian Forest"
 
 My first night in the new apartment was a 12-hour slumber, finally releasing the exhaustion of kitchen survival and previous travels. My new flatmates, Frødis and Solvei, became the saviors of my exchange life in Czechia. Solvei studied Regional Development and International Studies like me, while Frødis was in the Faculty of Forestry. After I played them Wu Bai’s Norwegian Forest, our apartment officially took on that name.
 
