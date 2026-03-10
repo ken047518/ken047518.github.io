@@ -4,7 +4,7 @@ date: 2025-11-29
 modified:
 description:
 summary:
-location: 捷克 布拉格
+location: 西班牙 巴賽隆納
 image: prague.webp
 featured: true
 draft: true
