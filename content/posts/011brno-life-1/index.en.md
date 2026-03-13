@@ -2,7 +2,7 @@
 title: "EP 11.《Back to Brno: From Kitchen to Norwegian Forest》"
 date: 2024-09-15
 modified:
-description: After ending my wanderings and returning to Brno, I went through an absurd period of "wilderness survival" in a dormitory kitchen. Between playing guitars in music stores and getting caught for fare evasion, fate eventually led me to an apartment shared by two Norwegian women. They named our home "Norwegian Wood." From the haunting melodies of the song to deep reflections on values and social systems, their perspectives on life became the pivotal force that reshaped my own worldview.
+description: After ending my wanderings and returning to Brno, I went through an absurd period of "wilderness survival" in a dormitory kitchen. Between playing guitars in music stores and getting caught for fare evasion, fate eventually led me to an apartment shared by two Norwegian women. They named our home "Norwegian Forest." From the haunting melodies of the song to deep reflections on values and social systems, their perspectives on life became the pivotal force that reshaped my own worldview.
 summary: After ending my wanderings and returning to Brno, I went through an absurd period of "wilderness survival" in a dormitory kitchen. Between playing guitars in music stores and getting caught for fare evasion, fate eventually led me to an apartment shared by two Norwegian women. They named our home "Norwegian Wood." From the haunting melodies of the song to deep reflections on values and social systems, their perspectives on life became the pivotal force that reshaped my own worldview.
 location: Brno, Czechia
 image: brno-flat.webp
@@ -23,7 +23,7 @@ categories:
 
 Back in Brno, a light drizzle was still falling, and I secretly felt relieved that my plans had been canceled. Trudging back to the dormitory on the No. 9 tram, I knew I still had to face my housing crisis.
 
-After falling victim to a rental scam in Poland, I found another exchange student to apartment-hunt with, but he eventually secured a dorm spot, leaving me back at square one. Soon after, I encountered a group of Norwegian students in an exchange group looking for a roommate to fill a vacancy left by someone who had stayed in Norway for work.
+After hardly being a victim of a rental scam in Poland, I found another exchange student to apartment-hunt with, but he eventually secured a dorm spot, leaving me back at square one. Soon after, I encountered a group of Norwegian students in an exchange group looking for a flatmate to fill a vacancy left by someone who had stayed in Norway for work.
 
 During my first few days back, I drifted from my room to the hallway, eventually settling in the dormitory kitchen. My room felt like a battlefield, making sleep impossible. I tried the U.S. military’s "2-minute sleep method," though I haven't even served my conscription yet; having missed every target during school shooting practice, I possessed zero wilderness survival skills. Armed with a sleeping pad, a sleeping bag, and an inflatable pillow, I lived in that kitchen for nearly a week. Despite people passing through in the dead of night, I slept surprisingly well, gradually adjusting to Europe’s particular brand of "weirdness".
 
@@ -35,9 +35,9 @@ That night, they gave me the green light. After a few more nights in the kitchen
 
 ### Arriving at "Norwegian Forest"
 
-My first night in the new apartment was a 12-hour slumber, finally releasing the exhaustion of kitchen survival and previous travels. My new flatmates, Frødis and Solvei, became the saviors of my exchange life in Czechia. Solvei studied Regional Development and International Studies like me, while Frødis was in the Faculty of Forestry. After I played them Wu Bai’s Norwegian Forest, our apartment officially took on that name.
+My first night in the new apartment was a 12-hour slumber, finally releasing the exhaustion of kitchen survival and previous travels. My new flatmates, Frødis and Solvei, became the saviors of my exchange life in Czechia. Solvei studied Regional Development and International Studies like me, while Frødis was in the Faculty of Forestry. After I played them Wu Bai’s *Norwegian Forest*, our apartment officially took on that name.
 
-Perhaps because they were slightly older and more experienced, they possessed a mature outlook on the world. While I simply sang the song, they could deconstruct and empathize with the lyrics of _Norwegian Forest. Solvei, five years my senior but in the same grade, had previously worked as a florist and served two years in the military. She loved decorating; she transformed our industrial apartment into an elegant, cozy home with plants and wall decor. We often ate and chatted in the living room, covering everything from military service and cultural differences to our shared disdain for Trump and Musk.
+Perhaps because they were slightly older and more experienced, they possessed a mature outlook on the world. While I simply sang the song, they could deconstruct and empathize with the lyrics of Norwegian Forest. Solvei, five years my senior but in the same grade, had previously worked as a florist and served two years in the military. She loved decorating; she transformed our industrial apartment into an elegant, cozy home with plants and wall decor. We often ate and chatted in the living room, covering everything from military service and cultural differences to our shared disdain for Trump and Musk.
 
 I remember once, Solvei and I were both headed to meetings, but our conversation grew so deep that we canceled our plans just to keep talking. We critiqued the Russia-Ukraine war and the discriminatory rhetoric of global right-wing leaders, agreeing they were the architects of modern chaos.
 
