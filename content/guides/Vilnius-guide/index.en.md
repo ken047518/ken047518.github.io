@@ -6,5 +6,5 @@ description: Everything you need to know for your first trip to Japan - from get
 image: japan.jpg
 featured: true
 location: Japan
-draft: true
+draft: false
 ---
