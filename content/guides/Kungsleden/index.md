@@ -7,7 +7,7 @@ summary: 瑞典的**國王小徑 (Kungsleden)** 是北歐最著名的長距離�
 location: 瑞典 阿比斯庫國家公園
 image: kingstrail.webp
 featured: false
-draft: false
+draft: true
 ---
 ## 獨旅指數：⭐⭐⭐
 
