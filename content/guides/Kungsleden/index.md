@@ -5,7 +5,7 @@ modified:
 description: 獨旅指數：⭐⭐⭐/ 窮遊指數：⭐⭐
 summary: 瑞典的**國王小徑 (Kungsleden)** 是北歐最著名的長距離徒步路線，被譽為「世界上最美麗的徒步路線之一」。它位於瑞典北部的拉普蘭（Lapland）地區，深入北極圈，橫跨廣袤的荒原、冰川山谷與壯麗的高山。我這次走的是最知名的北段，約110公里，加上攀登瑞典最高峰，歡迎參考我的旅行攻略。
 location: 瑞典 阿比斯庫國家公園
-image: kingstrail.webp
+image: snow.webp
 featured: false
 draft: true
 ---
