@@ -3,7 +3,7 @@ title: 維爾紐斯：森林系首都旅行攻略
 date: 2024-08-31
 modified: 2026-02-20
 description: 獨旅指數：⭐⭐⭐⭐⭐/ 窮遊指數：⭐⭐⭐
-image: Vilnius_2.webp
+image: Vilnius-2.webp
 featured: true
 location: 立陶宛 維爾紐斯
 draft: false
