@@ -3,7 +3,7 @@ title: Jordan
 date: 2025-06-01
 description: Photo in Jordan
 location: Jordan
-image: IMG_8277.JPG
+image: Jordan_0072.webp
 featured: true
 draft: false
 ---
