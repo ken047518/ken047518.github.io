@@ -53,8 +53,6 @@ jobs:
           cache: "npm"
       - name: Install Node.js dependencies
         run: npm ci
-      - name: Build Tailwind CSS
-        run: npm run build:css
       - name: Build with Hugo
         env:
           HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
