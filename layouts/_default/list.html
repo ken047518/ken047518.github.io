@@ -16,7 +16,7 @@
     {{- /* First post - Featured large card */ -}}
     {{- $first := index $posts 0 -}}
     <article class="group">
-      <a href="{{ $first.Permalink }}" class="flex flex-col md:flex-row gap-6 bg-bgAlt dark:bg-bgAlt-dark rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
+      <a href="{{ $first.Permalink }}" class="flex flex-col md:flex-row gap-6 bg-bg-alt dark:bg-bg-alt-dark rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
         {{- with $first.Params.image -}}
           {{- $image := $first.Resources.Get . -}}
           {{- if $image -}}
