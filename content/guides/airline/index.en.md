@@ -7,7 +7,7 @@ summary: Want to know how to book the cheapest flights or bypass strict luggage 
 image:
 featured: true
 location: Europe
-draft: true
+draft: false
 ---
 ### _How to Fly Across Europe on a Student Budget_
 
