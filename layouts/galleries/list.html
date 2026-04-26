@@ -20,10 +20,9 @@
         {{- with .Params.image -}}
           {{- $image := $gallery.Resources.Get . -}}
           {{- if $image -}}
-            {{- $thumb := $image.Fill "480x480 Center" -}}
         <div class="aspect-square overflow-hidden rounded-lg">
           <img
-            src="{{ $thumb.Permalink }}"
+            src="{{ $image.Permalink }}"
             alt="{{ with $gallery.Params.image_alt }}{{ . }}{{ else }}{{ $gallery.Title }}{{ end }}"
             loading="lazy"
             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"

@@ -4,10 +4,9 @@
     {{- with .Params.image -}}
       {{- $image := $.Resources.Get . -}}
       {{- if $image -}}
-        {{- $thumb := $image.Fill "960x720 Center" -}}
     <div class="aspect-4/3 overflow-hidden rounded-lg mb-4">
       <img
-        src="{{ $thumb.RelPermalink }}"
+        src="{{ $image.RelPermalink }}"
         alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
         loading="lazy"
         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"

@@ -30,7 +30,6 @@
   {{- range $.Resources.ByType "image" -}}
     {{- $image := . -}}
     {{- if $image -}}
-      <!--{{- $thumb := $image.Resize "960x" -}}-->
       {{- $title := "" }}
       {{ with findRESubmatch `\[(.*)\]` $image.Title 1 }}
         {{- $title = index (index . 0) 1 -}}

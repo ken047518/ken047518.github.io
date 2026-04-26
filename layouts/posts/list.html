@@ -20,10 +20,9 @@
         {{- with $first.Params.image -}}
           {{- $image := $first.Resources.Get . -}}
           {{- if $image -}}
-            {{- $thumb := $image.Fill "960x720 Center" -}}
         <div class="md:w-1/2 aspect-4/3 overflow-hidden">
           <img
-            src="{{ $thumb.Permalink }}"
+            src="{{ $image.Permalink }}"
             alt="{{ with $first.Params.image_alt }}{{ . }}{{ else }}{{ $first.Title }}{{ end }}"
             class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
           >

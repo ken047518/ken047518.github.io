@@ -4,10 +4,9 @@
     {{- with .Params.image -}}
       {{- $image := $.Resources.Get . -}}
       {{- if $image -}}
-        {{- $thumb := $image.Fill "240x240 Center" -}}
     <div class="shrink-0 w-24 h-24 md:w-32 md:h-32 overflow-hidden rounded-lg">
       <img
-        src="{{ $thumb.Permalink }}"
+        src="{{ $image.Permalink }}"
         alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
         loading="lazy"
         class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
