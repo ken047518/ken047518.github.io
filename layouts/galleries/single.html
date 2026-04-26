@@ -26,28 +26,32 @@
   </header>
 
   {{- /* Gallery Grid */ -}}
-  <div class="masonry sm:masonry-sm md:masonry-md pswp-gallery" id="gallery">
+  <div class="masonry sm:masonry-sm md:masonry-md pswp-gallery" id="gallery--with-custom-caption">
   {{- range $.Resources.ByType "image" -}}
     {{- $image := . -}}
     {{- if $image -}}
       <!--{{- $thumb := $image.Resize "960x" -}}-->
-  <a href="{{ $image.RelPermalink }}"
-     data-pswp-width="{{ $image.Width }}"
-     data-pswp-height="{{ $image.Height }}"
-     target="_blank"
-     class="block rounded-lg group break-inside mb-4 relative">
-    <img
-      src="{{ $image.RelPermalink }}"
-      alt="{{ $image.Title }}"
-      loading="lazy"
-      class="w-full h-full object-cover group-hover:brightness-50 transition-transform duration-300"
-    >
-    {{ with findRESubmatch `\[(.*)\]` $image.Title 1 }}
-      {{- $title := index (index . 0) 1 -}}
-      <div class="opacity-0 group-hover:opacity-100 duration-300 absolute inset-0 z-10 flex justify-center items-center text-6xl text-white font-semibold">{{ $title }}</div>
-    {{ end }}
-  </a>
-    {{- end -}}
+      {{- $title := "" }}
+      {{ with findRESubmatch `\[(.*)\]` $image.Title 1 }}
+        {{- $title = index (index . 0) 1 -}}
+      {{ end }}
+
+      <a href="{{ $image.RelPermalink }}"
+        data-pswp-width="{{ $image.Width }}"
+        data-pswp-height="{{ $image.Height }}"
+        target="_blank"
+        class="block rounded-lg group break-inside mb-4 relative pswp-gallery__item">
+        <img
+          src="{{ $image.RelPermalink }}"
+          alt="{{ default $.Title $title }}"
+          loading="lazy"
+          class="w-full h-full object-cover transition-transform duration-300"
+        >
+        {{- if ne $title "" -}}
+          <div class="bg-black/0 group-hover:bg-black/50 opacity-0 group-hover:opacity-100 duration-300 absolute inset-0 z-10 flex justify-center items-center text-3xl text-white font-semibold">{{ $title }}</div>
+        {{ end }}
+      </a>
+      {{- end -}}
   {{- end -}}
   </div>
 
@@ -79,11 +83,60 @@
 <script type="module">
 import PhotoSwipeLightbox from '/js/photoswipe-lightbox.esm.js';
 const lightbox = new PhotoSwipeLightbox({
-  gallery: '#gallery',
-  children: 'a',
+  gallery:'#gallery--with-custom-caption',
+  children:'.pswp-gallery__item',
   pswpModule: () => import('/js/photoswipe.esm.js')
+});
+lightbox.on('uiRegister', function() {
+  lightbox.pswp.ui.registerElement({
+    name: 'custom-caption',
+    order: 9,
+    isButton: false,
+    appendTo: 'root',
+    html: 'Caption text',
+    onInit: (el, pswp) => {
+      lightbox.pswp.on('change', () => {
+        const currSlideElement = lightbox.pswp.currSlide.data.element;
+        let captionHTML = '';
+        if (currSlideElement) {
+          const hiddenCaption = currSlideElement.querySelector('.hidden-caption-content');
+          if (hiddenCaption) {
+            // get caption from element with class hidden-caption-content
+            captionHTML = hiddenCaption.innerHTML;
+          } else {
+            // get caption from alt attribute
+            captionHTML = currSlideElement.querySelector('img').getAttribute('alt');
+          }
+        }
+        el.innerHTML = captionHTML || '';
+      });
+    }
+  });
 });
 lightbox.init();
 </script>
+
+<style>
+.pswp__custom-caption {
+  background: rgba(75, 75, 75, 0.75);
+  font-size: 16px;
+  color: #fff;
+  width: calc(100% - 32px);
+  max-width: 400px;
+  padding: 2px 8px;
+  border-radius: 4px;
+  position: absolute;
+  left: 50%;
+  bottom: 16px;
+  transform: translateX(-50%);
+}
+.pswp__custom-caption a {
+  color: #fff;
+  text-decoration: underline;
+}
+.hidden-caption-content {
+  display: none;
+}
+</style>
 
 {{ end }}
