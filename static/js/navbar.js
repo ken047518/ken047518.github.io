@@ -17,8 +17,8 @@
         "dark:bg-bgAlt-dark",
         "shadow-md",
         "backdrop-blur-sm",
-        "bg-opacity-95",
-        "dark:bg-opacity-95",
+        "opacity-95",
+        "dark:opacity-95",
       );
     } else {
       navbar.classList.remove(
@@ -26,8 +26,8 @@
         "dark:bg-bgAlt-dark",
         "shadow-md",
         "backdrop-blur-sm",
-        "bg-opacity-95",
-        "dark:bg-opacity-95",
+        "opacity-95",
+        "dark:opacity-95",
       );
     }
 
