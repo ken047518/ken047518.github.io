@@ -30,18 +30,22 @@
   {{- range $.Resources.ByType "image" -}}
     {{- $image := . -}}
     {{- if $image -}}
-      {{- $thumb := $image.Resize "960x" -}}
+      <!--{{- $thumb := $image.Resize "960x" -}}-->
   <a href="{{ $image.RelPermalink }}"
      data-pswp-width="{{ $image.Width }}"
      data-pswp-height="{{ $image.Height }}"
      target="_blank"
-     class="block rounded-lg group break-inside mb-4">
+     class="block rounded-lg group break-inside mb-4 relative">
     <img
-      src="{{ $thumb.RelPermalink }}"
-      alt="{{ $.Title }}"
+      src="{{ $image.RelPermalink }}"
+      alt="{{ $image.Title }}"
       loading="lazy"
-      class="w-full h-full object-cover group-hover:scale-105 transition-transform duration-300"
+      class="w-full h-full object-cover group-hover:brightness-50 transition-transform duration-300"
     >
+    {{ with findRESubmatch `\[(.*)\]` $image.Title 1 }}
+      {{- $title := index (index . 0) 1 -}}
+      <div class="opacity-0 group-hover:opacity-100 duration-300 absolute inset-0 z-10 flex justify-center items-center text-6xl text-white font-semibold">{{ $title }}</div>
+    {{ end }}
   </a>
     {{- end -}}
   {{- end -}}
