@@ -16,12 +16,12 @@
     {{- /* First post - Featured large card */ -}}
     {{- $first := index $posts 0 -}}
     <article class="group">
-      <a href="{{ $first.Permalink }}" class="flex flex-col md:flex-row gap-6 bg-bgAlt dark:bg-bgAlt-dark rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
+      <a href="{{ $first.Permalink }}" class="flex flex-col md:flex-row gap-6 bg-bg-alt dark:bg-bg-alt-dark rounded-lg overflow-hidden shadow-lg hover:shadow-xl transition-shadow">
         {{- with $first.Params.image -}}
           {{- $image := $first.Resources.Get . -}}
           {{- if $image -}}
             {{- $thumb := $image.Fill "960x720 Center" -}}
-        <div class="md:w-1/2 aspect-[4/3] overflow-hidden">
+        <div class="md:w-1/2 aspect-4/3 overflow-hidden">
           <img
             src="{{ $thumb.Permalink }}"
             alt="{{ with $first.Params.image_alt }}{{ . }}{{ else }}{{ $first.Title }}{{ end }}"

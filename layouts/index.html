@@ -34,7 +34,7 @@
     {{- end -}}
   {{- end -}}
 
-  <div class="absolute inset-0 bg-black bg-opacity-40"></div>
+  <div class="absolute inset-0 bg-black/40"></div>
 
   <div class="relative z-10 text-center text-white">
     <h1 class="font-heading text-4xl md:text-6xl font-bold mb-4">
@@ -54,7 +54,7 @@
       {{- if $image -}}
         {{- $bio := $image.Fill "240x240 Center" -}}
         {{- $bio2x := $image.Fill "480x480 Center" -}}
-    <div class="flex-shrink-0">
+    <div class="shrink-0">
       <img
         src="{{ $bio.Permalink }}"
         srcset="{{ $bio.Permalink }} 1x, {{ $bio2x.Permalink }} 2x"
@@ -76,7 +76,7 @@
 {{- /* Featured Posts */ -}}
 {{- $featured := where (where .Site.RegularPages "Section" "posts") "Params.featured" true | first 3 -}}
 {{- if $featured -}}
-<section class="bg-bgAlt dark:bg-bgAlt-dark py-16">
+<section class="bg-bg-alt dark:bg-bg-alt-dark py-16">
   <div class="container mx-auto px-4">
     <h2 class="font-heading text-3xl md:text-4xl font-bold text-center mb-12">
       {{ if eq .Language.Lang "zh-tw" }}精選文章{{ else }}Featured Posts{{ end }}
@@ -93,7 +93,7 @@
     <div class="md:hidden">
       <div class="overflow-x-auto snap-x snap-mandatory flex gap-4 pb-4">
         {{- range $featured -}}
-        <div class="snap-center flex-shrink-0 w-[85vw]">
+        <div class="snap-center shrink-0 w-[85vw]">
           {{ partial "grid-card.html" . }}
         </div>
         {{- end -}}
@@ -132,7 +132,7 @@
 {{- end -}}
 
 {{- /* Services Section */ -}}
-<section class="bg-bgAlt dark:bg-bgAlt-dark py-16">
+<section class="bg-bg-alt dark:bg-bg-alt-dark py-16">
   {{ partial "services.html" . }}
 </section>
 

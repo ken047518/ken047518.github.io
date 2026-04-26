@@ -1,8 +1,8 @@
-<nav id="navbar" class="fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-bgAlt dark:bg-bgAlt-dark shadow-md">
+<nav id="navbar" class="fixed top-0 left-0 right-0 z-50 transition-all duration-300 bg-bg-alt dark:bg-bg-alt-dark shadow-md">
   <div class="container mx-auto px-4">
     <div class="flex justify-between items-center h-16">
       {{- /* Logo */ -}}
-      <div class="flex-shrink-0">
+      <div class="shrink-0">
         <a href="{{ "/" | relLangURL }}" class="flex items-center gap-3 text-xl font-heading font-bold text-primary hover:opacity-80 transition-opacity" aria-label="MadeYourDay.Life">
           <img src="/images/logo.png" alt="Logo" class="h-10 w-auto object-fit" />
           <img src="/images/title.png" alt="Logo" class="h-10 w-auto object-fit" />
@@ -29,7 +29,7 @@
 
         {{- /* Dark Mode Toggle */ -}}
         <button id="theme-toggle" class="p-2 rounded-lg hover:bg-gray-200 dark:hover:bg-gray-700 transition-colors" aria-label="Toggle theme">
-          <i class="fas fa-moon dark:hidden"></i>
+          <i class="fas fa-moon inline dark:hidden"></i>
           <i class="fas fa-sun hidden dark:inline"></i>
         </button>
       </div>
@@ -45,7 +45,7 @@
 </nav>
 
 {{- /* Mobile Menu Overlay */ -}}
-<div id="mobile-menu" class="hidden fixed inset-0 z-40 bg-bgAlt dark:bg-bgAlt-dark md:hidden">
+<div id="mobile-menu" class="hidden fixed inset-0 z-40 bg-bg-alt dark:bg-bg-alt-dark md:hidden">
   <div class="flex flex-col items-center justify-center h-full space-y-8 text-2xl">
 
     {{- range .Site.Menus.main -}}

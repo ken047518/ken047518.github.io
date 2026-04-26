@@ -116,18 +116,6 @@ Start the Hugo development server:
 npm run dev
 ```
 
-Or run TailwindCSS in watch mode in a separate terminal:
-
-```bash
-npm run watch:css
-```
-
-Then start Hugo:
-
-```bash
-hugo server -D
-```
-
 ## Building for Production
 
 ```bash

@@ -11,26 +11,6 @@
   function handleScroll() {
     const currentScroll = window.pageYOffset;
 
-    if (currentScroll > 24) {
-      navbar.classList.add(
-        "bg-bgAlt",
-        "dark:bg-bgAlt-dark",
-        "shadow-md",
-        "backdrop-blur-sm",
-        "bg-opacity-95",
-        "dark:bg-opacity-95",
-      );
-    } else {
-      navbar.classList.remove(
-        "bg-bgAlt",
-        "dark:bg-bgAlt-dark",
-        "shadow-md",
-        "backdrop-blur-sm",
-        "bg-opacity-95",
-        "dark:bg-opacity-95",
-      );
-    }
-
     lastScroll = currentScroll;
   }
 
