@@ -77,20 +77,21 @@
   }
 }
 
-@layer utility {
-  .masonry {
-    column-gap: 1.5em;
-    column-count: 1;
-  }
-  .masonry-sm {
-    column-gap: 1.5em;
-    column-count: 2;
-  }
-  .masonry-md {
-    column-gap: 1.5em;
-    column-count: 3;
-  }
-  .break-inside {
-    break-inside: avoid;
-  }
+@utility masonry {
+  column-gap: 1.5em;
+  column-count: 1;
+}
+
+@utility masonry-sm {
+  column-gap: 1.5em;
+  column-count: 2;
+}
+
+@utility masonry-md {
+  column-gap: 1.5em;
+  column-count: 3;
+}
+
+@utility break-inside {
+  break-inside: avoid;
 }
