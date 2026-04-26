@@ -145,6 +145,17 @@
     {{- end -}}
   </div>
 
+  {{- /* Mobile: Carousel */ -}}
+  <div class="md:hidden">
+    <div class="overflow-x-auto snap-x snap-mandatory flex gap-4 pb-4">
+      {{- range $galleries -}}
+      <div class="snap-center shrink-0 w-[85vw]">
+        {{ partial "grid-card.html" . }}
+      </div>
+      {{- end -}}
+    </div>
+  </div>
+
   <div class="text-center mt-8">
     <a href="{{ "galleries" | relLangURL }}" class="inline-block bg-primary hover:bg-primary-dark text-white font-bold py-3 px-8 rounded-lg transition-colors">
       {{ if eq .Language.Lang "zh-tw" }}查看更多{{ else }}View More{{ end }}
