@@ -54,7 +54,7 @@
       {{- if $image -}}
         {{- $bio := $image.Fill "240x240 Center" -}}
         {{- $bio2x := $image.Fill "480x480 Center" -}}
-    <div class="flex-shrink-0">
+    <div class="shrink-0">
       <img
         src="{{ $bio.Permalink }}"
         srcset="{{ $bio.Permalink }} 1x, {{ $bio2x.Permalink }} 2x"
@@ -93,7 +93,7 @@
     <div class="md:hidden">
       <div class="overflow-x-auto snap-x snap-mandatory flex gap-4 pb-4">
         {{- range $featured -}}
-        <div class="snap-center flex-shrink-0 w-[85vw]">
+        <div class="snap-center shrink-0 w-[85vw]">
           {{ partial "grid-card.html" . }}
         </div>
         {{- end -}}

@@ -21,7 +21,7 @@
           {{- $image := $first.Resources.Get . -}}
           {{- if $image -}}
             {{- $thumb := $image.Fill "960x720 Center" -}}
-        <div class="md:w-1/2 aspect-[4/3] overflow-hidden">
+        <div class="md:w-1/2 aspect-4/3 overflow-hidden">
           <img
             src="{{ $thumb.Permalink }}"
             alt="{{ with $first.Params.image_alt }}{{ . }}{{ else }}{{ $first.Title }}{{ end }}"

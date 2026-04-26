@@ -5,7 +5,7 @@
       {{- $image := $.Resources.Get . -}}
       {{- if $image -}}
         {{- $thumb := $image.Fill "960x720 Center" -}}
-    <div class="aspect-[4/3] overflow-hidden rounded-lg mb-4">
+    <div class="aspect-4/3 overflow-hidden rounded-lg mb-4">
       <img
         src="{{ $thumb.RelPermalink }}"
         alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"

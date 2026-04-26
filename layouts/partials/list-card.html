@@ -5,7 +5,7 @@
       {{- $image := $.Resources.Get . -}}
       {{- if $image -}}
         {{- $thumb := $image.Fill "240x240 Center" -}}
-    <div class="flex-shrink-0 w-24 h-24 md:w-32 md:h-32 overflow-hidden rounded-lg">
+    <div class="shrink-0 w-24 h-24 md:w-32 md:h-32 overflow-hidden rounded-lg">
       <img
         src="{{ $thumb.Permalink }}"
         alt="{{ with $.Params.image_alt }}{{ . }}{{ else }}{{ $.Title }}{{ end }}"
