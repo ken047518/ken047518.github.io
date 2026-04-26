@@ -212,7 +212,7 @@ draft: false
     
 - **路網規劃**：比起 Google Maps，他有更精確的路線規劃，而 Google Maps 不會顯示出來。
 
-### 🗺️**MAPS.ME：離線地圖的生存命脈** 
+### 🗺️**MAPS.ME：必備離線地圖 
 
 - **離線導航**：整段路除了頭尾完全沒有訊號，因此建議下載離線地圖。基於 OpenStreetMap 的數據，在荒野中的小徑標示比 Google Maps 更細緻，包含山屋、湖泊位置都會比 Google Maps 更精準。
     
