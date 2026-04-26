@@ -23,6 +23,9 @@
         </time>
       </span>
     </div>
+    {{ with .Description }}
+    <p class="mt-1 text-gray-600 dark:text-gray-400">{{ . }}</p>
+    {{ end }}
   </header>
 
   {{- /* Gallery Grid */ -}}

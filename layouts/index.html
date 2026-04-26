@@ -131,6 +131,28 @@
 </section>
 {{- end -}}
 
+{{- /* Featured Galleries */ -}}
+{{- $galleries := where (where .Site.RegularPages "Section" "galleries") "Params.featured" true | first 3 -}}
+{{- if $galleries -}}
+<section class="container mx-auto px-4 py-16">
+  <h2 class="font-heading text-3xl md:text-4xl font-bold text-center mb-12">
+    {{ if eq .Language.Lang "zh-tw" }}相簿{{ else }}Galleries{{ end }}
+  </h2>
+
+  <div class="hidden md:grid md:grid-cols-3 gap-8">
+    {{- range $galleries -}}
+      {{ partial "grid-card.html" . }}
+    {{- end -}}
+  </div>
+
+  <div class="text-center mt-8">
+    <a href="{{ "galleries" | relLangURL }}" class="inline-block bg-primary hover:bg-primary-dark text-white font-bold py-3 px-8 rounded-lg transition-colors">
+      {{ if eq .Language.Lang "zh-tw" }}查看更多{{ else }}View More{{ end }}
+    </a>
+  </div>
+</section>
+{{- end -}}
+
 {{- /* Services Section */ -}}
 <section class="bg-bg-alt dark:bg-bg-alt-dark py-16">
   {{ partial "services.html" . }}
