@@ -1,5 +1,5 @@
 ---
-title: 約旦（Jordan）
+title: Jordan
 date: 2025-06-01
 description: Photo in Jordan
 location: Jordan

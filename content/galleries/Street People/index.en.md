@@ -1,5 +1,5 @@
 ---
-title: 流浪的人（Street People）
+title: Street People
 date: 2000-01-01
 description: Street People Around the World
 location: Global

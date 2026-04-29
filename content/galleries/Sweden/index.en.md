@@ -1,5 +1,5 @@
 ---
-title: 瑞典（Sweden）
+title: Sweden
 date: 2025-05-24
 description: Photo in Sweden
 location: Malmö, Gothenburg, Stockholm

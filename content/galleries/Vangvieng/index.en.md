@@ -1,5 +1,5 @@
 ---
-title: 萬榮（Vangvieng）
+title: Vangvieng
 date: 2026-02-01
 description: Photo in Vangvieng
 location: Vangvieng, Laos.

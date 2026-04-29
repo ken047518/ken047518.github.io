@@ -1,5 +1,5 @@
 ---
-title: 德國（Germany）
+title: Germany
 date: 2025-05-23
 description: Photo in Germany
 location: Berlin, Dresden, Leipzig, Saxon Switzerland National Park

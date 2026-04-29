@@ -1,5 +1,5 @@
 ---
-title: 南法（South France）
+title: Southern France
 date: 2025-07-09
 description: Travel photograpth
 location: South France
