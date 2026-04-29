@@ -1,9 +1,9 @@
 ---
-title: 萬榮（Vangvieng）
+title: （）
 date: 2026-02-01
-description: Photo in Vangvieng
-location: Vangvieng, Laos.
-image: Laos_0.webp
+description: Photo in
+location:
+image:
 featured: true
 draft: true
 ---
