@@ -1,9 +1,9 @@
 ---
 title: 流浪的人（Street People）
-date: 2026-02-01
+date: 2000-01-01
 description: Street People Around the World
 location: Global
 image: Germany_0008.webp
-featured: true
+featured: false
 draft: false
 ---

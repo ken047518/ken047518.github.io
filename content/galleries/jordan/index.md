@@ -1,5 +1,5 @@
 ---
-title: 約旦
+title: 約旦（Jordan）
 date: 2025-06-01
 description: 約旦沙漠
 location: 約旦

@@ -1,9 +1,9 @@
 ---
 title: 流浪的人（Street People）
-date: 2026-02-01
+date: 2000-01-01
 description: 世界流浪漢觀察家
-location: 世界
+location: 地球
 image: Germany_0008.webp
-featured: true
+featured: false
 draft: false
 ---
