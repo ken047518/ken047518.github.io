@@ -4,7 +4,7 @@ date: 2025-01-31
 modified: 2026-03-06
 description: Want to know how to book the cheapest flights or bypass strict luggage rules? As a budget student traveler who has flown with over 10 airlines in just six months, I’ve compiled a field guide of “insider” tips you won't find online. From hidden app booking hacks to the art of squeezing a 50L hiking pack through the luggage sizer—this isn't just a collection of travel hacks; it's my personal challenge to the systems and regulations.
 summary: Want to know how to book the cheapest flights or bypass strict luggage rules? As a budget student traveler who has flown with over 10 airlines in just six months, I’ve compiled a field guide of “insider” tips you won't find online. From hidden app booking hacks to the art of squeezing a 50L hiking pack through the luggage sizer—this isn't just a collection of travel hacks; it's my personal challenge to the systems and regulations.
-image:
+image: easyjet.webp
 featured: true
 location: Europe
 draft: false
@@ -75,3 +75,9 @@ If you have an **ESN Card**, you get **10% off** plus **4 free 20kg checked 
     3. Under `Personal Information`, click `Erasmus`.
         
     4. Fill in your member details. (Note: Booking with the discount is done through a specific portal, not the regular search bar).
+
+**The tips above are based on my experience flying with over 10 different budget airlines in the past six months. Plane tickets are often cheaper than trains or buses, so taking advantage of these deals will definitely make your European exchange life more cost-effective and rewarding.** > **One final reminder: some cities have multiple airports, so double-check which one you're flying into!**
+
+The photo shows the carry-on sizers for EasyJet and Ryanair for reference. My black bag is a 50L internal-frame trekking pack; it’s a tight fit, but you can just barely squeeze it in.
+
+![](504310846_4082504905402168_6478193748782525811_n_result.webp)

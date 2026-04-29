@@ -6,5 +6,5 @@ description:
 image: japan.jpg
 featured: true
 location: Japan
-draft: false
+draft: true
 ---
