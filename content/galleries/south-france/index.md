@@ -1,5 +1,5 @@
 ---
-title: 南法（South France）
+title: 南法（Southern France）
 date: 2025-07-09
 description: 南法旅拍
 location: 南法
