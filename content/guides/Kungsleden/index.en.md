@@ -183,7 +183,7 @@ A lifesaver if you lose or break small items:
 
 - **Power Banks:** Bring several high-capacity ones; there are no charging outlets in the trail cabins.
     
-- **Chargers:** Outlets at the main mountain stations (start/end points) use the **Type C/E/F (European round-pin)**plug.
+- **Chargers:** Outlets at the main mountain stations (start/end points) use the Type C/E/F (European round-pin) plug.
     
 - **Offline Maps:** You **must** download offline maps on your phone. Physical maps and route info are also available at the start and end points.
     
@@ -261,7 +261,7 @@ Great for researching elevation gain and trail conditions before you set off.
 
 ### **Money-Saving Tips & Strategy**
 
-When I first planned this trip, I was worried about bad weather or unexpected delays, so I built in plenty of buffer time. For the last few nights, I mostly wild camped. I traveled from Nice, France, to Stockholm for this trek; however, if you are coming from Taiwan, the total budget would likely range between **NT80,000andNT100,000**.
+When I first planned this trip, I was worried about bad weather or unexpected delays, so I built in plenty of buffer time. For the last few nights, I mostly wild camped. I traveled from Nice, France, to Stockholm for this trek; however, if you are coming from Taiwan, the total budget would likely range between **NT80,000 and NT100,000**.
 
 #### **Accommodation**
 
