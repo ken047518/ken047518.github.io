@@ -6,4 +6,5 @@ location:
 image:
 featured: true
 draft: true
+tags:
 ---
