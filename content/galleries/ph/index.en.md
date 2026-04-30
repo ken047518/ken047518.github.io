@@ -1,6 +1,6 @@
 ---
 title: Manila
-date: 2026-02-01
+date: 2025-09-13
 description: Photos in Manila
 location: Manila, Philippines
 image: ph_0012.webp
