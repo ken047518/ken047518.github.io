@@ -1,5 +1,5 @@
 ---
-title: 泰國
+title: 泰國（Thailand）
 date: 2026-01-21
 description: 清邁巧遇泰國公主，誤入清孔音樂節
 location: 泰國 清邁 清孔
