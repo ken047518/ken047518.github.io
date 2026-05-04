@@ -13,16 +13,18 @@ draft: false
 有提供申請表範本及良民證捷克文翻譯，總之希望我的整理能夠幫到需要的人！也祝各位捷克學生簽證申請順利啦！
 
 等收到錄取通知就可以開始以下流程了～～～～
+
+閱讀懶人包之前還是建議去看一下完整資料，順便練一下英文閱讀XD
+### [Long-term Visa for the Purpose of Studies](https://ipc.gov.cz/en/visa-and-residence-permit-types/third-country-nationals/long-term-visa/long-term-visa-for-the-purpose-of-studies/?iqTabs=%7B%220%22%3A1%7D)
 ## 準備區
 
-- ### 申請表
-	- 數量：2（正本+影本）
-	- 內容：基本資料填一填而已，填寫很快有空處理就可以。
+### 申請表
+- 數量：2（正本+影本）
+- 內容：基本資料填一填而已，填寫很快有空處理就可以。
 	- [官網版本](https://mzv.gov.cz/public/45/84/57/525242_423344_zov_EN.pdf)
 	- [自製範本參考](https://drive.google.com/file/d/1P8kVU57D7P0AX-mcw04ZVClkbUytLVGQ/view?usp=share_link)
 
 ### 財力證明
-
 - 數量：存款證明：2（正本+影本）
 		卡片證明：3（卡片本人+影本* 2）
 - 存款證明：戶頭至少要有18萬台幣，證明要英文版，並且換成歐元或是美金，我當時換歐元。
