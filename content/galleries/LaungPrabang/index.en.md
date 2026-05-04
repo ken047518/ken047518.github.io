@@ -1,6 +1,6 @@
 ---
 title: Laung Prabang
-date: 2026-01-23
+date: 2026-01-25
 description: Arriving at Laung Prabang by slow boat, where solo traveler meet each other.
 location: Laung Prabang
 image: lpb.webp
