@@ -11,17 +11,17 @@ draft: false
 ---
 I applied for my Czech visa in the spring of 2024. While it took a lot of time to prepare all the documents, the process was actually quite interesting—it felt like a giant "scavenger hunt"! I’ve provided an application form template and the Czech translation for the criminal record certificate. Overall, I hope this guide helps those in need. Good luck to everyone applying for a Czech student visa! You can start the following process as soon as you receive your Letter of Acceptance (LoA)~~~~
 
-### Preparation Zone
+## Preparation Zone
 
-## Application Form
+### Application Form
 
 - **Quantity**: 2 (Original + Photocopy)
     
 - **Content**: Just filling in basic information; it’s quick to complete, so you can handle it whenever you have a moment.
     
-- [Official Website Version]
+	- [Official Website Version](https://mzv.gov.cz/public/45/84/57/525242_423344_zov_EN.pdf)
     
-- [Self-made Reference Template]
+	- [Self-made Reference Template](https://drive.google.com/file/d/1P8kVU57D7P0AX-mcw04ZVClkbUytLVGQ/view?usp=share_link)
     
 
 ### **Proof of Financial Means**
@@ -103,34 +103,33 @@ I entered the European Schengen Area before my visa became effective without any
 
 ### Check list
 
-| 名稱 (Item)                                      | 數量 (Quantity)                                                                                    | 成本 (Cost)                                                                                                                                                        | 備註 (Remarks)                                                                                                                                                                                                    |
-| ---------------------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **申請表** (Application Form)                     | 2 (Original + Photocopy)                                                                         |                                                                                                                                                                  | [Official Website Version](https://mzv.gov.cz/public/45/84/57/525242_423344_zov_EN.pdf) / [Self-made Reference Template](https://drive.google.com/file/d/1P8kVU57D7P0AX-mcw04ZVClkbUytLVGQ/view?usp=share_link) |
-| **正本護照＋護照影本**(Original Passport + Photocopies) | 3 (Actual Passport + 2 Photocopies)                                                              |                                                                                                                                                                  |                                                                                                                                                                                                                 |
-| **1.5 吋大頭照** (1.5-inch Photos)                 | 2                                                                                                |                                                                                                                                                                  | One to be pasted on the application form + one to be provided separately.                                                                                                                                       |
-| **學校入學證明（錄取信）** (Letter of Acceptance)         | 2 (Original + Photocopy)                                                                         |                                                                                                                                                                  |                                                                                                                                                                                                                 |
-| **學校住宿證明** (Proof of Accommodation)            | 2 (Original + Photocopy)                                                                         |                                                                                                                                                                  |                                                                                                                                                                                                                 |
-| **財力證明** (Proof of Financial Means)            | Bank Statement: 2 (Original + Photocopy) / Card Proof: 3 (Actual Card + 2 Photocopies)<br><br>+1 |                                                                                                                                                                  |                                                                                                                                                                                                                 |
-| **良民證** (Criminal Record Certificate)          | 2 (Original + Photocopy)                                                                         | 1. Police Station: $100 for the 1st copy, $20 for subsequent copies.<br><br>  <br><br>2. Civil Notary: $750<br><br>  <br><br>3. Bureau of Consular Affairs: $400 | [Refer to example documents](https://docs.google.com/presentation/d/1Et0hAMXXSCxWzXSq9ynNBviLtuMB2qddM-kCtNNsaLo/edit?usp=sharing)                                                                              |
-| **保險** (Insurance)                             |                                                                                                  |                                                                                                                                                                  | Only required when collecting the visa.                                                                                                                                                                         |
+| Item                                | Quantity                                                                                         | Cost                                                                                                                                                             | Remarks                                                                                                                                                                                                         |
+| ----------------------------------- | ------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Application Form                    | 2 (Original + Photocopy)                                                                         |                                                                                                                                                                  | [Official Website Version](https://mzv.gov.cz/public/45/84/57/525242_423344_zov_EN.pdf) / [Self-made Reference Template](https://drive.google.com/file/d/1P8kVU57D7P0AX-mcw04ZVClkbUytLVGQ/view?usp=share_link) |
+| Original Passport + Photocopies     | 3 (Actual Passport + 2 Photocopies)                                                              |                                                                                                                                                                  |                                                                                                                                                                                                                 |
+| 1.5-inch Photos                     | 2                                                                                                |                                                                                                                                                                  | One to be pasted on the application form + one to be provided separately.                                                                                                                                       |
+| Letter of Acceptance                | 2 (Original + Photocopy)                                                                         |                                                                                                                                                                  |                                                                                                                                                                                                                 |
+| Proof of Accommodation              | 2 (Original + Photocopy)                                                                         |                                                                                                                                                                  |                                                                                                                                                                                                                 |
+| **財力證明** (Proof of Financial Means) | Bank Statement: 2 (Original + Photocopy) / Card Proof: 3 (Actual Card + 2 Photocopies)<br><br>+1 |                                                                                                                                                                  |                                                                                                                                                                                                                 |
+| Criminal Record Certificate         | 2 (Original + Photocopy)                                                                         | 1. Police Station: $100 for the 1st copy, $20 for subsequent copies.<br><br>  <br><br>2. Civil Notary: $750<br><br>  <br><br>3. Bureau of Consular Affairs: $400 | [Refer to example documents](https://docs.google.com/presentation/d/1Et0hAMXXSCxWzXSq9ynNBviLtuMB2qddM-kCtNNsaLo/edit?usp=sharing)                                                                              |
+| Insurance                           |                                                                                                  |                                                                                                                                                                  | Only required when collecting the visa.                                                                                                                                                                         |
 **Other Reference Materials**
 
 **Month Comparison Table (Month / Měsíc)**
 
 At that time, the results for the months translated by AI were incorrect. This image was provided by the Czech Economic and Cultural Office; remember to verify information from multiple sources when preparing your documents.
 
-| 編號  | 英文 (Month) | 捷克文 (Měsíc)          |
-| --- | ---------- | -------------------- |
-| 1   | January    | Leden / ledna        |
-| 2   | February   | Únor / února         |
-| 3   | March      | Březen / března      |
-| 4   | April      | Duben / dubna        |
-| 5   | May        | Květen / května      |
-| 6   | June       | Červen / června      |
-| 7   | July       | Červenec / července  |
-| 8   | August     | Srpen / srpna        |
-| 9   | September  | Září / září          |
-| 10  | October    | Říjen / října        |
-| 11  | November   | Listopad / listopadu |
-| 12  | December   | Prosinec / prosince  |
-![月份正確寫法|998](Pasted%20image%2020260504153518.png)
+|     | Month     | Měsíc                |
+| --- | --------- | -------------------- |
+| 1   | January   | Leden / ledna        |
+| 2   | February  | Únor / února         |
+| 3   | March     | Březen / března      |
+| 4   | April     | Duben / dubna        |
+| 5   | May       | Květen / května      |
+| 6   | June      | Červen / června      |
+| 7   | July      | Červenec / července  |
+| 8   | August    | Srpen / srpna        |
+| 9   | September | Září / září          |
+| 10  | October   | Říjen / října        |
+| 11  | November  | Listopad / listopadu |
+| 12  | December  | Prosinec / prosince  |

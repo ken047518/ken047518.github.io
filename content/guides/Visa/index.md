@@ -63,7 +63,7 @@ Contact telephone numbers:
 
 Email address: 
 
-### 保險
+## 保險
 
 根據《外國人居留法》（Act on the Residence of Foreigners）第 §180j 條第 8 款規定，入境捷克的人員必須投保「綜合醫療保險」（komplexní zdravotní pojištění cizinců）。
 
