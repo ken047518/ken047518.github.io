@@ -110,4 +110,3 @@ Email address: 
 | 10  | October    | Říjen / října        |
 | 11  | November   | Listopad / listopadu |
 | 12  | December   | Prosinec / prosince  |
-![月份正確寫法|998](Pasted%20image%2020260504153518.png)
