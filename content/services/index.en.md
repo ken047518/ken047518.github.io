@@ -35,7 +35,7 @@ I have extensive experience in event photography, ranging from **high-energy sp
 
 - **Nordic**: Iceland, Norway, Sweden, Denmark, Finland.
     
-- **Northeast Europe**: Estonia, Latvia, [Lithuania]((/guides/Vilnius-guide).
+- **Northeast Europe**: Estonia, Latvia, [Lithuania](/guides/Vilnius-guide).
     
 - **Western Europe**: Ireland, United Kingdom, France, Germany, Belgium, Netherlands, Switzerland.
     
