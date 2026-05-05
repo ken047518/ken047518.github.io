@@ -17,7 +17,7 @@ draft: false
 
 根據以下官方資訊，我持有台灣護照和捷克長期學生簽證，我理當不用去洗簽證。
 
-[**捷克共和國內政部：外籍人士資訊入口網**](https://ipc.gov.cz/en/life-in-the-eu/life-in-the-eu-third-country-nationals/travelling-within-the-schengen-area/)
+### [**捷克共和國內政部：外籍人士資訊入口網**](https://ipc.gov.cz/en/life-in-the-eu/life-in-the-eu-third-country-nationals/travelling-within-the-schengen-area/)
 
 **Can you combine a long-term stay with a short-term one?**
 
@@ -28,7 +28,7 @@ en Area. However, if you have just applied for a residence permit, you cannot ex
 **長期居留與短期停留可以銜接嗎？**
 如果您是享有短期停留免簽證待遇的第三國公民，且您的長期簽證或居留許可即將到期，您可以在長期證件失效後，以免簽證的身分在申根區內繼續停留，每 180 天內最長可達 90 天。直到這 90 天屆滿後，您才必須離開申根區。然而，如果您是處於「剛申請居留許可」的階段，則仍受限於每 180 天內不得超過 90 天的停留上限。
 
-[捷克共和國內政部：第三國國民在歐盟/申根區內的旅遊規定](https://mv.gov.cz/mvcren/article/third-country-nationals-travelling-in-the-eu-schengen.aspx)
+### [捷克共和國內政部：第三國國民在歐盟/申根區內的旅遊規定](https://mv.gov.cz/mvcren/article/third-country-nationals-travelling-in-the-eu-schengen.aspx)
 
 **Summary information about visa-free regime**
 
@@ -37,8 +37,18 @@ en Area. However, if you have just applied for a residence permit, you cannot ex
 中文翻譯：
 在長期簽證或居留證到期之前，持有人通常必須離開申根區；但此規定**不適用**於享有短期免簽證待遇的第三國國民。這類人士在長期簽證或居留證失效後，即可開始其免簽證的短期停留，在任何 180 天的期間內最長可停留 90 天，並在該期限屆滿後才須離開申根區。
 
-[**查理大學社會科學院：VISA RENEWALS**](https://fsv.cuni.cz/en/study/practical-information/visa-renewals)
+### [**查理大學社會科學院：VISA RENEWALS**](https://fsv.cuni.cz/en/study/practical-information/visa-renewals)
 
+As a current student, you likely have one of the two types of legal stay in Czechia:  
+**1) Long-term study visa  
+2)Long-term residence permit for study purposes**
+
+You can apply for renewal of either of those permit types here in Prague. Both applications have to be filed at the Ministry of the Interior (MOI) offices according to your place of residence or at the special MOI office designated for university students only.
+
+If you are a citizen of a country which is exempt from a tourist visa requirement, you can stay for another 90 days on the territory of the Czech Republic or any other Schengen country after the current visa expires. The list of countries whose citizens this regulation applies to is available at [Ministry of Foreign Affairs website](http://www.mzv.cz/jnp/en/information_for_aliens/short_stay_visa/list_of_states_whose_citizens_are_exempt/index.html).  
+Otherwise, **make sure to apply before your current visa/permit expires!** If it does, **you will have to reapply from the beginning in your country of origin.**
+
+中文翻譯：
 身為現職學生，您在捷克境內的合法居留身分通常屬於以下兩種類型之一：
 
 1. **長期就學簽證 (Long-term study visa)**
