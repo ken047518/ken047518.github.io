@@ -11,7 +11,7 @@ draft: false
 ---
 I applied for my Czech visa in the spring of 2024. While it took a lot of time to prepare all the documents, the process was actually quite interesting—it felt like a giant "scavenger hunt"! I’ve provided an application form template and the Czech translation for the criminal record certificate. Overall, I hope this guide helps those in need. Good luck to everyone applying for a Czech student visa! You can start the following process as soon as you receive your Letter of Acceptance (LoA)~~~~
 
-## Preparation Zone
+## Preparation
 
 ### Application Form
 

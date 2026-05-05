@@ -16,11 +16,11 @@ draft: false
 
 閱讀懶人包之前還是建議去看一下完整資料，順便練一下英文閱讀XD
 ### [Long-term Visa for the Purpose of Studies](https://ipc.gov.cz/en/visa-and-residence-permit-types/third-country-nationals/long-term-visa/long-term-visa-for-the-purpose-of-studies/?iqTabs=%7B%220%22%3A1%7D)
-## 準備區
+## 準備文件
 
 ### 申請表
 - **數量**：2（正本+影本）
-- **內容**：基本資料填一填而已，填寫很快有空處理就可以。
+- **內容**：基本資料填一填而已，填寫很快，有空處理就可以。
 	- [官網版本](https://mzv.gov.cz/public/45/84/57/525242_423344_zov_EN.pdf)
 	- [自製範本參考](https://drive.google.com/file/d/1P8kVU57D7P0AX-mcw04ZVClkbUytLVGQ/view?usp=share_link)
 
@@ -42,7 +42,7 @@ draft: false
     
 - **翻譯捷克文本**：要把自己英文版的良民證翻譯成捷克文，詳細的說明可以參照[範例文件](https://docs.google.com/presentation/d/1Et0hAMXXSCxWzXSq9ynNBviLtuMB2qddM-kCtNNsaLo/edit?usp=sharing)！
 
-## 錄取通知、住宿證明
+### 錄取通知、住宿證明
 住學校宿舍的話，付訂金後，請承辦人儘速寄住宿證明給您！外宿的話要聯繫房東請他提供住宿證明。
 
 ### 寄信給捷克辦事處（[Taipei.Visa@mzv.gov.cz](mailto:Taipei.Visa@mzv.gov.cz)）
@@ -63,7 +63,7 @@ Contact telephone numbers:
 
 Email address: 
 
-## 保險
+### 保險
 
 根據《外國人居留法》（Act on the Residence of Foreigners）第 §180 條第 8 款規定，入境捷克的人員必須投保「綜合醫療保險」（komplexní zdravotní pojištění cizinců）。
 
@@ -73,7 +73,7 @@ Email address: 
 - 必須確認保險方案包含「Comprehensive (Komplexní)」字樣。
 - 保險公司選擇：
 	1. [AXA](https://www.axa.com.hk/zh/overseas-student-protection/)：中文介面而且比較便宜。
-	2. [Pojišťovna VZP](https://www.pvzp.cz/en/products/)：只有英文介面，而且好像比較貴。
+	2. [Pojišťovna VZP](https://www.pvzp.cz/en/products/)：我當時買這個，只有英文介面，而且好像比較貴。
 	我沒有特別研究保險內容，但AXA可以選到比較便宜的方案。
 
 ### 拿簽證！
@@ -81,16 +81,16 @@ Email address: 
 我當時申請完兩週就被通知可以去拿了，確定能夠出發後也可以先處理保險，建議還是預留45~60天啦！如果當下有一些小錯都可以現場改，我當時有些影本沒帶到，他還現場幫我印，所以不用壓力太大！Check list在底下不要忘記啦。我當時在簽證生效前先進去歐洲申根區是沒問題的，可以開學前提前去歐洲玩一下哈哈！
 ## Check list
 
-| 名稱          | 數量                                  | 成本                                                             | 備註                                                                                                                                                                     |
-| ----------- | ----------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 申請表         | 2（正本+影本）                            |                                                                | [官網版本](https://mzv.gov.cz/public/45/84/57/525242_423344_zov_EN.pdf)<br>[自製範本參考](https://drive.google.com/file/d/1P8kVU57D7P0AX-mcw04ZVClkbUytLVGQ/view?usp=share_link) |
-| 正本護照＋護照影本   | 3（護照本人+影本* 2）                       |                                                                |                                                                                                                                                                        |
-| 1.5 吋大頭照    | 2（一張要貼在申請表上+一張另外給）                  |                                                                |                                                                                                                                                                        |
-| 學校入學證明（錄取信） | 2（正本+影本）                            |                                                                |                                                                                                                                                                        |
-| 學校住宿證明      | 2（正本+影本）                            |                                                                |                                                                                                                                                                        |
-| 財力證明        | 存款證明：2（正本+影本）<br>卡片證明：3（卡片本人+影本* 2） |                                                                |                                                                                                                                                                        |
-| 良民證         | 2（正本+影本）                            | 1. 警察局第1份 $100，第2,3..份 $20<br>2. 民間公正 $750<br>3. 外交部領事事務所 $400 | [範例文件](https://docs.google.com/presentation/d/1Et0hAMXXSCxWzXSq9ynNBviLtuMB2qddM-kCtNNsaLo/edit?usp=sharing)                                                           |
-| 保險          |                                     |                                                                | 領簽證時候才需要                                                                                                                                                               |
+| 名稱          | 數量                                | 成本                                                             | 備註                                                                                                                                                                     |
+| ----------- | --------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 申請表         | 2（正本+影本）                          |                                                                | [官網版本](https://mzv.gov.cz/public/45/84/57/525242_423344_zov_EN.pdf)<br>[自製範本參考](https://drive.google.com/file/d/1P8kVU57D7P0AX-mcw04ZVClkbUytLVGQ/view?usp=share_link) |
+| 正本護照＋護照影本   | 3（護照+影本* 2）                       |                                                                |                                                                                                                                                                        |
+| 1.5 吋大頭照    | 2（一張要貼在申請表上+一張另外給）                |                                                                |                                                                                                                                                                        |
+| 學校入學證明（錄取信） | 2（正本+影本）                          |                                                                |                                                                                                                                                                        |
+| 學校住宿證明      | 2（正本+影本）                          |                                                                |                                                                                                                                                                        |
+| 財力證明        | 存款證明：2（正本+影本）<br>卡片證明：3（卡片+影本* 2） |                                                                |                                                                                                                                                                        |
+| 良民證         | 2（正本+影本）                          | 1. 警察局第1份 $100，第2,3..份 $20<br>2. 民間公正 $750<br>3. 外交部領事事務所 $400 | [良民證捷克文翻譯](https://docs.google.com/presentation/d/1Et0hAMXXSCxWzXSq9ynNBviLtuMB2qddM-kCtNNsaLo/edit?usp=sharing)                                                       |
+| 保險          |                                   |                                                                | 領簽證時候才需要                                                                                                                                                               |
 
 
 ## 其他參考資料
