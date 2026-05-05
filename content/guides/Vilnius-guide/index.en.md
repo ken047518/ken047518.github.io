@@ -4,7 +4,7 @@ date: 2024-08-31
 modified: 2026-04-25
 description: "Solo Travel Index: ⭐⭐⭐⭐⭐ / Budget Travel Index: ⭐⭐⭐"
 image: Vilnius-2.webp
-featured: true
+featured: false
 location: Vilnius, Lithuania
 draft: false
 summary: To me, Vilnius is a city tailor-made for wandering alone. It carries a touch of coldness yet feels profoundly safe, being boring in just the right way—allowing a traveler to quietly weave through its narrow alleys and feel the city’s raw simplicity. Whether standing atop Gediminas Tower overlooking the vast sea of red roofs, or strolling along fairy-tale cobblestone streets, the city catches every wandering soul with a natural, melancholic beauty.
