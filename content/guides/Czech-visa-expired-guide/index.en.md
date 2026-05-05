@@ -1,5 +1,5 @@
 ---
-title: "Czech Student Visa Expiry: Is a Visa Run Necessary?"
+title: "The Truth About Czech Student Visa Expired: Real Experiences & Expert Tips"
 date: 2024-07-29
 modified: 2026-05-05
 description: Do you actually need a "visa run" for your Czech student visa? What are the limitations? Real experience sharing and a complete guide to help you avoid potential pitfalls!

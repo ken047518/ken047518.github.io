@@ -1,5 +1,5 @@
 ---
-title: "Vilnius: A Baroque Fairy Tale Outside the Tourist Path"
+title: "Lithuania’s Hidden Gem: A Solo Traveler’s Guide to Enchanting Vilnius"
 date: 2024-08-31
 modified: 2026-04-25
 description: "Solo Travel Index: ⭐⭐⭐⭐⭐ / Budget Travel Index: ⭐⭐⭐"

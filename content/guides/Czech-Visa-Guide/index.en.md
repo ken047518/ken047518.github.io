@@ -1,5 +1,5 @@
 ---
-title: The Ultimate Guide to Czech Student Visa Application 2024
+title: "2024 Step-by-Step Guide: Applying for a Czech Student Visa (Templates Included!"
 date: 2024-06-13
 modified: 2026-05-04
 description: "The Ultimate Czech Visa Guide: Complete process, Czech translations for criminal records, and application templates to save you time and money."
