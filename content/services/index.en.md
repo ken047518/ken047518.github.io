@@ -35,7 +35,7 @@ I have extensive experience in event photography, ranging from **high-energy sp
 
 - **Nordic**: Iceland, Norway, Sweden, Denmark, Finland.
     
-- **Northeast Europe**: Estonia, Latvia, Lithuania.
+- **Northeast Europe**: Estonia, Latvia, [Lithuania]((/guides/Vilnius-guide).
     
 - **Western Europe**: Ireland, United Kingdom, France, Germany, Belgium, Netherlands, Switzerland.
     
@@ -53,7 +53,7 @@ I have extensive experience in event photography, ranging from **high-energy sp
 
 - **Camino de Santiago**: Comprehensive guidance on **pre-trip preparation, physical training**, and itinerary planning. I assist with accommodation and transportation arrangements to ensure you have a meaningful and seamless pilgrimage.
     
-- **Kungsleden (The King's Trail), Sweden**: Expert advice on the famous Fjällräven trekking route. I have **self-guided the entire trail** and **summited Sweden’s highest peak**. I provide route planning and logistics to help you conquer this journey.
+- [**Kungsleden (The King's Trail), Sweden**](/guides/Kungsleden): Expert advice on the famous Fjällräven trekking route. I have **self-guided the entire trail** and **summited Sweden’s highest peak**. I provide route planning and logistics to help you conquer this journey.
     
 
 > **Stay tuned! More travel-related services are currently in development.**
