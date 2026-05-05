@@ -32,7 +32,6 @@ Vilnius is a city filled with Baroque charm and fairy-tale scenery. It is not a 
     
 
 ---
-
 ### **Must-Visit Attractions**
 
 - **All Saints Church:** A masterpiece of Baroque architecture with a striking pink-orange facade. During WWII, its monks used the crypts as secret passages to help Jews escape the nearby Ghetto, adding a layer of humanitarian depth to its sacred walls.
