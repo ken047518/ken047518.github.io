@@ -9,7 +9,7 @@ featured: true
 location: Europe
 draft: false
 ---
-### _How to Fly Across Europe on a Student Budget_
+### How to Fly Across Europe on a Student Budget
 
 Airfare in Europe can be unbelievably cheap—sometimes even less than a bus ticket. As a student traveler, I usually fly wherever the price is lowest. After flying with over 10 different airlines in six months, I’ve gathered some "insider tips" that you won't easily find online.
 
@@ -22,10 +22,6 @@ Airfare in Europe can be unbelievably cheap—sometimes even less than a bus tic
 2. **Official App Management**: Once booked, find your 6-digit **Confirmation Number** and import it into the airline’s official app immediately.
     
 3. **Mandatory Online Check-in**: **Do this early!** Especially with Ryanair—if you don’t check in online, they will charge you a hefty fine at the counter.
-    
-4. **Timing**: Arriving 1–2 hours before departure is usually enough, depending on the security queue.
-    
-
 ---
 
 ### ✈️ "Insider" Hacks for Cheaper Tickets
@@ -54,7 +50,7 @@ LCCs offer various tiers, but students almost always choose the basic "no luggag
 - **Wizz Air**: 40 x 30 x 20 cm
     
 
-> [!important] **Pro Tip for Backpackers** I use a **50L soft-frame hiking pack** (see photo). While officially oversized, if it’s not fully packed, you can often "squeeze" it into the sizer box. About 50% of the time, they might ask you to test it. If you're over the limit, wear your heaviest clothes and use your pockets or waist bags to offload weight. It’s a bit of a struggle, but it works!
+Pro Tip for Backpackers: I use a **50L soft-frame hiking pack** (see photo). While officially oversized, if it’s not fully packed, you can often "squeeze" it into the sizer box. About 50% of the time, they might ask you to test it. If you're over the limit, wear your heaviest clothes and use your pockets or waist bags to offload weight. It’s a bit of a struggle, but it works!
 
 ---
 

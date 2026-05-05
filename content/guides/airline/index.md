@@ -12,13 +12,10 @@ draft: false
 ## 歐洲廉航生存攻略
 
 分享個來歐洲必須知道的廉航攻略！歐洲機票常常便宜到不可思議，窮學生差不多就是哪裡便宜往那裡飛，所以整理了一些網路上可能查不到的小攻略。歐洲廉航最常見的就是 Ryanair、Easyjet、Wizz 等等，個人慣用購票程序：
-> 
-> 1. **Skyscanner**：出發地選定後，目的地搜「Everywhere」找靈感。
->     
-> 2. **官方 App 管理**：獲取 6 碼 Confirmation Number 後直接匯入 App。
->     
-> 3. **線上 Check-in**：**務必提前完成！** 尤其是 Ryanair，沒先線上報到現場會被重罰。
->
+
+1. **Skyscanner**：出發地選定後，目的地搜「Everywhere」找靈感。
+2. **官方 App 管理**：獲取 6 碼 Confirmation Number 後直接匯入 App。
+3. **線上 Check-in**：**務必提前完成！** 尤其是 Ryanair，沒先線上報到現場會被重罰。
 
 基本上提前個1~2小時抵達機場都還可以，主要看安檢人多不多。
 
