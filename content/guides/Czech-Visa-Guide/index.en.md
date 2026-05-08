@@ -11,6 +11,31 @@ draft: false
 ---
 I applied for my Czech visa in the spring of 2024. While it took a lot of time to prepare all the documents, the process was actually quite interesting—it felt like a giant "scavenger hunt"! I’ve provided an application form template and the Czech translation for the criminal record certificate. Overall, I hope this guide helps those in need. Good luck to everyone applying for a Czech student visa! You can start the following process as soon as you receive your Letter of Acceptance (LoA)~~~~
 
+## ALL Documents You Need
+
+- **Application Form**: 2 copies (Original + Photocopy)
+    
+- **Passport**: 3 items (Original + 2 Photocopies)
+    
+- **ID Photos (1.5-inch)**: 2 photos
+    
+    - One to be attached to the application form
+        
+    - One provided separately
+        
+- **Letter of Acceptance (Admission Letter)**: 2 copies (Original + Photocopy)
+    
+- **Proof of Accommodation**: 2 copies (Original + Photocopy)
+    
+- **Financial Documents**:
+    
+    - **Bank Statement**: 2 copies (Original + Photocopy)
+        
+    - **Credit/Debit Card Proof**: 3 items (Actual Card + 2 Photocopies)
+        
+- **Police Clearance Certificate (Non-Criminal Record)**: 2 copies (Original + Photocopy)
+    
+- **Proof of Insurance**
 ## Preparation
 
 ### Application Form
