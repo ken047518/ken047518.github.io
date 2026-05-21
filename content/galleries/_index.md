@@ -1,4 +1,4 @@
 ---
 title: 相簿
-description: 來自世界各地旅行的照片相簿
+description: 旅行照片、活動紀錄
 ---
