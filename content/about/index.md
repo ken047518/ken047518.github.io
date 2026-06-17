@@ -23,4 +23,5 @@ image: 2026-01-29_11-21-03.jpeg
 ## 聯絡我們
 
 有任何想法或合作意願？我們樂於傾聽那些關於旅行生活的夢想。
-kai.hsiao@proton.me
+madeyourday.kai@gmail.com
+
