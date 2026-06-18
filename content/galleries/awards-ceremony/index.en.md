@@ -5,7 +5,7 @@ description: Excellent staff, student, alumni, entrepreneurs awards ceremony. Ph
 location: NCU
 image: 20260515_頒獎_0117.webp
 featured: false
-draft: false
+draft: true
 tags:
   - Event-Photography
 ---

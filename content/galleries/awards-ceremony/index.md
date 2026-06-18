@@ -5,7 +5,7 @@ description: 傑出職員、傑出校友、大額捐款人、傑出領導等頒�
 location: 中央大學
 image: 20260515_頒獎_0117.webp
 featured: false
-draft: false
+draft: true
 tags:
   - 活動紀錄
 ---
