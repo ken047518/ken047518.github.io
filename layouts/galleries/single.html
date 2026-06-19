@@ -29,7 +29,7 @@
   </header>
 
   {{- /* Gallery Grid */ -}}
-  <div class="masonry sm:masonry-sm md:masonry-md pswp-gallery" id="gallery--with-custom-caption">
+  <div class="flex flex-row flex-wrap gap-5 justify-around pswp-gallery" id="gallery--with-custom-caption">
   {{- range $.Resources.ByType "image" -}}
     {{- $image := . -}}
     {{- if $image -}}
@@ -42,7 +42,7 @@
         data-pswp-width="{{ $image.Width }}"
         data-pswp-height="{{ $image.Height }}"
         target="_blank"
-        class="block rounded-lg group break-inside mb-4 relative pswp-gallery__item">
+        class="block h-100 grow rounded-lg group break-inside mb-4 relative pswp-gallery__item">
         <img
           src="{{ $image.RelPermalink }}"
           alt="{{ default $.Title $title }}"
