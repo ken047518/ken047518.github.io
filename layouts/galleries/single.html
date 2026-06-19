@@ -30,27 +30,19 @@
 
   {{ $rows := slice }}
   {{ $row := slice }}
-  {{ $width := 0 }}
   {{ $height := 0.0 }}
   {{- range $.Resources.ByType "image" -}}
     {{- $image := . -}}
 
-    {{ $w := 0 }}
-    {{ if gt $image.Width $image.Height }}
-      {{ $w = 2 }}
-    {{ else }}
-      {{ $w = 1 }}
-    {{ end }}
+    {{ $h := div (mul $image.Width 1000) $image.Height }}
 
-    {{ if gt (add $width $w) 4 }}
+    {{ if gt (add $height $h) 3000 }}
       {{ $rows = $rows | append (dict "images" $row "height" (div 1000 $height)) }}
       {{ $row = slice }}
-      {{ $width = 0 }}
       {{ $height = 0.0 }}
     {{ end }}
     {{ $row = $row | append $image }}
-    {{ $width = add $width $w }}
-    {{ $height = add $height (div (mul $image.Width 1000) $image.Height ) }}
+    {{ $height = add $height $h }}
   {{ end }}
   {{ $rows = $rows | append (dict "images" $row "height" (div 1000 $height)) }}
 
