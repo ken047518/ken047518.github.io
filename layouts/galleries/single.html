@@ -28,33 +28,64 @@
     {{ end }}
   </header>
 
-  {{- /* Gallery Grid */ -}}
-  <div class="flex flex-row flex-wrap gap-5 justify-around pswp-gallery" id="gallery--with-custom-caption">
+  {{ $rows := slice }}
+  {{ $row := slice }}
+  {{ $width := 0 }}
   {{- range $.Resources.ByType "image" -}}
     {{- $image := . -}}
-    {{- if $image -}}
-      {{- $title := "" }}
-      {{ with findRESubmatch `\[(.*)\]` $image.Title 1 }}
-        {{- $title = index (index . 0) 1 -}}
-      {{ end }}
 
-      <a href="{{ $image.RelPermalink }}"
-        data-pswp-width="{{ $image.Width }}"
-        data-pswp-height="{{ $image.Height }}"
-        target="_blank"
-        class="block h-100 grow rounded-lg group break-inside mb-4 relative pswp-gallery__item">
-        <img
-          src="{{ $image.RelPermalink }}"
-          alt="{{ default $.Title $title }}"
-          loading="lazy"
-          class="w-full h-full object-cover transition-transform duration-300"
-        >
-        {{- if ne $title "" -}}
-          <div class="bg-black/0 group-hover:bg-black/50 opacity-0 group-hover:opacity-100 duration-300 absolute inset-0 z-10 flex justify-center items-center text-3xl text-white font-semibold">{{ $title }}</div>
-        {{ end }}
-      </a>
+    {{ $w := 0 }}
+    {{ if gt $image.Width $image.Height }}
+      {{ $w = 2 }}
+    {{ else }}
+      {{ $w = 1 }}
+    {{ end }}
+
+    {{ if gt (add $width $w) 4 }}
+      {{ $rows = $rows | append (slice $row 1) }}
+      {{ $row = slice }}
+      {{ $width = 0 }}
+    {{ else }}
+      {{ $row = $row | append $image }}
+      {{ $width = add $width $w }}
+    {{ end }}
+  {{ end }}
+  {{ $rows }}
+
+  {{- /* Gallery Grid */ -}}
+  <div class="pswp-gallery"  id="gallery--with-custom-caption">
+    {{ range $r := $rows }}
+    {{ $r }}
+    <div class="flex flex-row items-stretch w-full gap-5 justify-around">
+      {{- range $image := $r -}}
+        {{- $image := . -}}
+        {{- if $image -}}
+          {{- $title := "" }}
+          {{ with findRESubmatch `\[(.*)\]` $image.Title 1 }}
+            {{- $title = index (index . 0) 1 -}}
+          {{ end }}
+
+          <a href="{{ $image.RelPermalink }}"
+            data-pswp-width="{{ $image.Width }}"
+            data-pswp-height="{{ $image.Height }}"
+            target="_blank"
+            class="h-full w-auto rounded-lg group mb-4 relative pswp-gallery__item">
+            <img
+              src="{{ $image.RelPermalink }}"
+              alt="{{ default $.Title $title }}"
+              loading="lazy"
+              class="h-full object-contain shrink transition-transform duration-300"
+            >
+            {{- if ne $title "" -}}
+              <div class="bg-black/0 group-hover:bg-black/50 opacity-0 group-hover:opacity-100 duration-300 absolute inset-0 z-10 flex justify-center items-center text-3xl text-white font-semibold">{{ $title }}</div>
+            {{ end }}
+          </a>
+          {{- end -}}
       {{- end -}}
-  {{- end -}}
+    </div>
+
+    {{ end }}
+
   </div>
 
   {{- /* Content */ -}}
