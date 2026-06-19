@@ -31,6 +31,7 @@
   {{ $rows := slice }}
   {{ $row := slice }}
   {{ $width := 0 }}
+  {{ $height := 0.0 }}
   {{- range $.Resources.ByType "image" -}}
     {{- $image := . -}}
 
@@ -42,22 +43,36 @@
     {{ end }}
 
     {{ if gt (add $width $w) 4 }}
-      {{ $rows = $rows | append (slice $row 1) }}
+      {{ $rows = $rows | append (dict "images" $row "height" (div 1000 $height)) }}
       {{ $row = slice }}
       {{ $width = 0 }}
-    {{ else }}
-      {{ $row = $row | append $image }}
-      {{ $width = add $width $w }}
+      {{ $height = 0.0 }}
     {{ end }}
+    {{ $row = $row | append $image }}
+    {{ $width = add $width $w }}
+    {{ $height = add $height (div (mul $image.Width 1000) $image.Height ) }}
   {{ end }}
-  {{ $rows }}
+  {{ $rows = $rows | append (dict "images" $row "height" (div 1000 $height)) }}
+  {{ len $rows }}
 
   {{- /* Gallery Grid */ -}}
   <div class="pswp-gallery"  id="gallery--with-custom-caption">
-    {{ range $r := $rows }}
-    {{ $r }}
-    <div class="flex flex-row items-stretch w-full gap-5 justify-around">
-      {{- range $image := $r -}}
+    {{ range $i, $r := $rows }}
+    {{ $h := $r.height }}
+    {{ $h_class := "" }}
+    {{ if gt $h 0.6 }}
+      {{ $h_class = "h-[60dvw]" }}
+    {{ else if gt $h 0.5 }}
+      {{ $h_class = "h-[50dvw]" }}
+    {{ else if gt $h 0.4 }}
+      {{ $h_class = "h-[40dvw]" }}
+    {{ else if gt $h 0.3 }}
+      {{ $h_class = "h-[30dvw]" }}
+    {{ else }}
+      {{ $h_class = "h-[20dvw]" }}
+    {{ end }}
+    <div class="flex flex-row w-full gap-3 justify-around">
+      {{- range $image := $r.images -}}
         {{- $image := . -}}
         {{- if $image -}}
           {{- $title := "" }}
@@ -69,12 +84,12 @@
             data-pswp-width="{{ $image.Width }}"
             data-pswp-height="{{ $image.Height }}"
             target="_blank"
-            class="h-full w-auto rounded-lg group mb-4 relative pswp-gallery__item">
+            class="grow shrink rounded-lg group mb-4 relative pswp-gallery__item">
             <img
               src="{{ $image.RelPermalink }}"
               alt="{{ default $.Title $title }}"
               loading="lazy"
-              class="h-full object-contain shrink transition-transform duration-300"
+              class="{{ $h_class }} w-auto object-contain shrink transition-transform duration-300"
             >
             {{- if ne $title "" -}}
               <div class="bg-black/0 group-hover:bg-black/50 opacity-0 group-hover:opacity-100 duration-300 absolute inset-0 z-10 flex justify-center items-center text-3xl text-white font-semibold">{{ $title }}</div>
