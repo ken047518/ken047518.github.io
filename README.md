@@ -110,17 +110,17 @@ Browse ->
 
 ## Development
 
-Start the Hugo development server:
+看草稿:
 
-```bash
-npm run dev
-```
+    npm run dev
+
+看正式輸出的網站:
+
+    npm run start
 
 ## Building for Production
 
-```bash
-npm run build
-```
+    npm run build
 
 This will:
 1. Build and minify TailwindCSS

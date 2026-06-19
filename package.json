@@ -3,8 +3,8 @@
   "version": "1.0.0",
   "description": "Travel blog and services website",
   "scripts": {
-    "dev": "hugo server",
-    "dev:draft": "hugo server -D",
+    "start": "hugo server",
+    "dev": "hugo server -D",
     "build": "hugo --minify"
   },
   "keywords": [
