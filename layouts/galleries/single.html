@@ -53,7 +53,6 @@
     {{ $height = add $height (div (mul $image.Width 1000) $image.Height ) }}
   {{ end }}
   {{ $rows = $rows | append (dict "images" $row "height" (div 1000 $height)) }}
-  {{ len $rows }}
 
   {{- /* Gallery Grid */ -}}
   <div class="pswp-gallery"  id="gallery--with-custom-caption">
