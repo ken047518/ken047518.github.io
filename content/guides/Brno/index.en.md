@@ -100,7 +100,7 @@ Locals often come here for a jog, or oddly enough, to practice parkour and ride 
     Located on the edge of the city, taking the bus is the most direct option.
     - Take **Bus 8** from near the main train station and get off at the [**Kotlanova**](https://maps.app.goo.gl/YgTETCk1p8grpPeSA).
         
-    - it is about a 30-minute walk to the cliffside viewpoint of the quarry, with the entrance located right by[Hotel VELKÁ KLAJDOVKA](https://maps.app.goo.gl/e8qZi6sZGKTShTB87).There are also other bus routes available that stop even closer to the entrance.
+    - it is about a 30-minute walk to the cliffside viewpoint of the quarry, with the entrance located right by [Hotel VELKÁ KLAJDOVKA](https://maps.app.goo.gl/e8qZi6sZGKTShTB87). There are also other bus routes available that stop even closer to the entrance.
     
     - You can either return the way you came or head out through another exit at [Červený písek](https://maps.app.goo.gl/SuJDtSYo91uz1Zzi6)to take **Bus 64**. This route requires transferring to a tram along the way. There are many ways to navigate the transit here—just follow your map and you will be completely fine!
 
@@ -135,7 +135,7 @@ If you prefer the reassuring feeling of holding a physical ticket, you can purch
 
 #### 🇨🇿 Prague, Czech Republic — A Must-Visit Hub in Central Europe
 
-FlixBus student tickets are dirt cheap! A one-way ticket costs only around 49–120 CZK (which can be as low as 2 USD!!). [Click here for FlixBus discounts & deals]
+_FlixBus student tickets are dirt cheap! A one-way ticket costs only around 49–120 CZK (which can be as low as 2 USD!!). [Click here for FlixBus discounts & deals]_
 
 - **Transport Options**: RegioJet Bus, FlixBus, Czech Railways (ČD) Train
     
@@ -190,9 +190,6 @@ Brno has its own small regional airport. If you are looking to fly to Western or
     
 
 Generally, ticket prices range around **1,000–1,500 NTD**, and the absolute cheapest deals can even drop to **600 NTD**. It is highly recommended to book your flights well in advance!
-
-這裡幫你將這段簡單實用的「住宿攻略」翻譯成高品質英文：
-
 ## 🏨 Accommodation
 
 Anywhere near the Brno Main Train Station (**Brno hl.n.**) is a great place to stay! The most prominent option is the  **Grandhotel Brno**, located right across from the station. The price is approximately **1,500–2,000 NTD** per person per night, while local hostels cost around **600 NTD** per night.
@@ -232,7 +229,7 @@ Anywhere near the Brno Main Train Station (**Brno hl.n.**) is a great place to s
 
 - **Review**: A local Nepalese restaurant recommended by residents, though I haven't had a chance to try it myself.
 
-## 其他推薦
+## Other recommandations
 ### Music Instrument Store：[Kytary - Brno store](https://maps.app.goo.gl/BiQ2RyaEpxP6ZzoT7)
 The biggest music instrument store in Brno, PRS is much cheaper than in Taiwan! You can also see Furch, the brand famous for its hand-made guitar, the sound is amazing!
 
