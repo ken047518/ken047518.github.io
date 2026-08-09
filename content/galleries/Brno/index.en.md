@@ -8,4 +8,6 @@ featured: false
 draft: false
 tags:
   - street-photography
+gallery_category:
+  - Travel
 ---

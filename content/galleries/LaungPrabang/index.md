@@ -10,4 +10,6 @@ tags:
   - 獨旅
   - 街拍
   - 風景
+gallery_category:
+  - 旅行
 ---

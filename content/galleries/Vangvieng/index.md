@@ -6,4 +6,6 @@ location: 寮國 萬榮
 image: Laos_0.webp
 featured: true
 draft: false
+gallery_category:
+  - 旅行
 ---

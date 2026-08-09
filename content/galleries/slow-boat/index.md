@@ -9,4 +9,6 @@ draft: false
 tags:
   - 獨旅
   - 風景
+gallery_category:
+  - 旅行
 ---

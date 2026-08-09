@@ -9,4 +9,6 @@ draft: false
 tags:
   - 東南亞
   - 潛水
+gallery_category:
+  - 旅行
 ---

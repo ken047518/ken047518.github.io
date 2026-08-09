@@ -6,4 +6,6 @@ location: 馬爾默 哥德堡 斯德哥爾摩
 image: Sweden_0011.webp
 featured: false
 draft: false
+gallery_category:
+  - 旅行
 ---

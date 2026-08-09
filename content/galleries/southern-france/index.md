@@ -6,4 +6,6 @@ location: 南法
 image: 2025-07-13-23-25-08.webp
 featured: true
 draft: false
+gallery_category:
+  - 旅行
 ---

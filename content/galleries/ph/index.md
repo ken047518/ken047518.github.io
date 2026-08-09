@@ -6,4 +6,6 @@ location: 菲律賓 馬尼拉
 image: ph_0012.webp
 featured: false
 draft: false
+gallery_category:
+  - 旅行
 ---

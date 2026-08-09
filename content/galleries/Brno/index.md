@@ -8,4 +8,6 @@ featured: false
 draft: false
 tags:
   - 街拍
+gallery_category:
+  - 旅行
 ---
