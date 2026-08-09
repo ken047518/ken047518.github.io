@@ -12,17 +12,17 @@
 
   <div>
     {{ range sort .Site.Taxonomies.gallery_category "Count" "desc" }}
-    <div class="text-center mt-3">
-      <h2 class="text-3xl font-bold text-primary dark:text-primary-dark"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h2>
-      <div class="mt-2 flex flex-nowrap overflow-x-scroll gap-2 scrollbar-thumb-primary">
+    <div class="text-center mb-10">
+      <h2 class="text-3xl font-bold"><a href="{{ .Page.Permalink }}">{{ .Page.Title }}</a></h2>
+      <div class="mt-2 flex flex-nowrap overflow-x-scroll gap-5 scrollbar-thumb-primary">
       {{ range .Pages }}
         {{- $gallery := . -}}
-        <article class="group relative flex-none w-2/3 sm:w-1/2 md:w-1/3 mb-1">
+        <article class="group relative flex-none w-2/3 sm:w-1/2 md:w-1/3 mb-1 bg-bg-alt dark:bg-bg-alt-dark rounded-lg overflow-hidden">
           <a href="{{ .Permalink }}" class="block">
             {{- with .Params.image -}}
               {{- $image := $gallery.Resources.Get . -}}
               {{- if $image -}}
-            <div class="aspect-square overflow-hidden rounded-lg">
+            <div class="aspect-square overflow-hidden mb-0">
               <img
                 src="{{ $image.Permalink }}"
                 alt="{{ with $gallery.Params.image_alt }}{{ . }}{{ else }}{{ $gallery.Title }}{{ end }}"
@@ -34,17 +34,17 @@
             {{- end -}}
 
             {{- /* Hover overlay */ -}}
-            <div class="absolute inset-0 bg-black/0 group-hover:bg-black/50 transition-opacity rounded-lg flex items-center justify-center">
-              <div class="opacity-0 group-hover:opacity-100 transition-opacity text-white text-center p-4">
-                <h3 class="font-heading font-bold text-xl mb-2">
-                  {{ .Title }}
-                </h3>
-                <p class="text-sm">
-                  <time datetime="{{ .Date.Format "2006-01-02" }}">
-                    {{ .Date.Format "January 2, 2006" }}
-                  </time>
-                </p>
-              </div>
+
+            <div class="mt-2 space-y-1 mb-1">
+              <h3 class="font-heading font-bold text-lg group-hover:text-primary dark:group-hover:text-primary-dark transition-colors">
+                {{ .Title }}
+              </h3>
+
+              <p class="text-sm text-gray-500 dark:text-gray-500">
+                <time datetime="{{ .Date.Format "2006-01-02" }}">
+                  {{ .Date.Format "January 2, 2006" }}
+                </time>
+              </p>
             </div>
           </a>
         </article>
@@ -56,7 +56,7 @@
 
   {{- $galleries := .Pages -}}
   {{- if $galleries -}}
-  <h2 class="mt-5 text-3xl font-bold text-center text-primary dark:text-primary-dark">全部相簿</h2>
+  <h2 class="mt-5 text-3xl font-bold text-center">全部相簿</h2>
   <div class="mt-3 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
     {{- range $galleries -}}
     {{- $gallery := . -}}
