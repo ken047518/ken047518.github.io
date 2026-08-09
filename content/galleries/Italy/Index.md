@@ -6,4 +6,6 @@ location: 義大利 梵蒂岡 聖馬利諾
 image: italy_0002_01.webp
 featured: false
 draft: false
+gallery_category:
+  - 旅行
 ---

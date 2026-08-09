@@ -6,4 +6,6 @@ location: 約旦
 image: Jordan_0072.webp
 featured: true
 draft: false
+gallery_category:
+  - 旅行
 ---

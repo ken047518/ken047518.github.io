@@ -8,4 +8,6 @@ featured: false
 draft: true
 tags:
   - 活動紀錄
+gallery_category:
+  - 活動
 ---

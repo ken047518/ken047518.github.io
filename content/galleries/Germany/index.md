@@ -6,4 +6,6 @@ location: 柏林 德勒斯登 萊比錫 瑞士薩克森國家公園
 image: img/Germany_0017.webp
 featured: false
 draft: false
+gallery_category:
+  - 旅行
 ---

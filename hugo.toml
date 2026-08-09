@@ -9,6 +9,11 @@ enableGitInfo = true
   description = 'Travel adventures and guides'
   author = 'KAI'
 
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+  gallery_category = 'gallery_category'
+
 [languages]
   [languages.tw]
     languageCode = 'zh-TW'
