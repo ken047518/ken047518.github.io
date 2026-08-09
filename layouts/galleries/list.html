@@ -17,7 +17,7 @@
       <div class="mt-2 flex flex-nowrap overflow-x-scroll gap-5 scrollbar-thumb-primary">
       {{ range .Pages }}
         {{- $gallery := . -}}
-        <article class="group relative flex-none w-2/3 sm:w-1/2 md:w-1/3 mb-1 bg-bg-alt dark:bg-bg-alt-dark rounded-lg overflow-hidden">
+        <article class="group relative flex-none w-2/3 sm:w-1/2 md:w-1/3 mb-2 bg-bg-alt dark:bg-bg-alt-dark rounded-lg overflow-hidden shadow-md">
           <a href="{{ .Permalink }}" class="block">
             {{- with .Params.image -}}
               {{- $image := $gallery.Resources.Get . -}}
