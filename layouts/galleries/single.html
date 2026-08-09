@@ -44,7 +44,9 @@
     {{ $row = $row | append $image }}
     {{ $height = add $height $h }}
   {{ end }}
-  {{ $rows = $rows | append (dict "images" $row "height" (div 1000 $height)) }}
+  {{ if gt $height 0.0 }}
+    {{ $rows = $rows | append (dict "images" $row "height" (div 1000 $height)) }}
+  {{ end }}
 
   {{- /* Gallery Grid */ -}}
   <div class="pswp-gallery"  id="gallery--with-custom-caption">
