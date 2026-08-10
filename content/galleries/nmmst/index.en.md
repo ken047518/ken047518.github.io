@@ -8,4 +8,5 @@ featured: false
 draft: false
 tags:
 gallery_category:
+  - 活動
 ---
