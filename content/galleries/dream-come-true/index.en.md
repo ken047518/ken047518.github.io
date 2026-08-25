@@ -1,0 +1,11 @@
+---
+title: Dream come true
+date: 2026-08-14
+description: Fire dance performed by Dream Come True
+location: Rongxing Garden Park
+image: 20260814火舞webp_0003.webp
+featured: false
+draft: true
+gallery_category:
+  - Event photography
+---
