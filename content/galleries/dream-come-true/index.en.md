@@ -5,7 +5,7 @@ description: Fire dance performed by Dream Come True
 location: Rongxing Garden Park
 image: 20260814火舞webp_0003.webp
 featured: false
-draft: true
+draft: false
 gallery_category:
   - Event photography
 ---
