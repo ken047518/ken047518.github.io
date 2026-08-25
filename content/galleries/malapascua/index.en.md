@@ -9,4 +9,6 @@ draft: false
 tags:
   - south-east-asia
   - scuba-diving
+gallery_category:
+  - Travel
 ---

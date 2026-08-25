@@ -6,4 +6,6 @@ location: Berlin, Dresden, Leipzig, Saxon Switzerland National Park
 image: img/Germany_0017.webp
 featured: false
 draft: false
+gallery_category:
+  - Travel
 ---

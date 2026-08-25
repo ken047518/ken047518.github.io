@@ -6,4 +6,6 @@ location: Italy, San Marino, Vatican
 image: italy_0002_01.webp
 featured: false
 draft: false
+gallery_category:
+  - Travel
 ---

@@ -8,4 +8,6 @@ featured: false
 draft: false
 tags:
   - solo-travel
+gallery_category:
+  - Travel
 ---

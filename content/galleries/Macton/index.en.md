@@ -6,4 +6,6 @@ location: Macton Island, Philippines
 image: macton_0050.webp
 featured: false
 draft: false
+gallery_category:
+  - Travel
 ---

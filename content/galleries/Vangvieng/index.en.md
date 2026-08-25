@@ -6,4 +6,6 @@ location: Vangvieng, Laos.
 image: Laos_0.webp
 featured: true
 draft: false
+gallery_category:
+  - Travel
 ---

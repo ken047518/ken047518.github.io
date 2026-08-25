@@ -6,4 +6,6 @@ location: Manila, Philippines
 image: ph_0012.webp
 featured: false
 draft: false
+gallery_category:
+  - Travel
 ---

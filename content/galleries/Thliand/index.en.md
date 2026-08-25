@@ -9,4 +9,6 @@ draft: false
 tags:
   - south-east-asia
   - solo-travel
+gallery_category:
+  - Travel
 ---

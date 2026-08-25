@@ -9,4 +9,6 @@ draft: false
 tags:
   - solo-travel
   - landscape
+gallery_category:
+  - Travel
 ---

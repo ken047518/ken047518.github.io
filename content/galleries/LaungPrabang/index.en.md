@@ -10,4 +10,6 @@ tags:
   - solo-travel
   - landscape
   - street-photography
+gallery_category:
+  - Travel
 ---

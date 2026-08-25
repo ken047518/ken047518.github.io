@@ -4,6 +4,8 @@ date: 2025-06-01
 description: Photos in Jordan
 location: Jordan
 image: Jordan_0072.webp
-featured: true
+featured: false
 draft: false
+gallery_category:
+  - Travel
 ---

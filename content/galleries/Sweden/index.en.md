@@ -6,4 +6,6 @@ location: Malmö, Gothenburg, Stockholm
 image: Sweden_0011.webp
 featured: false
 draft: false
+gallery_category:
+  - Travel
 ---

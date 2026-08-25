@@ -6,4 +6,6 @@ location: Jerusalem, Israel
 image: Israel_0016.webp
 featured: false
 draft: false
+gallery_category:
+  - Travel
 ---
