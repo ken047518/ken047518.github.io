@@ -7,5 +7,5 @@ image: Germany_0008.webp
 featured: false
 draft: false
 gallery_category:
-  - street photography
+  - Street photography
 ---
