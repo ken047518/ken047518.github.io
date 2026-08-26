@@ -1,5 +1,5 @@
 ---
-title: Dream come true
+title: Coming True Fire Show
 date: 2026-08-14
 description: Fire dance performed by Dream Come True
 location: Rongxing Garden Park
