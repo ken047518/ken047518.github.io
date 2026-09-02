@@ -11,7 +11,7 @@ Hello, I am **Kai** from Taiwan, a 22-year-old traveler who has explored nearly
 📍 Eswatini
 > <br>
 > 
-> **YouTube**｜流浪ㄉ Kai
+> **YouTube**｜KAI
 > 
 > **Instagram**｜@homeless_kai
 > 

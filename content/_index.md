@@ -18,7 +18,7 @@ tagline: 一場意外的獨旅開啟的冒險故事
 > 
 > 
 > 
-> **YouTube**｜流浪ㄉ Kai
+> **YouTube**｜KAI
 > 
 > **Instagram**｜@homeless_kai
 > 
