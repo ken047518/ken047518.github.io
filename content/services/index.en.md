@@ -18,7 +18,7 @@ I collaborate with professional models and am open to discussing **any photogra
 
 I have extensive experience in event photography, ranging from **high-energy sports competitions** to **professional event documentation**. With a keen eye for detail, I specialize in capturing the **most vivid and spontaneous moments**. Please feel free to send a direct message for any event inquiries.
 
-📍 **Current Location:** Taiwan
+📍 **Current Location:** Eswatini
 
 ---
 
