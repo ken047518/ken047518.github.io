@@ -36,4 +36,4 @@ draft: false
 其他旅行相關服務籌備中...
 
 
-任何夢想皆可洽詢：kai.hsiao@proton.me
+任何夢想皆可洽詢：madeyourday.kai@gmail.com
