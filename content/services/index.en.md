@@ -14,7 +14,7 @@ With experience capturing moments across **40 countries worldwide**, I am well-
 
 I collaborate with professional models and am open to discussing **any photography style**. My work primarily focuses on **on-location outdoor shoots** to capture natural light and unique environments.
 
-### **Event Coverage**
+### **Event Photography
 
 I have extensive experience in event photography, ranging from **high-energy sports competitions** to **professional event documentation**. With a keen eye for detail, I specialize in capturing the **most vivid and spontaneous moments**. Please feel free to send a direct message for any event inquiries.
 
