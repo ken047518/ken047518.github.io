@@ -5,19 +5,19 @@ description: 在社群媒體和其他平台上與我們聯繫
 background: Israel-bg.webp
 links:
   - title: YouTube
-    url: https://www.youtube.com/@madeyourdaylife
+    url: https://www.youtube.com/@流浪KAI
     icon: fa-brands fa-youtube
     description: 旅遊影片與目的地指南
   - title: Instagram
-    url: https://www.instagram.com/madeyourday.life/
+    url: https://www.instagram.com/homeless_kai/
     icon: fa-brands fa-instagram
     description: 每日旅遊靈感與照片
-  - title: Facebook
-    url: https://www.facebook.com/madeyourdaylife
-    icon: fa-brands fa-facebook
-    description: 加入我們的旅遊社群
+  # - title: Facebook
+  #   url: https://www.facebook.com/madeyourdaylife
+  #   icon: fa-brands fa-facebook
+  #   description: 加入我們的旅遊社群
   - title: Email
-    url: mailto:hello@madeyourday.life
+    url: mailto:madeyourday.kai@gmail.com
     icon: fa-solid fa-envelope
     description: 與我們聯繫
 ---
