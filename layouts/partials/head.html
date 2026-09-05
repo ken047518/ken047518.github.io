@@ -27,7 +27,7 @@
 {{- end -}}
 
 {{- /* Open Graph */ -}}
-<meta property="og:title" content="{{ .Title }}">
+<meta property="og:title" content="{{ .Title }} - {{ .Site.Title }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
 
@@ -57,7 +57,7 @@
 
 {{- /* Twitter Card */ -}}
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:title" content="{{ .Title }}">
+<meta name="twitter:title" content="{{ .Title }} - {{ .Site.Title }}">
 {{- with $og_image -}}
   {{- $image := $.Resources.Get . -}}
   {{- if $image -}}
