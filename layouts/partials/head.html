@@ -30,13 +30,23 @@
 <meta property="og:title" content="{{ .Title }}">
 <meta property="og:type" content="{{ if .IsPage }}article{{ else }}website{{ end }}">
 <meta property="og:url" content="{{ .Permalink }}">
-{{- with .Params.image -}}
+
+{{ $og_image := "" }}
+
+{{- with .Params.og_image -}}
+  {{ $og_image = . }}
+{{- else with .Params.image -}}
+  {{ $og_image = . }}
+{{- end -}}
+
+{{- with $og_image -}}
   {{- $image := $.Resources.Get . -}}
   {{- if $image -}}
-    {{- $resized := $image.Resize "1200x630" -}}
-<meta property="og:image" content="{{ $resized.Permalink }}">
+    {{- $resized := $image.Fill "1200x630" -}}
+  <meta property="og:image" content="{{ $resized.Permalink }}">
   {{- end -}}
 {{- end -}}
+
 {{- with .Description -}}
 <meta property="og:description" content="{{ . }}">
 {{- else -}}
@@ -48,10 +58,10 @@
 {{- /* Twitter Card */ -}}
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="{{ .Title }}">
-{{- with .Params.image -}}
+{{- with $og_image -}}
   {{- $image := $.Resources.Get . -}}
   {{- if $image -}}
-    {{- $resized := $image.Resize "1200x630" -}}
+    {{- $resized := $image.Fill "1200x630" -}}
 <meta name="twitter:image" content="{{ $resized.Permalink }}">
   {{- end -}}
 {{- end -}}
