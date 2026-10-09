@@ -26,3 +26,4 @@ Thumbs.db
 
 # Obsidian
 .obsidian/
+.zed/settings.json
