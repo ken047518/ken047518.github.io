@@ -6,13 +6,11 @@ bio_image: bio.jpg
 tagline: AN ADVENTURE STARTS FROM AN ACCIDENT
 draft: false
 ---
-Hello, I am **Kai** from Taiwan, a 22-year-old traveler who has explored nearly 40 countries. My path began as a football player and guitarist, but a life-changing exchange in the Czech Republic turned my world into a permanent expedition. From trekking the Swedish Arctic and Camino de Santiago, to surviving air raids in Jerusalem, my journey is a search for life’s rawest truths. I photograph the world's warmth and document the stories that make us feel alive.<br><br>
+
+Hello, I am **Kai** from Taiwan, a 22-year-old traveler who has explored nearly 40 countries. My path began as a football player and guitarist, but a life-changing exchange in the Czech Republic turned my world into a permanent expedition. From trekking the Swedish Arctic and Camino de Santiago, to surviving air raids in Jerusalem, my journey is a search for life’s rawest truths. I photograph the world's warmth and document the stories that make us feel alive.
 
 📍 Eswatini
-> <br>
-> 
-> **YouTube**｜KAI
-> 
-> **Instagram**｜@homeless_kai
-> 
-> **Contact**｜madeyourday.kai@gmail.com
+
+**YouTube**｜[流浪KAI](https://www.youtube.com/@流浪KAI)  
+**Instagram**｜[@homeless_kai](https://www.instagram.com/homeless_kai)  
+**Contact**｜[madeyourday.kai@gmail.com](mailto:madeyourday.kai@gmail.com)
