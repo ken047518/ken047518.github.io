@@ -5,7 +5,7 @@ description: Event photography in banquet of Taiwan national celebration
 location: Happy Valley Hotel & Casino
 image: image/20260930.webp
 featured: true
-draft: false
+draft: true
 gallery_category:
   - Event photography
 ---
