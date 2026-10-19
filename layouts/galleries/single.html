@@ -36,7 +36,7 @@
 
     {{ $h := div (mul $image.Width 1000) $image.Height }}
 
-    {{ if gt (add $height $h) 3000 }}
+    {{ if gt (add $height $h) 3200 }}
       {{ $rows = $rows | append (dict "images" $row "height" (div 1000 $height)) }}
       {{ $row = slice }}
       {{ $height = 0.0 }}
