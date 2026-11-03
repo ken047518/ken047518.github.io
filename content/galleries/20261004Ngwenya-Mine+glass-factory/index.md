@@ -8,5 +8,4 @@ featured: false
 draft: false
 gallery_category:
   - 旅行
-  - 人像
 ---

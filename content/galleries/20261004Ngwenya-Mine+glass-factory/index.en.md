@@ -8,5 +8,4 @@ featured: false
 draft: false
 gallery_category:
   - Travel
-  - Portrait photography
 ---
